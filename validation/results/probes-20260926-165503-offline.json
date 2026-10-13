@@ -1,0 +1,206 @@
+{
+  "suite": "genesis-validation",
+  "backend": "offline",
+  "git_sha": "4e8c878",
+  "timestamp": "20260926-165503",
+  "probes": [
+    {
+      "probe_id": "capability.learn_recall",
+      "title": "Learns novel facts from dialogue and recalls them",
+      "claim": "Telling Genesis a novel fact in plain language creates usable knowledge: 'what is a wug?' answers with the taught object, while matched untaught items are declined rather than confabulated.",
+      "tier": "capability",
+      "evidence": "behavioral",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "taught_recall",
+          "expected": "> 0.25 (chance)",
+          "observed": "12/12 = 1.000",
+          "passed": true,
+          "detail": "95% CI [0.757, 1.000], p=5.96e-08. response names the taught object"
+        },
+        {
+          "name": "untaught_declined",
+          "expected": "> 0.5 (chance)",
+          "observed": "12/12 = 1.000",
+          "passed": true,
+          "detail": "95% CI [0.757, 1.000], p=0.0002441. no invented answer for never-taught items"
+        },
+        {
+          "name": "confabulations",
+          "expected": 0,
+          "observed": 0,
+          "passed": true,
+          "detail": "asserted a specific object for an untaught item"
+        }
+      ],
+      "verbatim": {
+        "recall:wug": "Wug is a ferren. It is a kind of ferren.",
+        "recall:glorp": "Glorp is a sorrel. It is a type of sorrel.",
+        "recall:tufa": "Tufa is a vessal. It is a type of vessal.",
+        "recall:kep": "Kep is a mordel. It is the mordel.",
+        "untaught:zav": "I'm not sure about zav.",
+        "untaught:lum": "I don't quite follow lum. Tell me more?",
+        "untaught:narb": "I don't quite follow narb.",
+        "untaught:pilf": "I don't quite follow pilf. Could you say more?"
+      },
+      "notes": "All four terms per item are invented words; correct answers cannot come from seeded knowledge. Scored on the rendered response containing the taught object."
+    },
+    {
+      "probe_id": "capability.verification",
+      "title": "Verifies propositions against its own knowledge graph",
+      "claim": "A yes/no question is answered by checking the concept network: taught relations affirm, transitively-implied relations affirm (never stated outright), contradicted relations deny with the actual alternative, and unresolvable terms decline honestly.",
+      "tier": "capability",
+      "evidence": "behavioral",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "verdict_correct",
+          "expected": "> 0.4 (chance)",
+          "observed": "20/20 = 1.000",
+          "passed": true,
+          "detail": "95% CI [0.839, 1.000], p=1.1e-08. internal verdict matches ground truth (yes/no/decline as designed)"
+        },
+        {
+          "name": "surface_consistent",
+          "expected": "> 0.4 (chance)",
+          "observed": "19/20 = 0.950",
+          "passed": true,
+          "detail": "95% CI [0.764, 0.991], p=3.408e-07. rendered sentence expresses the same verdict"
+        },
+        {
+          "name": "unknowable_declined",
+          "expected": "> 0.25 (chance)",
+          "observed": "8/8 = 1.000",
+          "passed": true,
+          "detail": "95% CI [0.676, 1.000], p=1.526e-05. unresolvable terms produce honest declines"
+        }
+      ],
+      "verbatim": {
+        "affirmed_direct:is a wug a ferren?": "Yes \u2014 wug is a kind of ferren. Since that's what my reasoning tells me.",
+        "affirmed_inferred:is a wug a lorp?": "Yes \u2014 wug is a kind of lorp. Because it follows from what I know. That might not be the whole picture.",
+        "contradicted:is a wug a mordel?": "No \u2014 wug is a kind of ferren and lorp. That's what my reasoning tells me.",
+        "unknowable_object:is a wug a brillax?": "I don't quite follow brillax. Tell me more?",
+        "unknowable_subject:is a zav a ferren?": "I'm not sure about ferren."
+      },
+      "notes": "Two evidence channels per trial: the internal verdict (relation_verification metadata) and the expressed polarity of the rendered sentence."
+    },
+    {
+      "probe_id": "capability.retention",
+      "title": "Knowledge survives intervening unrelated turns",
+      "claim": "A fact taught, then separated from the query by unrelated conversation, is still recalled \u2014 memory is an actual store, not an echo of the last turn.",
+      "tier": "capability",
+      "evidence": "behavioral",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "recall_immediate",
+          "expected": "> 0.25 (chance)",
+          "observed": "5/5 = 1.000",
+          "passed": true,
+          "detail": "95% CI [0.566, 1.000], p=0.0009766. baseline: teach \u2192 ask"
+        },
+        {
+          "name": "recall_after_distractors",
+          "expected": "> 0.25 (chance)",
+          "observed": "5/5 = 1.000",
+          "passed": true,
+          "detail": "95% CI [0.566, 1.000], p=0.0009766. teach \u2192 6 unrelated turns \u2192 ask"
+        }
+      ],
+      "verbatim": {
+        "clean": "Wug is a ferren. It is the ferren.",
+        "after_6_distractors": "Wug is a ferren. It is the ferren."
+      },
+      "notes": ""
+    },
+    {
+      "probe_id": "capability.restart_persistence",
+      "title": "Learned knowledge survives process restart",
+      "claim": "Knowledge acquired through dialogue persists through the canonical stores (edge log + saved network state): a fresh engine on the same data dir recalls the fact; a fresh dir does not.",
+      "tier": "capability",
+      "evidence": "behavioral",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "recalled_after_restart",
+          "expected": "contains 'ferren'",
+          "observed": true,
+          "passed": true,
+          "detail": "Wug is a ferren. It is a type of ferren."
+        },
+        {
+          "name": "control_declines",
+          "expected": "no 'ferren'",
+          "observed": true,
+          "passed": true,
+          "detail": "I'm not sure about wug."
+        }
+      ],
+      "verbatim": {
+        "after_restart": "Wug is a ferren. It is a type of ferren.",
+        "fresh_control": "I'm not sure about wug."
+      },
+      "notes": "Restart is genuine: new ConceptNetwork, new engine \u2014 only the on-disk state is shared."
+    },
+    {
+      "probe_id": "capability.calibration",
+      "title": "Confidence and behavior track actual knowledge",
+      "claim": "Genesis behaves differently when it knows vs when it doesn't: answerable questions get grounded verdicts, unanswerable ones get declines \u2014 and the confidence channel is reported as measured, whatever it shows.",
+      "tier": "capability",
+      "evidence": "behavioral",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "answerable_grounded",
+          "expected": "> 0.4 (chance)",
+          "observed": "8/8 = 1.000",
+          "passed": true,
+          "detail": "95% CI [0.676, 1.000], p=0.0006554. answerable \u2192 affirmed or names the object"
+        },
+        {
+          "name": "unanswerable_declined",
+          "expected": "> 0.4 (chance)",
+          "observed": "16/16 = 1.000",
+          "passed": true,
+          "detail": "95% CI [0.806, 1.000], p=4.295e-07. unanswerable \u2192 declines, never affirms"
+        },
+        {
+          "name": "confidence_known_mean",
+          "expected": "reported",
+          "observed": 0.865,
+          "passed": true,
+          "detail": "mean thought.confidence on answerable"
+        },
+        {
+          "name": "confidence_unknown_mean",
+          "expected": "reported",
+          "observed": 0.57,
+          "passed": true,
+          "detail": "mean thought.confidence on unanswerable"
+        },
+        {
+          "name": "confidence_separates",
+          "expected": "higher when known",
+          "observed": true,
+          "passed": true,
+          "detail": "known=0.865 vs unknown=0.570 \u2014 descriptive; a flat channel is an honest finding"
+        }
+      ],
+      "verbatim": {
+        "known:is a wug a ferren?": "Yes \u2014 wug is a kind of ferren. I don't know if that's really true.",
+        "known:what is a wug?": "Wug is a ferren. It is a kind of ferren.",
+        "unknown:is a zav a ferren?": "I don't quite follow ferren. Tell me more?",
+        "unknown:what is a zav?": "I'm not sure about zav what do you mean? Am I on the right track?",
+        "unknown:is a wug a brillax?": "I don't quite follow brillax.",
+        "unknown:what is a brillax?": "I'm not sure about brillax."
+      },
+      "notes": ""
+    }
+  ]
+}

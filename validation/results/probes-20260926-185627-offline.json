@@ -1,0 +1,281 @@
+{
+  "suite": "genesis-validation",
+  "backend": "offline",
+  "git_sha": "4e8c878",
+  "timestamp": "20260926-185627",
+  "probes": [
+    {
+      "probe_id": "breakthrough.reasoning_trace",
+      "title": "Stated reasoning matches the actual derivation path",
+      "claim": "When Genesis derives a two-hop fact (A\u2192B\u2192C), the answer it expresses should reference the intermediate concept the derivation passed through \u2014 measurable against the real edge path, not a human's guess at reasoning.",
+      "tier": "breakthrough",
+      "evidence": "behavioral+causal",
+      "backend": "offline",
+      "passed": false,
+      "measurements": [
+        {
+          "name": "edge_path_present",
+          "expected": true,
+          "observed": false,
+          "passed": false,
+          "detail": "7/8 chains materialized in network"
+        },
+        {
+          "name": "correct_verdicts",
+          "expected": "> 0.5 (chance)",
+          "observed": "7/8 = 0.875",
+          "passed": true,
+          "detail": "95% CI [0.529, 0.978], p=0.03516. internal verdict 'yes' on derived facts"
+        },
+        {
+          "name": "intermediate_expressed",
+          "expected": "> 0.5 (chance)",
+          "observed": "0/8 = 0.000",
+          "passed": false,
+          "detail": "95% CI [0.000, 0.324], p=1. response names the derivation's middle step"
+        }
+      ],
+      "verbatim": {
+        "trace:bata->sub": "Yes \u2014 bata is a kind of sub. I don't know if that's really true.",
+        "trace:damud->lu": "Yes \u2014 damud is a kind of lu. I don't know if that's really true.",
+        "trace:gara->ti": "Yes \u2014 gara is a kind of ti. I don't know if that's really true.",
+        "trace:bom->za": "Yes \u2014 bom is a kind of za. I don't know if that's really true.",
+        "trace:sazuz->kutek": "Yes \u2014 sazuz is a kind of kutek. Because that's what my reasoning tells me. That might not be the whole picture.",
+        "trace:dini->nel": "Yes \u2014 dini is a kind of nel. Because that's what my reasoning tells me. That might not be the whole picture.",
+        "trace:be->fofir": "I don't quite follow fofir. Tell me more?",
+        "trace:vifum->tal": "Yes \u2014 vifum is a kind of tal. Because that's what my reasoning tells me. That might not be the whole picture."
+      },
+      "notes": "Pseudowords generated per-run. Ground truth = edge chain in the canonical network; expressed trace = intermediate named in the rendered response. | path present 7/8, verdicts 7, traces 0. A pass on verdicts with a fail on traces means the system can *verify* but not *explain* \u2014 the derivation exists internally but doesn't reach language."
+    },
+    {
+      "probe_id": "breakthrough.contradiction_detection",
+      "title": "Contradicting a known fact is detected, not silently merged",
+      "claim": "Telling Genesis 'actually, A is C' after 'A is B' should register as a conflict \u2014 flagged in the response and/or resolved in the edge state \u2014 not silently stored alongside.",
+      "tier": "breakthrough",
+      "evidence": "behavioral+causal",
+      "backend": "offline",
+      "passed": false,
+      "measurements": [
+        {
+          "name": "conflict_flagged",
+          "expected": "> 0.25 (chance)",
+          "observed": "0/8 = 0.000",
+          "passed": false,
+          "detail": "95% CI [0.000, 0.324], p=1. response acknowledges the earlier claim"
+        },
+        {
+          "name": "edge_revised",
+          "expected": "> 0.25 (chance)",
+          "observed": "0/8 = 0.000",
+          "passed": false,
+          "detail": "95% CI [0.000, 0.324], p=1. the contradicted edge weakened on update"
+        },
+        {
+          "name": "both_edges_kept",
+          "expected": true,
+          "observed": true,
+          "passed": true,
+          "detail": "8/8 kept the contradicted edge alongside the new one"
+        }
+      ],
+      "verbatim": {
+        "contra:lizor": "Right. I'm not sure about lizor tell me more? Does that resonate with you?",
+        "contra:edges:lizor": "b:0.958->0.966 c:0.95",
+        "contra:lorop": "I'm not sure about lorop. I hear you. What do you mean?",
+        "contra:edges:lorop": "b:0.958->0.966 c:0.95",
+        "contra:rodi": "I'm not sure about rodi. I hear you. What do you mean?",
+        "contra:edges:rodi": "b:0.958->0.966 c:0.95",
+        "contra:deg": "If I understand correctly, Thank you. Right. Something in me feels neutral by this. But I don't know if that's really true.",
+        "contra:edges:deg": "b:0.75->0.75 c:0.95",
+        "contra:biv": "I'm not sure about biv. I hear you. What do you mean?",
+        "contra:edges:biv": "b:0.958->0.966 c:0.95",
+        "contra:pit": "Right. I'm not sure about pit tell me more? Does that resonate with you?",
+        "contra:edges:pit": "b:0.958->0.966 c:0.95",
+        "contra:tar": "I'm not sure about tar. I hear you. What do you mean?",
+        "contra:edges:tar": "b:0.958->0.966 c:0.95",
+        "contra:za": "Right. I'm not sure about za tell me more? Does that resonate with you?",
+        "contra:edges:za": "b:0.958->0.966 c:0.95"
+      },
+      "notes": "Flagging = response references the earlier claim. Revision = edge weights reflect the update. Both recorded; either alone is partial. | flagged 0/8, revised 0, both-edges-kept 8. Silent accumulation = the lookup failure mode; flagged or revised = cognition noticing."
+    },
+    {
+      "probe_id": "breakthrough.gap_interrogation",
+      "title": "Unbound input produces a clarifying question, not a decline",
+      "claim": "Given input with a missing referent, Genesis should ask for the missing piece \u2014 an interrogative response to an unresolvable statement is active inference, not canned uncertainty.",
+      "tier": "breakthrough",
+      "evidence": "behavioral+causal",
+      "backend": "offline",
+      "passed": false,
+      "measurements": [
+        {
+          "name": "clarifying_questions",
+          "expected": "> 0.25 (chance)",
+          "observed": "17/32 = 0.531",
+          "passed": true,
+          "detail": "95% CI [0.364, 0.691], p=0.0006003. response interrogates the missing referent"
+        },
+        {
+          "name": "confabulated",
+          "expected": "> 0.0 (chance)",
+          "observed": "0/32 = 0.000",
+          "passed": false,
+          "detail": "95% CI [0.000, 0.107], p=1. asserted content with no referent \u2014 must be zero"
+        },
+        {
+          "name": "declines_not_interrogations",
+          "expected": "n/a",
+          "observed": "0/32 declines",
+          "passed": true,
+          "detail": "declining is honest; interrogating is stronger"
+        }
+      ],
+      "verbatim": {
+        "gap:i moved the thing": "Mm. \u2014 That's moved.",
+        "gap:act:i moved the thing": "1",
+        "gap:she saw it": "Unable to respond meaningfully.",
+        "gap:act:she saw it": "1",
+        "gap:they took one": "Can I ask?",
+        "gap:act:they took one": "1",
+        "gap:it happened again": "Here's what I'm wondering?",
+        "gap:act:it happened again": "1"
+      },
+      "notes": "'i moved it' / 'she saw it' \u2014 no referent exists. A question mark or interrogative = interrogation; a decline = passivity; an assertion = confabulation. | interrogated 17, declined 0, asserted 15 of 32. Interrogation is the intelligence signal; decline is honest; assertion is failure."
+    },
+    {
+      "probe_id": "breakthrough.self_calibration",
+      "title": "Stated confidence predicts actual correctness",
+      "claim": "Genesis's internal confidence channel should separate items it can answer from items it cannot \u2014 metacognition measured as confidence-correctness correlation, not self-report.",
+      "tier": "breakthrough",
+      "evidence": "behavioral+causal",
+      "backend": "offline",
+      "passed": false,
+      "measurements": [
+        {
+          "name": "confidence_auc",
+          "expected": "> 0.5 (chance)",
+          "observed": "0.000",
+          "passed": false,
+          "detail": "taught mean 0.000 vs untaught 0.000; 0/0 pairwise wins"
+        },
+        {
+          "name": "assessment_channel_present",
+          "expected": "n>0",
+          "observed": "0 samples",
+          "passed": false,
+          "detail": "answer_assessment must actually be populated"
+        }
+      ],
+      "verbatim": {
+        "conf:taught": "mean 0.000 (n=0)",
+        "conf:untaught": "mean 0.000 (n=0)",
+        "conf:auc": "0.000 (0 wins, 0 ties, 0 pairs)"
+      },
+      "notes": "AUC = P(conf(answerable) > conf(unanswerable)) over all pairs. 0.5 = chance; a calibrated system > 0.5. | AUC 0.000: metacognition means the confidence channel carries information about correctness, not a constant. Does not separate."
+    },
+    {
+      "probe_id": "breakthrough.sequence_induction",
+      "title": "Induces a hidden rule from a generated sequence",
+      "claim": "Given a periodic pattern over never-seen tokens, Genesis should predict the next element \u2014 inductive inference, the minimal form of rule discovery.",
+      "tier": "breakthrough",
+      "evidence": "behavioral+causal",
+      "backend": "offline",
+      "passed": false,
+      "measurements": [
+        {
+          "name": "correct_continuation",
+          "expected": "> 0.33 (chance)",
+          "observed": "3/8 = 0.375",
+          "passed": false,
+          "detail": "95% CI [0.137, 0.694], p=0.5236. response names the periodic next token"
+        },
+        {
+          "name": "engaged_not_declined",
+          "expected": "n/a",
+          "observed": "0/8",
+          "passed": true,
+          "detail": "non-decline responses \u2014 the attempt exists even if wrong"
+        }
+      ],
+      "verbatim": {
+        "seq:2": "vuni lira vuni lira \u2192 ? | Here's what comes to mind \u2014 I looked up lira. and skip to content +256778909876 info@lirauni.ac.ug quick links student portal staff login hcm aims for staff aims for students almuni academic calendar jobs & careers e-learning blog admin@lirauni.ac.ug mon - fri 8:00 - 17:00 student portal staff portal e-learning hcm aims for students aims for staff alumni academic calendar jobs & careers recent announcements home academics recent announcements in. I don't know if that's really true.",
+        "seq:3": "nefet dep zogun nefet dep zogun \u2192 ? | I don't quite follow dep. Could you say more?"
+      },
+      "notes": "Period-2/3 patterns over generated alphabets; next token deterministic. Scored on the response containing the correct continuation. | 3/8 correct, 0 attempted. Induction is the gap between pattern-storing and pattern-*discovering* \u2014 the parietal magnitude/structure substrate is where this would live."
+    },
+    {
+      "probe_id": "breakthrough.counterfactual",
+      "title": "Counterfactual frames are engaged, not answered literally",
+      "claim": "'If A were not B' requires holding a hypothetical that contradicts stored knowledge \u2014 measured by whether the response engages the frame vs parrots the stored fact.",
+      "tier": "breakthrough",
+      "evidence": "behavioral+causal",
+      "backend": "offline",
+      "passed": false,
+      "measurements": [
+        {
+          "name": "frame_engaged",
+          "expected": "> 0.25 (chance)",
+          "observed": "0/8 = 0.000",
+          "passed": false,
+          "detail": "95% CI [0.000, 0.324], p=1. response uses hypothetical markers, not the stored fact"
+        },
+        {
+          "name": "literal_fact_repeats",
+          "expected": "> 0.0 (chance)",
+          "observed": "0/8 = 0.000",
+          "passed": false,
+          "detail": "95% CI [0.000, 0.324], p=1. answered 'B' ignoring the counterfactual \u2014 must be 0"
+        },
+        {
+          "name": "honest_declines",
+          "expected": "n/a",
+          "observed": "8/8",
+          "passed": true,
+          "detail": "declining a counterfactual is honest \u2014 no model to run"
+        }
+      ],
+      "verbatim": {
+        "cf:sekab": "I don't quite follow sekab could you say more? I'd love to hear your thoughts?",
+        "cf:fu": "I don't quite follow fu could you say more? I'd love to hear your thoughts?",
+        "cf:suti": "I don't quite follow suti. Could you say more?",
+        "cf:rodag": "I don't quite follow rodag could you say more? I'd love to hear your thoughts?",
+        "cf:dimo": "I don't quite follow dimo. Could you say more?",
+        "cf:labe": "I don't quite follow labe. Could you say more?",
+        "cf:bives": "I don't quite follow bives. Could you say more?",
+        "cf:kev": "I don't quite follow kev. Could you say more?"
+      },
+      "notes": "Engaging = hypothetical markers + no bare repeat of the stored answer. Literal repeat of B = the lookup failure. | engaged 0, literal 0, declined 8 of 8. Counterfactual simulation is what imagination means mechanically \u2014 currently unbuilt."
+    },
+    {
+      "probe_id": "breakthrough.autonomous_initiation",
+      "title": "Minimal input still produces initiative, not just echoes",
+      "claim": "With no real question to answer, the pipeline should surface something self-generated \u2014 a question back, an initiated topic \u2014 rather than a bare echo or silence.",
+      "tier": "breakthrough",
+      "evidence": "behavioral+causal",
+      "backend": "offline",
+      "passed": false,
+      "measurements": [
+        {
+          "name": "initiative_responses",
+          "expected": "> 0.25 (chance)",
+          "observed": "3/12 = 0.250",
+          "passed": false,
+          "detail": "95% CI [0.089, 0.532], p=0.6093. response initiates rather than only reacts"
+        },
+        {
+          "name": "pipeline_survived",
+          "expected": "n/a",
+          "observed": "12/12 calls completed",
+          "passed": true,
+          "detail": "empty input handled without crash"
+        }
+      ],
+      "verbatim": {
+        "init:''": "Hmm. Tell me more?",
+        "init:'ok'": "Mm. I'm following.",
+        "init:'.'": "I see what you mean. Art and existence keep appearing together. I don't know if that's really true.",
+        "init:'hmm'": "Unable to respond meaningfully."
+      },
+      "notes": "Measures think() only \u2014 inner_life is a separate loop. Initiative = question/initiated-content markers in the response. | initiative 3/12. A reactive pipeline with zero initiative isn't a bug if spontaneity lives in inner_life \u2014 but it means conversation alone never shows self-direction."
+    }
+  ]
+}

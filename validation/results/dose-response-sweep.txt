@@ -1,0 +1,95 @@
+=== DOSE-RESPONSE SWEEP (level held 200 ticks) ===
+chemical         dose      | valence arousal   tone   plas |    enc   cons   retr | phase
+dopamine         depleted  |   0.195   0.863  0.260  0.450 |  0.198  0.440  0.590 | active
+dopamine         low       |   0.236   0.872  0.267  0.450 |  0.255  0.439  0.590 | active
+dopamine         baseline  |   0.294   0.884  0.279  0.450 |  0.335  0.440  0.590 | active
+dopamine         high      |   0.436   0.912  0.318  0.484 |  0.540  0.443  0.586 | active
+
+serotonin        depleted  |   0.186   0.884  0.258  0.450 |  0.339  0.440  0.493 | active
+serotonin        low       |   0.226   0.885  0.266  0.450 |  0.340  0.440  0.528 | active
+serotonin        baseline  |   0.297   0.884  0.279  0.450 |  0.339  0.440  0.590 | active
+serotonin        high      |   0.429   0.873  0.305  0.509 |  0.323  0.439  0.704 | active
+
+norepinephrine   depleted  |   0.267   0.860  0.263  0.450 |  0.250  0.440  0.590 | active
+norepinephrine   low       |   0.281   0.872  0.271  0.450 |  0.293  0.439  0.589 | active
+norepinephrine   baseline  |   0.297   0.884  0.279  0.450 |  0.339  0.440  0.590 | active
+norepinephrine   high      |   0.361   0.922  0.317  0.489 |  0.511  0.443  0.603 | active
+
+acetylcholine    depleted  |   0.297   0.864  0.260  0.450 |  0.236  0.303  0.453 | active
+acetylcholine    low       |   0.296   0.872  0.268  0.450 |  0.279  0.361  0.511 | active
+acetylcholine    baseline  |   0.297   0.884  0.279  0.450 |  0.339  0.440  0.590 | active
+acetylcholine    high      |   0.312   0.916  0.320  0.485 |  0.505  0.625  0.776 | active
+
+gaba             depleted  |   0.296   0.917  0.249  0.450 |  0.338  0.440  0.590 | active
+gaba             low       |   0.297   0.910  0.258  0.450 |  0.340  0.440  0.590 | active
+gaba             baseline  |   0.297   0.884  0.280  0.450 |  0.339  0.440  0.590 | active
+gaba             high      |   0.278   0.789  0.284  0.450 |  0.291  0.420  0.565 | active
+
+glutamate        depleted  |   0.296   0.884  0.244  0.450 |  0.338  0.440  0.590 | active
+glutamate        low       |   0.296   0.884  0.252  0.450 |  0.338  0.440  0.590 | active
+glutamate        baseline  |   0.297   0.884  0.280  0.450 |  0.339  0.440  0.590 | active
+glutamate        high      |   0.275   0.886  0.306  0.467 |  0.352  0.441  0.595 | active
+
+cortisol         depleted  |   0.297   0.884  0.279  0.450 |  0.339  0.440  0.590 | active
+cortisol         low       |   0.235   0.884  0.285  0.417 |  0.340  0.484  0.534 | active
+cortisol         baseline  |   0.297   0.884  0.279  0.450 |  0.339  0.440  0.590 | active
+cortisol         high      |  -0.037   0.883  0.295  0.137 |  0.342  0.669  0.292 | active
+
+oxytocin         depleted  |   0.272   0.884  0.266  0.450 |  0.339  0.440  0.590 | active
+oxytocin         low       |   0.286   0.885  0.273  0.450 |  0.339  0.440  0.590 | active
+oxytocin         baseline  |   0.297   0.884  0.279  0.450 |  0.339  0.440  0.590 | active
+oxytocin         high      |   0.379   0.879  0.322  0.494 |  0.342  0.440  0.600 | active
+
+endorphin        depleted  |   0.260   0.884  0.266  0.450 |  0.339  0.440  0.590 | active
+endorphin        low       |   0.281   0.885  0.274  0.450 |  0.339  0.440  0.590 | active
+endorphin        baseline  |   0.297   0.884  0.279  0.450 |  0.339  0.440  0.590 | active
+endorphin        high      |   0.413   0.874  0.318  0.494 |  0.356  0.439  0.598 | active
+
+histamine        depleted  |   0.297   0.866  0.263  0.450 |  0.339  0.440  0.590 | active
+histamine        low       |   0.296   0.875  0.270  0.450 |  0.337  0.439  0.589 | active
+histamine        baseline  |   0.297   0.884  0.279  0.450 |  0.339  0.440  0.590 | active
+histamine        high      |   0.313   0.916  0.316  0.453 |  0.370  0.443  0.593 | active
+
+adenosine        depleted  |   0.297   0.920  0.268  0.450 |  0.339  0.440  0.590 | active
+adenosine        low       |   0.297   0.895  0.277  0.450 |  0.339  0.440  0.590 | active
+adenosine        baseline  |   0.297   0.884  0.279  0.450 |  0.339  0.440  0.590 | active
+adenosine        high      |   0.296   0.112  0.312  0.450 |  0.329  0.430  0.580 | nrem
+
+bdnf             depleted  |   0.297   0.884  0.255  0.019 |  0.339  0.440  0.590 | active
+bdnf             low       |   0.296   0.884  0.262  0.154 |  0.338  0.440  0.589 | active
+bdnf             baseline  |   0.297   0.884  0.279  0.450 |  0.339  0.440  0.590 | active
+bdnf             high      |   0.330   0.885  0.317  0.906 |  0.359  0.442  0.605 | active
+
+endocannabinoid  depleted  |   0.296   0.884  0.256  0.450 |  0.337  0.440  0.590 | active
+endocannabinoid  low       |   0.294   0.884  0.265  0.450 |  0.337  0.441  0.589 | active
+endocannabinoid  baseline  |   0.296   0.884  0.270  0.450 |  0.337  0.440  0.590 | active
+endocannabinoid  high      |   0.307   0.887  0.296  0.450 |  0.354  0.440  0.590 | active
+
+vasopressin      depleted  |   0.297   0.884  0.268  0.450 |  0.339  0.440  0.590 | active
+vasopressin      low       |   0.297   0.884  0.276  0.450 |  0.339  0.440  0.590 | active
+vasopressin      baseline  |   0.297   0.884  0.279  0.450 |  0.339  0.440  0.590 | active
+vasopressin      high      |   0.303   0.890  0.320  0.451 |  0.341  0.440  0.590 | active
+
+crh              depleted  |   0.297   0.884  0.279  0.450 |  0.339  0.440  0.590 | active
+crh              low       |   0.297   0.885  0.288  0.450 |  0.339  0.440  0.590 | active
+crh              baseline  |   0.297   0.884  0.279  0.450 |  0.339  0.440  0.590 | active
+crh              high      |   0.297   0.887  0.333  0.450 |  0.340  0.440  0.590 | active
+
+orexin           depleted  |   0.297   0.835  0.246  0.450 |  0.339  0.440  0.590 | active
+orexin           low       |   0.296   0.872  0.271  0.450 |  0.337  0.439  0.589 | active
+orexin           baseline  |   0.297   0.885  0.280  0.450 |  0.339  0.440  0.590 | active
+orexin           high      |   0.313   0.928  0.316  0.453 |  0.370  0.443  0.594 | active
+
+epinephrine      depleted  |   0.297   0.879  0.271  0.450 |  0.339  0.440  0.590 | active
+epinephrine      low       |   0.297   0.884  0.279  0.450 |  0.339  0.440  0.590 | active
+epinephrine      baseline  |   0.297   0.884  0.279  0.450 |  0.339  0.440  0.590 | active
+epinephrine      high      |   0.304   0.912  0.321  0.452 |  0.357  0.441  0.591 | active
+
+melatonin        depleted  |   0.297   0.884  0.279  0.450 |  0.339  0.440  0.590 | active
+melatonin        low       |   0.296   0.863  0.287  0.450 |  0.337  0.439  0.589 | active
+melatonin        baseline  |   0.297   0.872  0.285  0.450 |  0.339  0.440  0.590 | active
+melatonin        high      |   0.274   0.152  0.308  0.450 |  0.281  0.417  0.566 | active
+
+test probe_dose_response_sweep ... ok
+
+test result: ok. 1 passed; 0 failed; 0 ignored; 0 measured; 6 filtered out; finished in 1.39s

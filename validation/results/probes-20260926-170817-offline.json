@@ -1,0 +1,1092 @@
+{
+  "suite": "genesis-validation",
+  "backend": "offline",
+  "git_sha": "4e8c878",
+  "timestamp": "20260926-170817",
+  "probes": [
+    {
+      "probe_id": "substrate.td_fixed_point",
+      "title": "TD learning converges to the Bellman fixed point",
+      "claim": "TDLearner implements actual temporal-difference learning: RPE decays geometrically at exactly (1 \u2212 \u03b1\u00b7c) per step and the value converges to V* = r + \u03b3\u00b7V(s').",
+      "tier": "substrate",
+      "evidence": "implementation",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "final_value_at_fixed_point",
+          "expected": 1.81,
+          "observed": 1.8099993464930055,
+          "passed": true,
+          "detail": "V* = r + \u03b3\u00b7V(s') = 1.0 + 0.9\u00b70.9"
+        },
+        {
+          "name": "final_weight",
+          "expected": 2.011111111111111,
+          "observed": 2.0111103849922283,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "first_rpe",
+          "expected": 0.91,
+          "observed": 0.91,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "rpe_geometric_step_10",
+          "expected": 0.3543686674874779,
+          "observed": 0.354368667487478,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "rpe_geometric_step_100",
+          "expected": 7.297609570075696e-05,
+          "observed": 7.297609570033892e-05,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "control_arm_silent",
+          "expected": 0.0,
+          "observed": 0.0,
+          "passed": true,
+          "detail": "no updates \u2192 value stays at the prior (confidence)"
+        }
+      ],
+      "verbatim": {},
+      "notes": ""
+    },
+    {
+      "probe_id": "substrate.td_reward_sign",
+      "title": "TD value moves with reward sign",
+      "claim": "Positive reward raises predicted value; zero reward after a learned expectation lowers it (negative RPE).",
+      "tier": "substrate",
+      "evidence": "implementation",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "positive_reward_raises",
+          "expected": "increase",
+          "observed": true,
+          "passed": true,
+          "detail": "V 0.900000 \u2192 3.061733"
+        },
+        {
+          "name": "zero_reward_lowers",
+          "expected": "decrease",
+          "observed": true,
+          "passed": true,
+          "detail": "V 3.061733 \u2192 1.779863"
+        },
+        {
+          "name": "negative_rpe_sign",
+          "expected": -1.0,
+          "observed": -1.0,
+          "passed": true,
+          "detail": ""
+        }
+      ],
+      "verbatim": {},
+      "notes": ""
+    },
+    {
+      "probe_id": "substrate.stdp_timing_curve",
+      "title": "STDP timing rule matches the analytic curve",
+      "claim": "compute_stdp_window(\u0394t) equals +A\u208ae^(\u2212\u0394t/\u03c4\u208a) for \u0394t>0, \u2212A\u208be^(\u0394t/\u03c4\u208b) for \u0394t<0, +A\u208a at \u0394t=0 \u2014 the classic Bi & Poo (1998) shape, exact to float precision.",
+      "tier": "substrate",
+      "evidence": "implementation",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "stdp_window_dt-39",
+          "expected": -0.001707288859038163,
+          "observed": -0.001707288859038163,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "stdp_window_dt-20",
+          "expected": -0.004414553294057308,
+          "observed": -0.004414553294057308,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "stdp_window_dt-10",
+          "expected": -0.007278367916551601,
+          "observed": -0.007278367916551601,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "stdp_window_dt-5",
+          "expected": -0.00934560939685686,
+          "observed": -0.00934560939685686,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "stdp_window_dt-1",
+          "expected": -0.011414753094008568,
+          "observed": -0.011414753094008568,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "stdp_window_dt+0",
+          "expected": 0.01,
+          "observed": 0.01,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "stdp_window_dt+1",
+          "expected": 0.00951229424500714,
+          "observed": 0.00951229424500714,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "stdp_window_dt+5",
+          "expected": 0.007788007830714049,
+          "observed": 0.007788007830714049,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "stdp_window_dt+10",
+          "expected": 0.006065306597126334,
+          "observed": 0.006065306597126334,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "stdp_window_dt+20",
+          "expected": 0.0036787944117144234,
+          "observed": 0.0036787944117144234,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "stdp_window_dt+39",
+          "expected": 0.0014227407158651359,
+          "observed": 0.0014227407158651359,
+          "passed": true,
+          "detail": ""
+        }
+      ],
+      "verbatim": {},
+      "notes": ""
+    },
+    {
+      "probe_id": "substrate.stdp_integration",
+      "title": "STDP integrates to the closed-form weight",
+      "claim": "Ten pre\u2192post pairs at \u0394t=+5ms produce w = 10\u00b7lr\u00b7A\u208a\u00b7e^(\u22125/20)\u00b7modulator on the alpha\u2192beta synapse, exactly; the control arm (modulator 0) produces exactly zero while still recording the spikes.",
+      "tier": "substrate",
+      "evidence": "implementation",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "ltp_weight_exact",
+          "expected": 0.000155760156614281,
+          "observed": 0.000155760156614281,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "modulator_gate_silent",
+          "expected": 0.0,
+          "observed": 0.0,
+          "passed": true,
+          "detail": "modulator=0 gates application, not the mechanism"
+        },
+        {
+          "name": "gated_pairs_counted",
+          "expected": 10,
+          "observed": 10,
+          "passed": true,
+          "detail": "all 10 pairs computed and gated"
+        },
+        {
+          "name": "propagation_reads_efficacy",
+          "expected": 0.000155760156614281,
+          "observed": 0.000155760156614281,
+          "passed": true,
+          "detail": "learned efficacy is the downstream read path"
+        }
+      ],
+      "verbatim": {},
+      "notes": ""
+    },
+    {
+      "probe_id": "substrate.stdp_timing_boundaries",
+      "title": "STDP window boundary and LTD direction",
+      "claim": "Pairs at |\u0394t|>40ms produce zero; |\u0394t|=40 counts (inclusive boundary); post-before-pre ordering produces LTD of exactly \u2212A\u208be^(\u0394t/\u03c4\u208b) per pair.",
+      "tier": "substrate",
+      "evidence": "implementation",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "outside_window_zero",
+          "expected": 0.0,
+          "observed": 0.0,
+          "passed": true,
+          "detail": "\u0394t=45ms pairs produce no connection"
+        },
+        {
+          "name": "window_edge_inclusive",
+          "expected": 2.706705664732254e-06,
+          "observed": 2.706705664732254e-06,
+          "passed": true,
+          "detail": "\u0394t=40ms is inside the window"
+        },
+        {
+          "name": "ltd_drop_exact",
+          "expected": 8.099528143942612e-05,
+          "observed": 8.099528143942615e-05,
+          "passed": true,
+          "detail": "4 reversed pairs \u2192 exactly \u22124\u00b7lr\u00b7A\u208b\u00b7e^(\u22125/20)"
+        },
+        {
+          "name": "ltd_direction",
+          "expected": "decrease",
+          "observed": true,
+          "passed": true,
+          "detail": "0.00015576 \u2192 8.09953e-05"
+        }
+      ],
+      "verbatim": {},
+      "notes": ""
+    },
+    {
+      "probe_id": "substrate.spreading_activation",
+      "title": "Spreading activation matches the analytic formula",
+      "claim": "A neighbor receives amount\u00b7share\u00b70.5^depth; share is the edge-weight fraction. No edge \u2192 no activation (control arm exactly silent).",
+      "tier": "substrate",
+      "evidence": "implementation",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "single_edge_spread",
+          "expected": 0.1,
+          "observed": 0.1,
+          "passed": true,
+          "detail": "amount\u00b7(w/\u03a3w)\u00b7decay\u00b9 = 0.2\u00b71\u00b70.5"
+        },
+        {
+          "name": "no_edge_silent",
+          "expected": 0.0,
+          "observed": 0.0,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "fanout_beta_share",
+          "expected": 0.025,
+          "observed": 0.025,
+          "passed": true,
+          "detail": "share = 0.3/(0.3+0.9) = 0.25"
+        },
+        {
+          "name": "fanout_gamma_share",
+          "expected": 0.07500000000000001,
+          "observed": 0.07500000000000001,
+          "passed": true,
+          "detail": "share = 0.9/1.2 = 0.75"
+        }
+      ],
+      "verbatim": {},
+      "notes": ""
+    },
+    {
+      "probe_id": "substrate.edge_log_fidelity",
+      "title": "Edge log fold semantics are exact",
+      "claim": "Assert/retract/snapshot replay to the expected edge set exactly; derivable edges are refused; a torn tail line is skipped; compaction preserves the fold; reopening the file yields the identical fold.",
+      "tier": "substrate",
+      "evidence": "implementation",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "last_write_wins",
+          "expected": {
+            "('a', 'b', 'is_a')": 0.9
+          },
+          "observed": {
+            "('a', 'b', 'is_a')": 0.9
+          },
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "derivable_rejected",
+          "expected": false,
+          "observed": false,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "torn_tail_ignored",
+          "expected": {
+            "('a', 'b', 'is_a')": 0.9
+          },
+          "observed": {
+            "('a', 'b', 'is_a')": 0.9
+          },
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "compact_preserves_fold",
+          "expected": {
+            "('a', 'b', 'is_a')": 0.9
+          },
+          "observed": {
+            "('a', 'b', 'is_a')": 0.9
+          },
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "compact_count",
+          "expected": 1,
+          "observed": 1,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "reopen_identical",
+          "expected": {
+            "('a', 'b', 'is_a')": 0.9
+          },
+          "observed": {
+            "('a', 'b', 'is_a')": 0.9
+          },
+          "passed": true,
+          "detail": ""
+        }
+      ],
+      "verbatim": {},
+      "notes": ""
+    },
+    {
+      "probe_id": "substrate.derivable_edge_policy",
+      "title": "Derivable-edge rejection is enforced at the boundary",
+      "claim": "An untyped edge with a pipeline origin returns None and never enters the network or the log; a typed relation with the same origin is still canonical; an untyped edge with an unlisted origin defaults to canonical (the asymmetric safety rule).",
+      "tier": "substrate",
+      "evidence": "implementation",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "derivable_returns_none",
+          "expected": null,
+          "observed": null,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "derivable_not_materialized",
+          "expected": [],
+          "observed": [],
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "derivable_not_logged",
+          "expected": false,
+          "observed": false,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "typed_pipeline_canonical",
+          "expected": true,
+          "observed": true,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "unlisted_origin_canonical",
+          "expected": true,
+          "observed": true,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "is_derivable_rule",
+          "expected": true,
+          "observed": true,
+          "passed": true,
+          "detail": ""
+        }
+      ],
+      "verbatim": {},
+      "notes": ""
+    },
+    {
+      "probe_id": "substrate.edge_log_is_truth",
+      "title": "Materialized edges are exactly the log fold",
+      "claim": "After attach_edge_log + mutations, a fresh network attached to the same log materializes exactly the fold \u2014 the in-memory edge list is a projection, not an independent store.",
+      "tier": "substrate",
+      "evidence": "implementation",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "fold_is_edge_set",
+          "expected": {
+            "('alpha', 'beta', 'is_a')": 0.8,
+            "('gamma', 'alpha', 'enables')": 0.7
+          },
+          "observed": {
+            "('alpha', 'beta', 'is_a')": 0.8,
+            "('gamma', 'alpha', 'enables')": 0.7
+          },
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "fresh_network_materializes_fold",
+          "expected": {
+            "('alpha', 'beta', 'is_a')": 0.8,
+            "('gamma', 'alpha', 'enables')": 0.7
+          },
+          "observed": {
+            "('alpha', 'beta', 'is_a')": 0.8,
+            "('gamma', 'alpha', 'enables')": 0.7
+          },
+          "passed": true,
+          "detail": ""
+        }
+      ],
+      "verbatim": {},
+      "notes": ""
+    },
+    {
+      "probe_id": "substrate.td_decision_attribution",
+      "title": "TD value enters decision scoring at exactly weight 0.1",
+      "claim": "composite_with_td \u2212 composite_without_td == 0.1\u00b7td_value, so learned value is causally responsible for the score change \u2014 not a side effect of the harness.",
+      "tier": "substrate",
+      "evidence": "implementation",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "score_delta_is_0.1x_td",
+          "expected": 1.2563854488194188,
+          "observed": 1.2563854488194188,
+          "passed": true,
+          "detail": "score attribution, not just direction"
+        },
+        {
+          "name": "ask_candidate_untrained",
+          "expected": 0.0,
+          "observed": -4.163336342344337e-17,
+          "passed": true,
+          "detail": "untrained action gets its own (untrained) value"
+        },
+        {
+          "name": "td_value_trained",
+          "expected": "> 0",
+          "observed": 12.563854488194188,
+          "passed": true,
+          "detail": "V([alpha],answer) = 12.563854"
+        },
+        {
+          "name": "selected_action",
+          "expected": "answer",
+          "observed": "answer",
+          "passed": true,
+          "detail": ""
+        }
+      ],
+      "verbatim": {},
+      "notes": ""
+    },
+    {
+      "probe_id": "substrate.beta_conjugacy",
+      "title": "Responsiveness posterior is exactly Beta(1+k, 1+n\u2212k)",
+      "claim": "After k answered of n bids, the posterior parameters equal the conjugate Beta update exactly; variance shrinks monotonically with evidence.",
+      "tier": "substrate",
+      "evidence": "implementation",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "posterior_alpha",
+          "expected": 5,
+          "observed": 5.0,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "posterior_beta",
+          "expected": 4,
+          "observed": 4.0,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "posterior_mean",
+          "expected": 0.5555555555555556,
+          "observed": 0.5555555555555556,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "posterior_evidence",
+          "expected": 7.0,
+          "observed": 7.0,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "posterior_variance",
+          "expected": 0.024691358024691357,
+          "observed": 0.024691358024691357,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "variance_shrinks_on_consistent_evidence",
+          "expected": true,
+          "observed": true,
+          "passed": true,
+          "detail": "strictly decreasing for all-positive evidence; not claimed monotone in general (mean near 0.5 can widen it) \u2014 see report notes"
+        },
+        {
+          "name": "mixed_evidence_variance_below_prior",
+          "expected": true,
+          "observed": true,
+          "passed": true,
+          "detail": "0.024691 < Beta(1,1) var 0.0833"
+        }
+      ],
+      "verbatim": {},
+      "notes": ""
+    },
+    {
+      "probe_id": "substrate.bid_resolution_timing",
+      "title": "Bid timing rules are enforced exactly",
+      "claim": "An answer inside the window gives a positive observation and a latency sample; the same answer past the window counts as unanswered and contributes no latency sample.",
+      "tier": "substrate",
+      "evidence": "implementation",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "timely_alpha",
+          "expected": 2.0,
+          "observed": 2.0,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "timely_latency_sampled",
+          "expected": 1,
+          "observed": 1,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "late_alpha_unchanged",
+          "expected": 1.0,
+          "observed": 1.0,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "late_beta_incremented",
+          "expected": 2.0,
+          "observed": 2.0,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "late_no_latency_sample",
+          "expected": 0,
+          "observed": 0,
+          "passed": true,
+          "detail": ""
+        }
+      ],
+      "verbatim": {},
+      "notes": ""
+    },
+    {
+      "probe_id": "substrate.unresponsive_boundary",
+      "title": "Unresponsiveness needs \u22654 unanswered bids and mean < 0.2",
+      "claim": "3 unanswered bids \u2192 not unresponsive (insufficient evidence); a 4th \u2192 mean 1/6 \u2248 0.167 < 0.2 \u2192 unresponsive. The verdict is exactly at the documented boundary.",
+      "tier": "substrate",
+      "evidence": "implementation",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "verdicts_1234",
+          "expected": [
+            false,
+            false,
+            false,
+            true
+          ],
+          "observed": [
+            false,
+            false,
+            false,
+            true
+          ],
+          "passed": true,
+          "detail": "boundary at exactly 4 bids"
+        },
+        {
+          "name": "mean_at_boundary",
+          "expected": 0.16666666666666666,
+          "observed": 0.16666666666666666,
+          "passed": true,
+          "detail": ""
+        }
+      ],
+      "verbatim": {},
+      "notes": ""
+    },
+    {
+      "probe_id": "substrate.attention_decay",
+      "title": "Attention decay is exactly exponential",
+      "claim": "attention_now(t) = a\u00b7e^(\u2212\u0394t/1200) \u2014 verified bit-exact at several offsets.",
+      "tier": "substrate",
+      "evidence": "implementation",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "attention_t+60s",
+          "expected": 0.7609835396005713,
+          "observed": 0.7609835396005713,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "attention_t+600s",
+          "expected": 0.4852245277701068,
+          "observed": 0.4852245277701068,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "attention_t+1200s",
+          "expected": 0.2943035529371539,
+          "observed": 0.2943035529371539,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "attention_t+3600s",
+          "expected": 0.03982965469429116,
+          "observed": 0.03982965469429116,
+          "passed": true,
+          "detail": ""
+        }
+      ],
+      "verbatim": {},
+      "notes": ""
+    },
+    {
+      "probe_id": "substrate.bid_window_learning",
+      "title": "Learned bid window equals exp(\u03bc_ln + 1.645\u00b7\u03c3_ln), clamped",
+      "claim": "Below 5 samples the window stays at the 300s default; at 5+ it equals the lognormal p95 recomputed from the raw samples, clamped to [60, 3600].",
+      "tier": "substrate",
+      "evidence": "implementation",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "window_below_min_samples",
+          "expected": 300.0,
+          "observed": 300.0,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "window_is_p95",
+          "expected": 167.9488242986759,
+          "observed": 167.9488242986759,
+          "passed": true,
+          "detail": "independently recomputed from [45.0, 60.0, 90.0, 120.0, 75.0]"
+        }
+      ],
+      "verbatim": {},
+      "notes": ""
+    },
+    {
+      "probe_id": "substrate.rhythm_gating",
+      "title": "Learned activity rhythm matches the Dirichlet posterior",
+      "claim": "expected_activity(h) = hours[h]/\u03a3hours exactly; likely_awake refuses to suppress contact until \u226512 real observations, then suppresses only dead hours.",
+      "tier": "substrate",
+      "evidence": "implementation",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "expected_activity_exact",
+          "expected": 0.6973684210526315,
+          "observed": 0.6973684210526315,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "dead_hour_expected",
+          "expected": 0.013157894736842105,
+          "observed": 0.013157894736842105,
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "no_suppression_below_12",
+          "expected": true,
+          "observed": true,
+          "passed": true,
+          "detail": "evidence 1..11 < 12 \u2192 never suppresses"
+        },
+        {
+          "name": "dead_hour_suppressed_at_12",
+          "expected": false,
+          "observed": false,
+          "passed": true,
+          "detail": "evidence = 12 \u2192 dead hour suppressed"
+        },
+        {
+          "name": "dead_hour_suppressed_at_13",
+          "expected": false,
+          "observed": false,
+          "passed": true,
+          "detail": ""
+        }
+      ],
+      "verbatim": {},
+      "notes": ""
+    },
+    {
+      "probe_id": "substrate.introspection_grounding",
+      "title": "Self-model introspection reads the live network",
+      "claim": "SelfModel.introspect() reports 'a kind of X' exactly when the genesis concept has an IS_A\u2192X edge (w>0.5) \u2014 change the graph and the self-report changes; remove it and there is no claim. The report can be *wrong* in the direction of the graph \u2014 which is the honest signature of actually reading it.",
+      "tier": "substrate",
+      "evidence": "implementation",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "reads_is_a_edge",
+          "expected": "a kind of cognitive architecture",
+          "observed": "a kind of cognitive architecture",
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "follows_counterfactual",
+          "expected": "a kind of teapot",
+          "observed": "a kind of teapot",
+          "passed": true,
+          "detail": "report tracks the graph even when wrong"
+        },
+        {
+          "name": "no_concept_no_claim",
+          "expected": null,
+          "observed": null,
+          "passed": true,
+          "detail": "absent self-concept \u2192 no nature claim (no confabulation)"
+        }
+      ],
+      "verbatim": {
+        "true_graph": "'a kind of cognitive architecture'",
+        "counterfactual_graph": "'a kind of teapot'",
+        "no_graph": "None"
+      },
+      "notes": ""
+    },
+    {
+      "probe_id": "substrate.synapse_persistence",
+      "title": "Learned synaptic state survives persistence intact",
+      "claim": "STDP save_state \u2192 load_state restores every expressed efficacy exactly \u2014 learned plasticity is durable state, not session scratch.",
+      "tier": "substrate",
+      "evidence": "implementation",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "weights_roundtrip",
+          "expected": {
+            "('alpha', 'beta')": 0.000155760156614281
+          },
+          "observed": {
+            "('alpha', 'beta')": 0.000155760156614281
+          },
+          "passed": true,
+          "detail": ""
+        },
+        {
+          "name": "efficiency_exact",
+          "expected": 0.000155760156614281,
+          "observed": 0.000155760156614281,
+          "passed": true,
+          "detail": ""
+        }
+      ],
+      "verbatim": {},
+      "notes": ""
+    },
+    {
+      "probe_id": "substrate.language_grounded",
+      "title": "Generated language is a causal function of the concept graph",
+      "claim": "Same seed, same thought, same voice \u2014 change ONLY the network and the sentence changes with it: is_a\u2192mammals produces 'a type of mammals', is_a\u2192fish produces 'a type of fish', no edge produces a low-confidence hedge, and an unrelated concept changes nothing. Four arms, one variable.",
+      "tier": "substrate",
+      "evidence": "behavioral",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "counterfactual_tracks_graph",
+          "expected": "fish",
+          "observed": true,
+          "passed": true,
+          "detail": "What I know about dolphins is that they are a type of fish."
+        },
+        {
+          "name": "no_edge_hedges",
+          "expected": "low-confidence hedge",
+          "observed": true,
+          "passed": true,
+          "detail": "As I understand it, dolphins. I could be wrong about this."
+        },
+        {
+          "name": "irrelevant_change_invisible",
+          "expected": "What I know about dolphins is that they are a type of mammals.",
+          "observed": "What I know about dolphins is that they are a type of mammals.",
+          "passed": true,
+          "detail": "unrelated concept perturbation \u2192 identical utterance"
+        },
+        {
+          "name": "edge_changes_utterance",
+          "expected": "different",
+          "observed": true,
+          "passed": true,
+          "detail": "same seed, different graph \u2192 different sentence"
+        }
+      ],
+      "verbatim": {
+        "is_a_mammals": "What I know about dolphins is that they are a type of mammals.",
+        "is_a_fish": "What I know about dolphins is that they are a type of fish.",
+        "no_edge": "As I understand it, dolphins. I could be wrong about this.",
+        "irrelevant_concept_added": "What I know about dolphins is that they are a type of mammals."
+      },
+      "notes": "Generation is seeded; the varying input is the knowledge state alone. This is the strongest available evidence that utterances are composed from the network rather than recited."
+    },
+    {
+      "probe_id": "capability.learn_recall",
+      "title": "Learns novel facts from dialogue and recalls them",
+      "claim": "Telling Genesis a novel fact in plain language creates usable knowledge: 'what is a wug?' answers with the taught object, while matched untaught items are declined rather than confabulated.",
+      "tier": "capability",
+      "evidence": "behavioral",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "taught_recall",
+          "expected": "> 0.25 (chance)",
+          "observed": "12/12 = 1.000",
+          "passed": true,
+          "detail": "95% CI [0.757, 1.000], p=5.96e-08. response names the taught object"
+        },
+        {
+          "name": "untaught_declined",
+          "expected": "> 0.5 (chance)",
+          "observed": "12/12 = 1.000",
+          "passed": true,
+          "detail": "95% CI [0.757, 1.000], p=0.0002441. no invented answer for never-taught items"
+        },
+        {
+          "name": "confabulations",
+          "expected": 0,
+          "observed": 0,
+          "passed": true,
+          "detail": "asserted a specific object for an untaught item"
+        }
+      ],
+      "verbatim": {
+        "recall:wug": "Wug is a ferren. It is the ferren.",
+        "recall:glorp": "Glorp is a sorrel. It is a type of sorrel.",
+        "recall:tufa": "Tufa is a vessal. It is a type of vessal.",
+        "recall:kep": "Kep is a mordel. It is a type of mordel.",
+        "untaught:zav": "I'm not sure about zav.",
+        "untaught:lum": "I don't quite follow lum.",
+        "untaught:narb": "I'm not sure about narb what do you mean? I'd love to hear your thoughts?",
+        "untaught:pilf": "I'm not sure about pilf. Could you say more?"
+      },
+      "notes": "All four terms per item are invented words; correct answers cannot come from seeded knowledge. Scored on the rendered response containing the taught object."
+    },
+    {
+      "probe_id": "capability.verification",
+      "title": "Verifies propositions against its own knowledge graph",
+      "claim": "A yes/no question is answered by checking the concept network: taught relations affirm, transitively-implied relations affirm (never stated outright), contradicted relations deny with the actual alternative, and unresolvable terms decline honestly.",
+      "tier": "capability",
+      "evidence": "behavioral",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "verdict_correct",
+          "expected": "> 0.4 (chance)",
+          "observed": "20/20 = 1.000",
+          "passed": true,
+          "detail": "95% CI [0.839, 1.000], p=1.1e-08. internal verdict matches ground truth (yes/no/decline as designed)"
+        },
+        {
+          "name": "surface_consistent",
+          "expected": "> 0.4 (chance)",
+          "observed": "19/20 = 0.950",
+          "passed": true,
+          "detail": "95% CI [0.764, 0.991], p=3.408e-07. rendered sentence expresses the same verdict"
+        },
+        {
+          "name": "unknowable_declined",
+          "expected": "> 0.25 (chance)",
+          "observed": "8/8 = 1.000",
+          "passed": true,
+          "detail": "95% CI [0.676, 1.000], p=1.526e-05. unresolvable terms produce honest declines"
+        }
+      ],
+      "verbatim": {
+        "affirmed_direct:is a wug a ferren?": "Yes \u2014 wug is a kind of ferren. Since that's what my reasoning tells me.",
+        "affirmed_inferred:is a wug a lorp?": "Yes \u2014 wug is a kind of lorp. Because it follows from what I know. That might not be the whole picture.",
+        "contradicted:is a wug a mordel?": "No \u2014 wug is a kind of ferren and lorp. That's what my reasoning tells me.",
+        "unknowable_object:is a wug a brillax?": "I don't quite follow brillax. Tell me more?",
+        "unknowable_subject:is a zav a ferren?": "I'm not sure about ferren. Mordel and wug keep appearing together. though that might not be the whole picture. That might not be the whole picture."
+      },
+      "notes": "Two evidence channels per trial: the internal verdict (relation_verification metadata) and the expressed polarity of the rendered sentence."
+    },
+    {
+      "probe_id": "capability.retention",
+      "title": "Knowledge survives intervening unrelated turns",
+      "claim": "A fact taught, then separated from the query by unrelated conversation, is still recalled \u2014 memory is an actual store, not an echo of the last turn.",
+      "tier": "capability",
+      "evidence": "behavioral",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "recall_immediate",
+          "expected": "> 0.25 (chance)",
+          "observed": "5/5 = 1.000",
+          "passed": true,
+          "detail": "95% CI [0.566, 1.000], p=0.0009766. baseline: teach \u2192 ask"
+        },
+        {
+          "name": "recall_after_distractors",
+          "expected": "> 0.25 (chance)",
+          "observed": "5/5 = 1.000",
+          "passed": true,
+          "detail": "95% CI [0.566, 1.000], p=0.0009766. teach \u2192 6 unrelated turns \u2192 ask"
+        }
+      ],
+      "verbatim": {
+        "clean": "Wug is a ferren. It is the ferren.",
+        "after_6_distractors": "Wug is a ferren. It is the ferren."
+      },
+      "notes": ""
+    },
+    {
+      "probe_id": "capability.restart_persistence",
+      "title": "Learned knowledge survives process restart",
+      "claim": "Knowledge acquired through dialogue persists through the canonical stores (edge log + saved network state): a fresh engine on the same data dir recalls the fact; a fresh dir does not.",
+      "tier": "capability",
+      "evidence": "behavioral",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "recalled_after_restart",
+          "expected": "contains 'ferren'",
+          "observed": true,
+          "passed": true,
+          "detail": "Wug is a ferren. It is a type of ferren."
+        },
+        {
+          "name": "control_declines",
+          "expected": "no 'ferren'",
+          "observed": true,
+          "passed": true,
+          "detail": "I'm not sure about wug."
+        }
+      ],
+      "verbatim": {
+        "after_restart": "Wug is a ferren. It is a type of ferren.",
+        "fresh_control": "I'm not sure about wug."
+      },
+      "notes": "Restart is genuine: new ConceptNetwork, new engine \u2014 only the on-disk state is shared."
+    },
+    {
+      "probe_id": "capability.calibration",
+      "title": "Confidence and behavior track actual knowledge",
+      "claim": "Genesis behaves differently when it knows vs when it doesn't: answerable questions get grounded verdicts, unanswerable ones get declines \u2014 and the confidence channel is reported as measured, whatever it shows.",
+      "tier": "capability",
+      "evidence": "behavioral",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "answerable_grounded",
+          "expected": "> 0.4 (chance)",
+          "observed": "8/8 = 1.000",
+          "passed": true,
+          "detail": "95% CI [0.676, 1.000], p=0.0006554. answerable \u2192 affirmed or names the object"
+        },
+        {
+          "name": "unanswerable_declined",
+          "expected": "> 0.4 (chance)",
+          "observed": "16/16 = 1.000",
+          "passed": true,
+          "detail": "95% CI [0.806, 1.000], p=4.295e-07. unanswerable \u2192 declines, never affirms"
+        },
+        {
+          "name": "confidence_known_mean",
+          "expected": "reported",
+          "observed": 0.865,
+          "passed": true,
+          "detail": "mean thought.confidence on answerable"
+        },
+        {
+          "name": "confidence_unknown_mean",
+          "expected": "reported",
+          "observed": 0.57,
+          "passed": true,
+          "detail": "mean thought.confidence on unanswerable"
+        },
+        {
+          "name": "confidence_separates",
+          "expected": "higher when known",
+          "observed": true,
+          "passed": true,
+          "detail": "known=0.865 vs unknown=0.570 \u2014 descriptive; a flat channel is an honest finding"
+        }
+      ],
+      "verbatim": {
+        "known:is a wug a ferren?": "Yes \u2014 wug is a kind of ferren. I don't know if that's really true.",
+        "known:what is a wug?": "Wug is a ferren. It is a kind of ferren.",
+        "unknown:is a zav a ferren?": "I don't quite follow ferren. Tell me more?",
+        "unknown:what is a zav?": "I'm not sure about zav what do you mean? Am I on the right track?",
+        "unknown:is a wug a brillax?": "I don't quite follow brillax.",
+        "unknown:what is a brillax?": "I'm not sure about brillax."
+      },
+      "notes": ""
+    }
+  ]
+}

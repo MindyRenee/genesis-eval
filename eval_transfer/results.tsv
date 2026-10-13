@@ -1,0 +1,441 @@
+replicate	arm	phase	task	family	attempt	steps	score	solved	schemas	skills	skills_new	cross_domain_retrievals	cross_domain_best
+0	trained	probe_r0	probe_sorter_r0_a	sorter	0	14	1.0	True	1	1	1	0	
+0	trained	probe_r0	probe_sorter_r0_b	sorter	0	9	1.0	True	1	2	1	0	
+0	trained	probe_r0	probe_sequence_r0_a	sequence	0	15	1.0	True	2	3	1	0	
+0	trained	probe_r0	probe_sequence_r0_b	sequence	0	8	1.0	True	2	4	1	0	
+0	trained	probe_r0	probe_relations_r0_a	relations	0	33	1.0	True	3	5	1	2	0.25
+0	trained	probe_r0	probe_relations_r0_b	relations	0	7	1.0	True	3	6	1	2	0.25
+0	trained	probe_r0	probe_quantities_r0_a	quantities	0	300	0.38888888888888884	False	4	6	0	0	
+0	trained	probe_r0	probe_quantities_r0_b	quantities	0	3	1.0	True	4	7	1	0	
+0	trained	probe_r0	probe_assembly_r0_a	assembly	0	500	16.0625	False	5	7	0	2	0.25
+0	trained	probe_r0	probe_assembly_r0_b	assembly	0	500	15.8125	False	5	7	0	2	0.25
+0	trained	probe_r0	probe_classification_r0_a	classification	0	14	1.0	True	6	8	1	2	0.429
+0	trained	probe_r0	probe_classification_r0_b	classification	0	16	1.0	True	6	9	1	2	0.429
+0	trained	train_sorter	train_sorter_d1a	sorter	0	4	1.0	True	6	10	1	2	0.25
+0	trained	train_sorter	train_sorter_d1b	sorter	0	7	1.0	True	6	11	1	1	0.25
+0	trained	train_sorter	train_sorter_d2a	sorter	0	9	1.0	True	6	12	1	1	0.25
+0	trained	train_sorter	train_sorter_d2b	sorter	0	6	1.0	True	6	13	1	1	0.25
+0	trained	train_sorter	train_sorter_d3a	sorter	0	11	1.0	True	6	14	1	1	0.25
+0	trained	train_sorter	train_sorter_d3b	sorter	0	6	1.0	True	6	15	1	1	0.25
+0	trained	train_sorter	train_sorter_d3c	sorter	0	6	1.0	True	6	15	0	1	0.25
+0	trained	train_sorter	train_sorter_d3d	sorter	0	10	1.0	True	6	16	1	1	0.25
+0	trained	probe_r1	probe_sorter_r1_a	sorter	0	8	1.0	True	6	17	1	1	0.25
+0	trained	probe_r1	probe_sorter_r1_b	sorter	0	9	1.0	True	6	17	0	1	0.25
+0	trained	probe_r1	probe_sequence_r1_a	sequence	0	9	1.0	True	6	18	1	0	
+0	trained	probe_r1	probe_sequence_r1_b	sequence	0	10	1.0	True	6	19	1	0	
+0	trained	probe_r1	probe_relations_r1_a	relations	0	7	1.0	True	6	20	1	2	0.25
+0	trained	probe_r1	probe_relations_r1_b	relations	0	7	1.0	True	6	21	1	1	0.25
+0	trained	probe_r1	probe_quantities_r1_a	quantities	0	13	1.0	True	6	22	1	0	
+0	trained	probe_r1	probe_quantities_r1_b	quantities	0	4	1.0	True	6	23	1	0	
+0	trained	probe_r1	probe_assembly_r1_a	assembly	0	56	1.0	True	6	24	1	2	0.25
+0	trained	probe_r1	probe_assembly_r1_b	assembly	0	66	1.0	True	6	25	1	2	0.25
+0	trained	probe_r1	probe_classification_r1_a	classification	0	14	1.0	True	6	26	1	2	0.429
+0	trained	probe_r1	probe_classification_r1_b	classification	0	12	1.0	True	6	27	1	1	0.429
+0	trained	train_sequence	train_sequence_p2a	sequence	0	5	1.0	True	6	28	1	0	
+0	trained	train_sequence	train_sequence_p2b	sequence	0	8	1.0	True	6	29	1	0	
+0	trained	train_sequence	train_sequence_p3a	sequence	0	9	1.0	True	6	30	1	0	
+0	trained	train_sequence	train_sequence_p3b	sequence	0	8	1.0	True	6	31	1	0	
+0	trained	train_sequence	train_sequence_p4a	sequence	0	9	1.0	True	6	31	0	0	
+0	trained	train_sequence	train_sequence_p4b	sequence	0	10	1.0	True	6	32	1	0	
+0	trained	train_sequence	train_sequence_p4c	sequence	0	10	1.0	True	6	33	1	0	
+0	trained	train_sequence	train_sequence_p4d	sequence	0	12	1.0	True	6	34	1	0	
+0	trained	probe_r2	probe_sorter_r2_a	sorter	0	15	1.0	True	6	34	0	1	0.25
+0	trained	probe_r2	probe_sorter_r2_b	sorter	0	13	1.0	True	6	35	1	1	0.25
+0	trained	probe_r2	probe_sequence_r2_a	sequence	0	9	1.0	True	6	35	0	0	
+0	trained	probe_r2	probe_sequence_r2_b	sequence	0	15	1.0	True	6	36	1	0	
+0	trained	probe_r2	probe_relations_r2_a	relations	0	7	1.0	True	6	37	1	1	0.25
+0	trained	probe_r2	probe_relations_r2_b	relations	0	8	1.0	True	6	38	1	1	0.25
+0	trained	probe_r2	probe_quantities_r2_a	quantities	0	2	1.0	True	6	38	0	0	
+0	trained	probe_r2	probe_quantities_r2_b	quantities	0	3	1.0	True	6	38	0	0	
+0	trained	probe_r2	probe_assembly_r2_a	assembly	0	80	1.0	True	6	39	1	2	0.25
+0	trained	probe_r2	probe_assembly_r2_b	assembly	0	138	1.0	True	6	40	1	1	0.25
+0	trained	probe_r2	probe_classification_r2_a	classification	0	19	1.0	True	6	41	1	1	0.429
+0	trained	probe_r2	probe_classification_r2_b	classification	0	12	1.0	True	6	42	1	1	0.429
+0	control	probe_r0	probe_sorter_r0_a	sorter	0	14	1.0	True	1	1	1	0	
+0	control	probe_r0	probe_sorter_r0_b	sorter	0	9	1.0	True	1	2	1	0	
+0	control	probe_r0	probe_sequence_r0_a	sequence	0	15	1.0	True	2	3	1	0	
+0	control	probe_r0	probe_sequence_r0_b	sequence	0	8	1.0	True	2	4	1	0	
+0	control	probe_r0	probe_relations_r0_a	relations	0	33	1.0	True	3	5	1	2	0.25
+0	control	probe_r0	probe_relations_r0_b	relations	0	7	1.0	True	3	6	1	2	0.25
+0	control	probe_r0	probe_quantities_r0_a	quantities	0	300	0.38888888888888884	False	4	6	0	0	
+0	control	probe_r0	probe_quantities_r0_b	quantities	0	3	1.0	True	4	7	1	0	
+0	control	probe_r0	probe_assembly_r0_a	assembly	0	500	16.0625	False	5	7	0	2	0.25
+0	control	probe_r0	probe_assembly_r0_b	assembly	0	500	15.8125	False	5	7	0	2	0.25
+0	control	probe_r0	probe_classification_r0_a	classification	0	14	1.0	True	6	8	1	2	0.429
+0	control	probe_r0	probe_classification_r0_b	classification	0	16	1.0	True	6	9	1	2	0.429
+0	control	probe_r1	probe_sorter_r1_a	sorter	0	8	1.0	True	6	10	1	2	0.25
+0	control	probe_r1	probe_sorter_r1_b	sorter	0	9	1.0	True	6	11	1	1	0.25
+0	control	probe_r1	probe_sequence_r1_a	sequence	0	9	1.0	True	6	12	1	0	
+0	control	probe_r1	probe_sequence_r1_b	sequence	0	10	1.0	True	6	13	1	0	
+0	control	probe_r1	probe_relations_r1_a	relations	0	7	1.0	True	6	14	1	2	0.25
+0	control	probe_r1	probe_relations_r1_b	relations	0	7	1.0	True	6	15	1	1	0.25
+0	control	probe_r1	probe_quantities_r1_a	quantities	0	13	1.0	True	6	16	1	0	
+0	control	probe_r1	probe_quantities_r1_b	quantities	0	4	1.0	True	6	17	1	0	
+0	control	probe_r1	probe_assembly_r1_a	assembly	0	48	1.0	True	6	18	1	2	0.25
+0	control	probe_r1	probe_assembly_r1_b	assembly	0	66	1.0	True	6	19	1	2	0.25
+0	control	probe_r1	probe_classification_r1_a	classification	0	14	1.0	True	6	20	1	2	0.429
+0	control	probe_r1	probe_classification_r1_b	classification	0	12	1.0	True	6	21	1	1	0.429
+0	control	probe_r2	probe_sorter_r2_a	sorter	0	11	1.0	True	6	22	1	1	0.25
+0	control	probe_r2	probe_sorter_r2_b	sorter	0	13	1.0	True	6	23	1	1	0.25
+0	control	probe_r2	probe_sequence_r2_a	sequence	0	9	1.0	True	6	23	0	0	
+0	control	probe_r2	probe_sequence_r2_b	sequence	0	10	1.0	True	6	24	1	0	
+0	control	probe_r2	probe_relations_r2_a	relations	0	7	1.0	True	6	25	1	1	0.25
+0	control	probe_r2	probe_relations_r2_b	relations	0	8	1.0	True	6	26	1	1	0.25
+0	control	probe_r2	probe_quantities_r2_a	quantities	0	2	1.0	True	6	26	0	0	
+0	control	probe_r2	probe_quantities_r2_b	quantities	0	3	1.0	True	6	26	0	0	
+0	control	probe_r2	probe_assembly_r2_a	assembly	0	102	1.0	True	6	27	1	2	0.25
+0	control	probe_r2	probe_assembly_r2_b	assembly	0	222	1.0	True	6	28	1	1	0.25
+0	control	probe_r2	probe_classification_r2_a	classification	0	19	1.0	True	6	29	1	1	0.429
+0	control	probe_r2	probe_classification_r2_b	classification	0	12	1.0	True	6	30	1	1	0.429
+1	trained	probe_r0	probe_sorter_r0_a	sorter	0	13	1.0	True	1	1	1	0	
+1	trained	probe_r0	probe_sorter_r0_b	sorter	0	9	1.0	True	1	2	1	0	
+1	trained	probe_r0	probe_sequence_r0_a	sequence	0	14	1.0	True	2	3	1	0	
+1	trained	probe_r0	probe_sequence_r0_b	sequence	0	8	1.0	True	2	4	1	0	
+1	trained	probe_r0	probe_relations_r0_a	relations	0	7	1.0	True	3	5	1	2	0.25
+1	trained	probe_r0	probe_relations_r0_b	relations	0	79	1.0	True	3	6	1	2	0.25
+1	trained	probe_r0	probe_quantities_r0_a	quantities	0	6	1.0	True	4	7	1	0	
+1	trained	probe_r0	probe_quantities_r0_b	quantities	0	21	1.0	True	4	8	1	0	
+1	trained	probe_r0	probe_assembly_r0_a	assembly	0	160	1.0	True	5	9	1	2	0.25
+1	trained	probe_r0	probe_assembly_r0_b	assembly	0	500	15.875	False	5	9	0	2	0.25
+1	trained	probe_r0	probe_classification_r0_a	classification	0	16	1.0	True	6	10	1	2	0.429
+1	trained	probe_r0	probe_classification_r0_b	classification	0	18	1.0	True	6	11	1	2	0.429
+1	trained	train_sorter	train_sorter_d1a	sorter	0	4	1.0	True	6	12	1	2	0.25
+1	trained	train_sorter	train_sorter_d1b	sorter	0	7	1.0	True	6	12	0	1	0.25
+1	trained	train_sorter	train_sorter_d2a	sorter	0	9	1.0	True	6	13	1	1	0.25
+1	trained	train_sorter	train_sorter_d2b	sorter	0	6	1.0	True	6	14	1	1	0.25
+1	trained	train_sorter	train_sorter_d3a	sorter	0	8	1.0	True	6	15	1	1	0.25
+1	trained	train_sorter	train_sorter_d3b	sorter	0	6	1.0	True	6	16	1	1	0.25
+1	trained	train_sorter	train_sorter_d3c	sorter	0	6	1.0	True	6	16	0	1	0.25
+1	trained	train_sorter	train_sorter_d3d	sorter	0	10	1.0	True	6	16	0	1	0.25
+1	trained	probe_r1	probe_sorter_r1_a	sorter	0	8	1.0	True	6	16	0	1	0.25
+1	trained	probe_r1	probe_sorter_r1_b	sorter	0	9	1.0	True	6	16	0	1	0.25
+1	trained	probe_r1	probe_sequence_r1_a	sequence	0	11	1.0	True	6	17	1	0	
+1	trained	probe_r1	probe_sequence_r1_b	sequence	0	8	1.0	True	6	18	1	0	
+1	trained	probe_r1	probe_relations_r1_a	relations	0	8	1.0	True	6	19	1	2	0.25
+1	trained	probe_r1	probe_relations_r1_b	relations	0	36	1.0	True	6	20	1	1	0.25
+1	trained	probe_r1	probe_quantities_r1_a	quantities	0	8	1.0	True	6	21	1	0	
+1	trained	probe_r1	probe_quantities_r1_b	quantities	0	7	1.0	True	6	22	1	0	
+1	trained	probe_r1	probe_assembly_r1_a	assembly	0	148	1.0	True	6	23	1	2	0.25
+1	trained	probe_r1	probe_assembly_r1_b	assembly	0	62	1.0	True	6	24	1	2	0.25
+1	trained	probe_r1	probe_classification_r1_a	classification	0	13	1.0	True	6	25	1	2	0.429
+1	trained	probe_r1	probe_classification_r1_b	classification	0	19	1.0	True	6	26	1	1	0.429
+1	trained	train_sequence	train_sequence_p2a	sequence	0	7	1.0	True	6	27	1	0	
+1	trained	train_sequence	train_sequence_p2b	sequence	0	5	1.0	True	6	28	1	0	
+1	trained	train_sequence	train_sequence_p3a	sequence	0	8	1.0	True	6	29	1	0	
+1	trained	train_sequence	train_sequence_p3b	sequence	0	8	1.0	True	6	30	1	0	
+1	trained	train_sequence	train_sequence_p4a	sequence	0	8	1.0	True	6	31	1	0	
+1	trained	train_sequence	train_sequence_p4b	sequence	0	9	1.0	True	6	32	1	0	
+1	trained	train_sequence	train_sequence_p4c	sequence	0	11	1.0	True	6	33	1	0	
+1	trained	train_sequence	train_sequence_p4d	sequence	0	14	1.0	True	6	34	1	0	
+1	trained	probe_r2	probe_sorter_r2_a	sorter	0	11	1.0	True	6	35	1	1	0.25
+1	trained	probe_r2	probe_sorter_r2_b	sorter	0	10	1.0	True	6	35	0	1	0.25
+1	trained	probe_r2	probe_sequence_r2_a	sequence	0	8	1.0	True	6	36	1	0	
+1	trained	probe_r2	probe_sequence_r2_b	sequence	0	12	1.0	True	6	37	1	0	
+1	trained	probe_r2	probe_relations_r2_a	relations	0	16	1.0	True	6	38	1	1	0.25
+1	trained	probe_r2	probe_relations_r2_b	relations	0	7	1.0	True	6	39	1	1	0.25
+1	trained	probe_r2	probe_quantities_r2_a	quantities	0	13	1.0	True	6	40	1	0	
+1	trained	probe_r2	probe_quantities_r2_b	quantities	0	3	1.0	True	6	41	1	0	
+1	trained	probe_r2	probe_assembly_r2_a	assembly	0	112	1.0	True	6	42	1	1	0.25
+1	trained	probe_r2	probe_assembly_r2_b	assembly	0	388	1.0	True	6	43	1	1	0.25
+1	trained	probe_r2	probe_classification_r2_a	classification	0	16	1.0	True	6	44	1	1	0.429
+1	trained	probe_r2	probe_classification_r2_b	classification	0	17	1.0	True	6	45	1	1	0.429
+1	control	probe_r0	probe_sorter_r0_a	sorter	0	13	1.0	True	1	1	1	0	
+1	control	probe_r0	probe_sorter_r0_b	sorter	0	9	1.0	True	1	2	1	0	
+1	control	probe_r0	probe_sequence_r0_a	sequence	0	14	1.0	True	2	3	1	0	
+1	control	probe_r0	probe_sequence_r0_b	sequence	0	8	1.0	True	2	4	1	0	
+1	control	probe_r0	probe_relations_r0_a	relations	0	7	1.0	True	3	5	1	2	0.25
+1	control	probe_r0	probe_relations_r0_b	relations	0	79	1.0	True	3	6	1	2	0.25
+1	control	probe_r0	probe_quantities_r0_a	quantities	0	6	1.0	True	4	7	1	0	
+1	control	probe_r0	probe_quantities_r0_b	quantities	0	21	1.0	True	4	8	1	0	
+1	control	probe_r0	probe_assembly_r0_a	assembly	0	160	1.0	True	5	9	1	2	0.25
+1	control	probe_r0	probe_assembly_r0_b	assembly	0	500	15.875	False	5	9	0	2	0.25
+1	control	probe_r0	probe_classification_r0_a	classification	0	16	1.0	True	6	10	1	2	0.429
+1	control	probe_r0	probe_classification_r0_b	classification	0	18	1.0	True	6	11	1	2	0.429
+1	control	probe_r1	probe_sorter_r1_a	sorter	0	8	1.0	True	6	12	1	2	0.25
+1	control	probe_r1	probe_sorter_r1_b	sorter	0	9	1.0	True	6	12	0	1	0.25
+1	control	probe_r1	probe_sequence_r1_a	sequence	0	11	1.0	True	6	13	1	0	
+1	control	probe_r1	probe_sequence_r1_b	sequence	0	8	1.0	True	6	14	1	0	
+1	control	probe_r1	probe_relations_r1_a	relations	0	8	1.0	True	6	15	1	2	0.25
+1	control	probe_r1	probe_relations_r1_b	relations	0	36	1.0	True	6	16	1	1	0.25
+1	control	probe_r1	probe_quantities_r1_a	quantities	0	8	1.0	True	6	17	1	0	
+1	control	probe_r1	probe_quantities_r1_b	quantities	0	7	1.0	True	6	18	1	0	
+1	control	probe_r1	probe_assembly_r1_a	assembly	0	148	1.0	True	6	19	1	2	0.25
+1	control	probe_r1	probe_assembly_r1_b	assembly	0	62	1.0	True	6	20	1	2	0.25
+1	control	probe_r1	probe_classification_r1_a	classification	0	13	1.0	True	6	21	1	2	0.429
+1	control	probe_r1	probe_classification_r1_b	classification	0	19	1.0	True	6	22	1	1	0.429
+1	control	probe_r2	probe_sorter_r2_a	sorter	0	11	1.0	True	6	23	1	1	0.25
+1	control	probe_r2	probe_sorter_r2_b	sorter	0	10	1.0	True	6	23	0	1	0.25
+1	control	probe_r2	probe_sequence_r2_a	sequence	0	8	1.0	True	6	24	1	0	
+1	control	probe_r2	probe_sequence_r2_b	sequence	0	12	1.0	True	6	25	1	0	
+1	control	probe_r2	probe_relations_r2_a	relations	0	16	1.0	True	6	26	1	1	0.25
+1	control	probe_r2	probe_relations_r2_b	relations	0	7	1.0	True	6	27	1	1	0.25
+1	control	probe_r2	probe_quantities_r2_a	quantities	0	13	1.0	True	6	28	1	0	
+1	control	probe_r2	probe_quantities_r2_b	quantities	0	3	1.0	True	6	29	1	0	
+1	control	probe_r2	probe_assembly_r2_a	assembly	0	112	1.0	True	6	30	1	1	0.25
+1	control	probe_r2	probe_assembly_r2_b	assembly	0	388	1.0	True	6	31	1	1	0.25
+1	control	probe_r2	probe_classification_r2_a	classification	0	16	1.0	True	6	32	1	1	0.429
+1	control	probe_r2	probe_classification_r2_b	classification	0	17	1.0	True	6	33	1	1	0.429
+2	trained	probe_r0	probe_sorter_r0_a	sorter	0	12	1.0	True	1	1	1	0	
+2	trained	probe_r0	probe_sorter_r0_b	sorter	0	9	1.0	True	1	2	1	0	
+2	trained	probe_r0	probe_sequence_r0_a	sequence	0	11	1.0	True	2	3	1	0	
+2	trained	probe_r0	probe_sequence_r0_b	sequence	0	11	1.0	True	2	4	1	0	
+2	trained	probe_r0	probe_relations_r0_a	relations	0	8	1.0	True	3	5	1	2	0.25
+2	trained	probe_r0	probe_relations_r0_b	relations	0	8	1.0	True	3	6	1	2	0.25
+2	trained	probe_r0	probe_quantities_r0_a	quantities	0	6	1.0	True	4	7	1	0	
+2	trained	probe_r0	probe_quantities_r0_b	quantities	0	11	1.0	True	4	8	1	0	
+2	trained	probe_r0	probe_assembly_r0_a	assembly	0	500	15.875	False	5	8	0	2	0.25
+2	trained	probe_r0	probe_assembly_r0_b	assembly	0	500	15.8125	False	5	8	0	2	0.25
+2	trained	probe_r0	probe_classification_r0_a	classification	0	15	1.0	True	6	9	1	2	0.429
+2	trained	probe_r0	probe_classification_r0_b	classification	0	16	1.0	True	6	10	1	2	0.429
+2	trained	train_sorter	train_sorter_d1a	sorter	0	4	1.0	True	6	11	1	2	0.25
+2	trained	train_sorter	train_sorter_d1b	sorter	0	7	1.0	True	6	11	0	1	0.25
+2	trained	train_sorter	train_sorter_d2a	sorter	0	9	1.0	True	6	12	1	1	0.25
+2	trained	train_sorter	train_sorter_d2b	sorter	0	6	1.0	True	6	13	1	1	0.25
+2	trained	train_sorter	train_sorter_d3a	sorter	0	10	1.0	True	6	14	1	1	0.25
+2	trained	train_sorter	train_sorter_d3b	sorter	0	10	1.0	True	6	15	1	1	0.25
+2	trained	train_sorter	train_sorter_d3c	sorter	0	6	1.0	True	6	15	0	1	0.25
+2	trained	train_sorter	train_sorter_d3d	sorter	0	10	1.0	True	6	15	0	1	0.25
+2	trained	probe_r1	probe_sorter_r1_a	sorter	0	8	1.0	True	6	16	1	1	0.25
+2	trained	probe_r1	probe_sorter_r1_b	sorter	0	9	1.0	True	6	16	0	1	0.25
+2	trained	probe_r1	probe_sequence_r1_a	sequence	0	8	1.0	True	6	17	1	0	
+2	trained	probe_r1	probe_sequence_r1_b	sequence	0	13	1.0	True	6	18	1	0	
+2	trained	probe_r1	probe_relations_r1_a	relations	0	7	1.0	True	6	19	1	2	0.25
+2	trained	probe_r1	probe_relations_r1_b	relations	0	9	1.0	True	6	20	1	1	0.25
+2	trained	probe_r1	probe_quantities_r1_a	quantities	0	15	1.0	True	6	21	1	0	
+2	trained	probe_r1	probe_quantities_r1_b	quantities	0	17	1.0	True	6	22	1	0	
+2	trained	probe_r1	probe_assembly_r1_a	assembly	0	500	15.875	False	6	22	0	2	0.25
+2	trained	probe_r1	probe_assembly_r1_b	assembly	0	500	15.75	False	6	22	0	2	0.25
+2	trained	probe_r1	probe_classification_r1_a	classification	0	14	1.0	True	6	23	1	2	0.429
+2	trained	probe_r1	probe_classification_r1_b	classification	0	17	1.0	True	6	24	1	1	0.429
+2	trained	train_sequence	train_sequence_p2a	sequence	0	5	1.0	True	6	25	1	0	
+2	trained	train_sequence	train_sequence_p2b	sequence	0	7	1.0	True	6	26	1	0	
+2	trained	train_sequence	train_sequence_p3a	sequence	0	10	1.0	True	6	27	1	0	
+2	trained	train_sequence	train_sequence_p3b	sequence	0	7	1.0	True	6	28	1	0	
+2	trained	train_sequence	train_sequence_p4a	sequence	0	13	1.0	True	6	29	1	0	
+2	trained	train_sequence	train_sequence_p4b	sequence	0	10	1.0	True	6	30	1	0	
+2	trained	train_sequence	train_sequence_p4c	sequence	0	10	1.0	True	6	31	1	0	
+2	trained	train_sequence	train_sequence_p4d	sequence	0	11	1.0	True	6	32	1	0	
+2	trained	probe_r2	probe_sorter_r2_a	sorter	0	15	1.0	True	6	32	0	1	0.25
+2	trained	probe_r2	probe_sorter_r2_b	sorter	0	13	1.0	True	6	32	0	1	0.25
+2	trained	probe_r2	probe_sequence_r2_a	sequence	0	12	1.0	True	6	33	1	0	
+2	trained	probe_r2	probe_sequence_r2_b	sequence	0	12	1.0	True	6	34	1	0	
+2	trained	probe_r2	probe_relations_r2_a	relations	0	8	1.0	True	6	35	1	1	0.25
+2	trained	probe_r2	probe_relations_r2_b	relations	0	7	1.0	True	6	36	1	1	0.25
+2	trained	probe_r2	probe_quantities_r2_a	quantities	0	6	1.0	True	6	37	1	0	
+2	trained	probe_r2	probe_quantities_r2_b	quantities	0	5	1.0	True	6	38	1	0	
+2	trained	probe_r2	probe_assembly_r2_a	assembly	0	108	1.0	True	6	39	1	2	0.25
+2	trained	probe_r2	probe_assembly_r2_b	assembly	0	500	15.875	False	6	39	0	2	0.25
+2	trained	probe_r2	probe_classification_r2_a	classification	0	14	1.0	True	6	40	1	1	0.429
+2	trained	probe_r2	probe_classification_r2_b	classification	0	15	1.0	True	6	41	1	1	0.429
+2	control	probe_r0	probe_sorter_r0_a	sorter	0	12	1.0	True	1	1	1	0	
+2	control	probe_r0	probe_sorter_r0_b	sorter	0	9	1.0	True	1	2	1	0	
+2	control	probe_r0	probe_sequence_r0_a	sequence	0	11	1.0	True	2	3	1	0	
+2	control	probe_r0	probe_sequence_r0_b	sequence	0	11	1.0	True	2	4	1	0	
+2	control	probe_r0	probe_relations_r0_a	relations	0	8	1.0	True	3	5	1	2	0.25
+2	control	probe_r0	probe_relations_r0_b	relations	0	8	1.0	True	3	6	1	2	0.25
+2	control	probe_r0	probe_quantities_r0_a	quantities	0	6	1.0	True	4	7	1	0	
+2	control	probe_r0	probe_quantities_r0_b	quantities	0	11	1.0	True	4	8	1	0	
+2	control	probe_r0	probe_assembly_r0_a	assembly	0	500	15.875	False	5	8	0	2	0.25
+2	control	probe_r0	probe_assembly_r0_b	assembly	0	500	15.8125	False	5	8	0	2	0.25
+2	control	probe_r0	probe_classification_r0_a	classification	0	15	1.0	True	6	9	1	2	0.429
+2	control	probe_r0	probe_classification_r0_b	classification	0	16	1.0	True	6	10	1	2	0.429
+2	control	probe_r1	probe_sorter_r1_a	sorter	0	8	1.0	True	6	11	1	2	0.25
+2	control	probe_r1	probe_sorter_r1_b	sorter	0	9	1.0	True	6	12	1	1	0.25
+2	control	probe_r1	probe_sequence_r1_a	sequence	0	8	1.0	True	6	13	1	0	
+2	control	probe_r1	probe_sequence_r1_b	sequence	0	13	1.0	True	6	14	1	0	
+2	control	probe_r1	probe_relations_r1_a	relations	0	7	1.0	True	6	15	1	2	0.25
+2	control	probe_r1	probe_relations_r1_b	relations	0	9	1.0	True	6	16	1	1	0.25
+2	control	probe_r1	probe_quantities_r1_a	quantities	0	15	1.0	True	6	17	1	0	
+2	control	probe_r1	probe_quantities_r1_b	quantities	0	17	1.0	True	6	18	1	0	
+2	control	probe_r1	probe_assembly_r1_a	assembly	0	500	15.875	False	6	18	0	2	0.25
+2	control	probe_r1	probe_assembly_r1_b	assembly	0	136	1.0	True	6	19	1	2	0.25
+2	control	probe_r1	probe_classification_r1_a	classification	0	14	1.0	True	6	20	1	2	0.429
+2	control	probe_r1	probe_classification_r1_b	classification	0	17	1.0	True	6	21	1	1	0.429
+2	control	probe_r2	probe_sorter_r2_a	sorter	0	11	1.0	True	6	21	0	1	0.25
+2	control	probe_r2	probe_sorter_r2_b	sorter	0	10	1.0	True	6	22	1	1	0.25
+2	control	probe_r2	probe_sequence_r2_a	sequence	0	12	1.0	True	6	23	1	0	
+2	control	probe_r2	probe_sequence_r2_b	sequence	0	12	1.0	True	6	24	1	0	
+2	control	probe_r2	probe_relations_r2_a	relations	0	8	1.0	True	6	25	1	1	0.25
+2	control	probe_r2	probe_relations_r2_b	relations	0	7	1.0	True	6	26	1	1	0.25
+2	control	probe_r2	probe_quantities_r2_a	quantities	0	6	1.0	True	6	27	1	0	
+2	control	probe_r2	probe_quantities_r2_b	quantities	0	5	1.0	True	6	28	1	0	
+2	control	probe_r2	probe_assembly_r2_a	assembly	0	444	1.0	True	6	29	1	2	0.25
+2	control	probe_r2	probe_assembly_r2_b	assembly	0	126	1.0	True	6	30	1	2	0.25
+2	control	probe_r2	probe_classification_r2_a	classification	0	14	1.0	True	6	31	1	1	0.429
+2	control	probe_r2	probe_classification_r2_b	classification	0	15	1.0	True	6	32	1	1	0.429
+3	trained	probe_r0	probe_sorter_r0_a	sorter	0	13	1.0	True	1	1	1	0	
+3	trained	probe_r0	probe_sorter_r0_b	sorter	0	9	1.0	True	1	2	1	0	
+3	trained	probe_r0	probe_sequence_r0_a	sequence	0	19	1.0	True	2	3	1	0	
+3	trained	probe_r0	probe_sequence_r0_b	sequence	0	8	1.0	True	2	4	1	0	
+3	trained	probe_r0	probe_relations_r0_a	relations	0	17	1.0	True	3	5	1	2	0.25
+3	trained	probe_r0	probe_relations_r0_b	relations	0	24	1.0	True	3	6	1	2	0.25
+3	trained	probe_r0	probe_quantities_r0_a	quantities	0	15	1.0	True	4	7	1	0	
+3	trained	probe_r0	probe_quantities_r0_b	quantities	0	7	1.0	True	4	8	1	0	
+3	trained	probe_r0	probe_assembly_r0_a	assembly	0	500	15.9375	False	5	8	0	2	0.25
+3	trained	probe_r0	probe_assembly_r0_b	assembly	0	500	16.125	False	5	8	0	2	0.25
+3	trained	probe_r0	probe_classification_r0_a	classification	0	19	1.0	True	6	9	1	2	0.429
+3	trained	probe_r0	probe_classification_r0_b	classification	0	17	1.0	True	6	10	1	2	0.429
+3	trained	train_sorter	train_sorter_d1a	sorter	0	4	1.0	True	6	11	1	2	0.25
+3	trained	train_sorter	train_sorter_d1b	sorter	0	7	1.0	True	6	12	1	1	0.25
+3	trained	train_sorter	train_sorter_d2a	sorter	0	9	1.0	True	6	13	1	1	0.25
+3	trained	train_sorter	train_sorter_d2b	sorter	0	6	1.0	True	6	14	1	1	0.25
+3	trained	train_sorter	train_sorter_d3a	sorter	0	8	1.0	True	6	15	1	1	0.25
+3	trained	train_sorter	train_sorter_d3b	sorter	0	6	1.0	True	6	16	1	1	0.25
+3	trained	train_sorter	train_sorter_d3c	sorter	0	6	1.0	True	6	16	0	1	0.25
+3	trained	train_sorter	train_sorter_d3d	sorter	0	10	1.0	True	6	16	0	1	0.25
+3	trained	probe_r1	probe_sorter_r1_a	sorter	0	8	1.0	True	6	17	1	1	0.25
+3	trained	probe_r1	probe_sorter_r1_b	sorter	0	8	1.0	True	6	18	1	1	0.25
+3	trained	probe_r1	probe_sequence_r1_a	sequence	0	13	1.0	True	6	19	1	0	
+3	trained	probe_r1	probe_sequence_r1_b	sequence	0	9	1.0	True	6	20	1	0	
+3	trained	probe_r1	probe_relations_r1_a	relations	0	7	1.0	True	6	21	1	2	0.25
+3	trained	probe_r1	probe_relations_r1_b	relations	0	8	1.0	True	6	22	1	1	0.25
+3	trained	probe_r1	probe_quantities_r1_a	quantities	0	4	1.0	True	6	23	1	0	
+3	trained	probe_r1	probe_quantities_r1_b	quantities	0	3	1.0	True	6	24	1	0	
+3	trained	probe_r1	probe_assembly_r1_a	assembly	0	500	15.875	False	6	24	0	2	0.25
+3	trained	probe_r1	probe_assembly_r1_b	assembly	0	258	1.0	True	6	25	1	2	0.25
+3	trained	probe_r1	probe_classification_r1_a	classification	0	13	1.0	True	6	26	1	2	0.429
+3	trained	probe_r1	probe_classification_r1_b	classification	0	13	1.0	True	6	27	1	1	0.429
+3	trained	train_sequence	train_sequence_p2a	sequence	0	7	1.0	True	6	28	1	0	
+3	trained	train_sequence	train_sequence_p2b	sequence	0	7	1.0	True	6	29	1	0	
+3	trained	train_sequence	train_sequence_p3a	sequence	0	11	1.0	True	6	30	1	0	
+3	trained	train_sequence	train_sequence_p3b	sequence	0	7	1.0	True	6	31	1	0	
+3	trained	train_sequence	train_sequence_p4a	sequence	0	8	1.0	True	6	32	1	0	
+3	trained	train_sequence	train_sequence_p4b	sequence	0	11	1.0	True	6	33	1	0	
+3	trained	train_sequence	train_sequence_p4c	sequence	0	9	1.0	True	6	34	1	0	
+3	trained	train_sequence	train_sequence_p4d	sequence	0	12	1.0	True	6	35	1	0	
+3	trained	probe_r2	probe_sorter_r2_a	sorter	0	11	1.0	True	6	35	0	1	0.25
+3	trained	probe_r2	probe_sorter_r2_b	sorter	0	10	1.0	True	6	35	0	1	0.25
+3	trained	probe_r2	probe_sequence_r2_a	sequence	0	9	1.0	True	6	36	1	0	
+3	trained	probe_r2	probe_sequence_r2_b	sequence	0	10	1.0	True	6	37	1	0	
+3	trained	probe_r2	probe_relations_r2_a	relations	0	7	1.0	True	6	38	1	1	0.25
+3	trained	probe_r2	probe_relations_r2_b	relations	0	6	1.0	True	6	39	1	1	0.25
+3	trained	probe_r2	probe_quantities_r2_a	quantities	0	6	1.0	True	6	40	1	0	
+3	trained	probe_r2	probe_quantities_r2_b	quantities	0	6	1.0	True	6	41	1	0	
+3	trained	probe_r2	probe_assembly_r2_a	assembly	0	228	1.0	True	6	42	1	2	0.25
+3	trained	probe_r2	probe_assembly_r2_b	assembly	0	176	1.0	True	6	43	1	2	0.25
+3	trained	probe_r2	probe_classification_r2_a	classification	0	14	1.0	True	6	44	1	1	0.429
+3	trained	probe_r2	probe_classification_r2_b	classification	0	17	1.0	True	6	45	1	1	0.429
+3	control	probe_r0	probe_sorter_r0_a	sorter	0	13	1.0	True	1	1	1	0	
+3	control	probe_r0	probe_sorter_r0_b	sorter	0	9	1.0	True	1	2	1	0	
+3	control	probe_r0	probe_sequence_r0_a	sequence	0	19	1.0	True	2	3	1	0	
+3	control	probe_r0	probe_sequence_r0_b	sequence	0	8	1.0	True	2	4	1	0	
+3	control	probe_r0	probe_relations_r0_a	relations	0	17	1.0	True	3	5	1	2	0.25
+3	control	probe_r0	probe_relations_r0_b	relations	0	24	1.0	True	3	6	1	2	0.25
+3	control	probe_r0	probe_quantities_r0_a	quantities	0	15	1.0	True	4	7	1	0	
+3	control	probe_r0	probe_quantities_r0_b	quantities	0	7	1.0	True	4	8	1	0	
+3	control	probe_r0	probe_assembly_r0_a	assembly	0	500	15.9375	False	5	8	0	2	0.25
+3	control	probe_r0	probe_assembly_r0_b	assembly	0	500	16.125	False	5	8	0	2	0.25
+3	control	probe_r0	probe_classification_r0_a	classification	0	19	1.0	True	6	9	1	2	0.429
+3	control	probe_r0	probe_classification_r0_b	classification	0	17	1.0	True	6	10	1	2	0.429
+3	control	probe_r1	probe_sorter_r1_a	sorter	0	8	1.0	True	6	11	1	2	0.25
+3	control	probe_r1	probe_sorter_r1_b	sorter	0	9	1.0	True	6	11	0	1	0.25
+3	control	probe_r1	probe_sequence_r1_a	sequence	0	13	1.0	True	6	12	1	0	
+3	control	probe_r1	probe_sequence_r1_b	sequence	0	9	1.0	True	6	13	1	0	
+3	control	probe_r1	probe_relations_r1_a	relations	0	7	1.0	True	6	14	1	2	0.25
+3	control	probe_r1	probe_relations_r1_b	relations	0	8	1.0	True	6	15	1	1	0.25
+3	control	probe_r1	probe_quantities_r1_a	quantities	0	4	1.0	True	6	16	1	0	
+3	control	probe_r1	probe_quantities_r1_b	quantities	0	3	1.0	True	6	17	1	0	
+3	control	probe_r1	probe_assembly_r1_a	assembly	0	72	1.0	True	6	18	1	2	0.25
+3	control	probe_r1	probe_assembly_r1_b	assembly	0	500	15.9375	False	6	18	0	2	0.25
+3	control	probe_r1	probe_classification_r1_a	classification	0	13	1.0	True	6	19	1	2	0.429
+3	control	probe_r1	probe_classification_r1_b	classification	0	13	1.0	True	6	20	1	1	0.429
+3	control	probe_r2	probe_sorter_r2_a	sorter	0	11	1.0	True	6	20	0	1	0.25
+3	control	probe_r2	probe_sorter_r2_b	sorter	0	10	1.0	True	6	20	0	1	0.25
+3	control	probe_r2	probe_sequence_r2_a	sequence	0	9	1.0	True	6	21	1	0	
+3	control	probe_r2	probe_sequence_r2_b	sequence	0	10	1.0	True	6	22	1	0	
+3	control	probe_r2	probe_relations_r2_a	relations	0	7	1.0	True	6	23	1	1	0.25
+3	control	probe_r2	probe_relations_r2_b	relations	0	6	1.0	True	6	24	1	1	0.25
+3	control	probe_r2	probe_quantities_r2_a	quantities	0	6	1.0	True	6	25	1	0	
+3	control	probe_r2	probe_quantities_r2_b	quantities	0	6	1.0	True	6	26	1	0	
+3	control	probe_r2	probe_assembly_r2_a	assembly	0	500	15.875	False	6	26	0	2	0.25
+3	control	probe_r2	probe_assembly_r2_b	assembly	0	202	1.0	True	6	27	1	2	0.25
+3	control	probe_r2	probe_classification_r2_a	classification	0	14	1.0	True	6	28	1	1	0.429
+3	control	probe_r2	probe_classification_r2_b	classification	0	17	1.0	True	6	29	1	1	0.429
+4	trained	probe_r0	probe_sorter_r0_a	sorter	0	16	1.0	True	1	1	1	0	
+4	trained	probe_r0	probe_sorter_r0_b	sorter	0	9	1.0	True	1	2	1	0	
+4	trained	probe_r0	probe_sequence_r0_a	sequence	0	17	1.0	True	2	3	1	0	
+4	trained	probe_r0	probe_sequence_r0_b	sequence	0	8	1.0	True	2	4	1	0	
+4	trained	probe_r0	probe_relations_r0_a	relations	0	372	1.0	True	3	5	1	2	0.25
+4	trained	probe_r0	probe_relations_r0_b	relations	0	9	1.0	True	3	6	1	2	0.25
+4	trained	probe_r0	probe_quantities_r0_a	quantities	0	9	1.0	True	4	7	1	0	
+4	trained	probe_r0	probe_quantities_r0_b	quantities	0	6	1.0	True	4	8	1	0	
+4	trained	probe_r0	probe_assembly_r0_a	assembly	0	132	1.0	True	5	9	1	2	0.25
+4	trained	probe_r0	probe_assembly_r0_b	assembly	0	500	15.9375	False	5	9	0	2	0.25
+4	trained	probe_r0	probe_classification_r0_a	classification	0	14	1.0	True	6	10	1	2	0.429
+4	trained	probe_r0	probe_classification_r0_b	classification	0	17	1.0	True	6	11	1	2	0.429
+4	trained	train_sorter	train_sorter_d1a	sorter	0	4	1.0	True	6	12	1	2	0.25
+4	trained	train_sorter	train_sorter_d1b	sorter	0	7	1.0	True	6	13	1	1	0.25
+4	trained	train_sorter	train_sorter_d2a	sorter	0	9	1.0	True	6	14	1	1	0.25
+4	trained	train_sorter	train_sorter_d2b	sorter	0	6	1.0	True	6	15	1	1	0.25
+4	trained	train_sorter	train_sorter_d3a	sorter	0	12	1.0	True	6	15	0	1	0.25
+4	trained	train_sorter	train_sorter_d3b	sorter	0	10	1.0	True	6	16	1	1	0.25
+4	trained	train_sorter	train_sorter_d3c	sorter	0	6	1.0	True	6	16	0	1	0.25
+4	trained	train_sorter	train_sorter_d3d	sorter	0	10	1.0	True	6	16	0	1	0.25
+4	trained	probe_r1	probe_sorter_r1_a	sorter	0	8	1.0	True	6	17	1	1	0.25
+4	trained	probe_r1	probe_sorter_r1_b	sorter	0	9	1.0	True	6	17	0	1	0.25
+4	trained	probe_r1	probe_sequence_r1_a	sequence	0	13	1.0	True	6	18	1	0	
+4	trained	probe_r1	probe_sequence_r1_b	sequence	0	14	1.0	True	6	19	1	0	
+4	trained	probe_r1	probe_relations_r1_a	relations	0	35	1.0	True	6	20	1	2	0.25
+4	trained	probe_r1	probe_relations_r1_b	relations	0	6	1.0	True	6	21	1	1	0.25
+4	trained	probe_r1	probe_quantities_r1_a	quantities	0	6	1.0	True	6	22	1	0	
+4	trained	probe_r1	probe_quantities_r1_b	quantities	0	7	1.0	True	6	23	1	0	
+4	trained	probe_r1	probe_assembly_r1_a	assembly	0	500	16.0	False	6	23	0	2	0.25
+4	trained	probe_r1	probe_assembly_r1_b	assembly	0	500	16.0	False	6	23	0	2	0.25
+4	trained	probe_r1	probe_classification_r1_a	classification	0	16	1.0	True	6	24	1	2	0.429
+4	trained	probe_r1	probe_classification_r1_b	classification	0	17	1.0	True	6	25	1	1	0.429
+4	trained	train_sequence	train_sequence_p2a	sequence	0	6	1.0	True	6	26	1	0	
+4	trained	train_sequence	train_sequence_p2b	sequence	0	7	1.0	True	6	27	1	0	
+4	trained	train_sequence	train_sequence_p3a	sequence	0	9	1.0	True	6	28	1	0	
+4	trained	train_sequence	train_sequence_p3b	sequence	0	17	1.0	True	6	29	1	0	
+4	trained	train_sequence	train_sequence_p4a	sequence	0	8	1.0	True	6	30	1	0	
+4	trained	train_sequence	train_sequence_p4b	sequence	0	7	1.0	True	6	31	1	0	
+4	trained	train_sequence	train_sequence_p4c	sequence	0	10	1.0	True	6	32	1	0	
+4	trained	train_sequence	train_sequence_p4d	sequence	0	11	1.0	True	6	33	1	0	
+4	trained	probe_r2	probe_sorter_r2_a	sorter	0	15	1.0	True	6	33	0	1	0.25
+4	trained	probe_r2	probe_sorter_r2_b	sorter	0	10	1.0	True	6	33	0	1	0.25
+4	trained	probe_r2	probe_sequence_r2_a	sequence	0	9	1.0	True	6	34	1	0	
+4	trained	probe_r2	probe_sequence_r2_b	sequence	0	10	1.0	True	6	35	1	0	
+4	trained	probe_r2	probe_relations_r2_a	relations	0	6	1.0	True	6	35	0	1	0.25
+4	trained	probe_r2	probe_relations_r2_b	relations	0	8	1.0	True	6	36	1	1	0.25
+4	trained	probe_r2	probe_quantities_r2_a	quantities	0	6	1.0	True	6	36	0	0	
+4	trained	probe_r2	probe_quantities_r2_b	quantities	0	4	1.0	True	6	37	1	0	
+4	trained	probe_r2	probe_assembly_r2_a	assembly	0	500	15.9375	False	6	37	0	2	0.25
+4	trained	probe_r2	probe_assembly_r2_b	assembly	0	472	1.0	True	6	38	1	2	0.25
+4	trained	probe_r2	probe_classification_r2_a	classification	0	19	1.0	True	6	39	1	1	0.429
+4	trained	probe_r2	probe_classification_r2_b	classification	0	14	1.0	True	6	40	1	1	0.429
+4	control	probe_r0	probe_sorter_r0_a	sorter	0	16	1.0	True	1	1	1	0	
+4	control	probe_r0	probe_sorter_r0_b	sorter	0	9	1.0	True	1	2	1	0	
+4	control	probe_r0	probe_sequence_r0_a	sequence	0	17	1.0	True	2	3	1	0	
+4	control	probe_r0	probe_sequence_r0_b	sequence	0	8	1.0	True	2	4	1	0	
+4	control	probe_r0	probe_relations_r0_a	relations	0	372	1.0	True	3	5	1	2	0.25
+4	control	probe_r0	probe_relations_r0_b	relations	0	9	1.0	True	3	6	1	2	0.25
+4	control	probe_r0	probe_quantities_r0_a	quantities	0	9	1.0	True	4	7	1	0	
+4	control	probe_r0	probe_quantities_r0_b	quantities	0	6	1.0	True	4	8	1	0	
+4	control	probe_r0	probe_assembly_r0_a	assembly	0	132	1.0	True	5	9	1	2	0.25
+4	control	probe_r0	probe_assembly_r0_b	assembly	0	500	15.9375	False	5	9	0	2	0.25
+4	control	probe_r0	probe_classification_r0_a	classification	0	14	1.0	True	6	10	1	2	0.429
+4	control	probe_r0	probe_classification_r0_b	classification	0	17	1.0	True	6	11	1	2	0.429
+4	control	probe_r1	probe_sorter_r1_a	sorter	0	8	1.0	True	6	12	1	2	0.25
+4	control	probe_r1	probe_sorter_r1_b	sorter	0	9	1.0	True	6	12	0	1	0.25
+4	control	probe_r1	probe_sequence_r1_a	sequence	0	13	1.0	True	6	13	1	0	
+4	control	probe_r1	probe_sequence_r1_b	sequence	0	14	1.0	True	6	14	1	0	
+4	control	probe_r1	probe_relations_r1_a	relations	0	35	1.0	True	6	15	1	2	0.25
+4	control	probe_r1	probe_relations_r1_b	relations	0	6	1.0	True	6	16	1	1	0.25
+4	control	probe_r1	probe_quantities_r1_a	quantities	0	6	1.0	True	6	17	1	0	
+4	control	probe_r1	probe_quantities_r1_b	quantities	0	7	1.0	True	6	18	1	0	
+4	control	probe_r1	probe_assembly_r1_a	assembly	0	500	16.0	False	6	18	0	2	0.25
+4	control	probe_r1	probe_assembly_r1_b	assembly	0	500	16.0	False	6	18	0	2	0.25
+4	control	probe_r1	probe_classification_r1_a	classification	0	16	1.0	True	6	19	1	2	0.429
+4	control	probe_r1	probe_classification_r1_b	classification	0	17	1.0	True	6	20	1	1	0.429
+4	control	probe_r2	probe_sorter_r2_a	sorter	0	11	1.0	True	6	21	1	1	0.25
+4	control	probe_r2	probe_sorter_r2_b	sorter	0	10	1.0	True	6	22	1	1	0.25
+4	control	probe_r2	probe_sequence_r2_a	sequence	0	9	1.0	True	6	23	1	0	
+4	control	probe_r2	probe_sequence_r2_b	sequence	0	12	1.0	True	6	24	1	0	
+4	control	probe_r2	probe_relations_r2_a	relations	0	6	1.0	True	6	24	0	1	0.25
+4	control	probe_r2	probe_relations_r2_b	relations	0	8	1.0	True	6	25	1	1	0.25
+4	control	probe_r2	probe_quantities_r2_a	quantities	0	6	1.0	True	6	25	0	0	
+4	control	probe_r2	probe_quantities_r2_b	quantities	0	4	1.0	True	6	26	1	0	
+4	control	probe_r2	probe_assembly_r2_a	assembly	0	500	15.9375	False	6	26	0	2	0.25
+4	control	probe_r2	probe_assembly_r2_b	assembly	0	472	1.0	True	6	27	1	2	0.25
+4	control	probe_r2	probe_classification_r2_a	classification	0	19	1.0	True	6	28	1	1	0.429
+4	control	probe_r2	probe_classification_r2_b	classification	0	14	1.0	True	6	29	1	1	0.429

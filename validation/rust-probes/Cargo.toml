@@ -1,0 +1,11 @@
+[package]
+name = "genesis-validation-probes"
+version = "0.0.0"
+edition = "2024"
+publish = false
+
+# Experiment harness — lives outside the genesis crate. The probe
+# tests exercise the production crate through its public API surface
+# exactly as in-tree tests would; nothing here ships with genesis.
+[dev-dependencies]
+genesis = { path = "../../../genesis" }

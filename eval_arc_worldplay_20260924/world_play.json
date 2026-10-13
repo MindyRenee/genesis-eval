@@ -1,0 +1,28 @@
+{
+  "worlds": {
+    "bt11": {
+      "sessions": 2,
+      "steps": 115,
+      "episodes": 10,
+      "deaths": 9,
+      "wins": 1,
+      "best_progress": 1.0
+    },
+    "ar25": {
+      "sessions": 19,
+      "steps": 7533,
+      "episodes": 67,
+      "deaths": 67,
+      "wins": 0,
+      "best_progress": 0.125
+    },
+    "bp35": {
+      "sessions": 4,
+      "steps": 1570,
+      "episodes": 30,
+      "deaths": 30,
+      "wins": 0,
+      "best_progress": 0.0
+    }
+  }
+}

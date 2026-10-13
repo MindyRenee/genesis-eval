@@ -1,0 +1,245 @@
+{
+  "suite": "genesis-validation",
+  "backend": "offline",
+  "git_sha": "4e8c878",
+  "timestamp": "20260926-175800",
+  "probes": [
+    {
+      "probe_id": "dynamics.write_path",
+      "title": "Edge write-path decomposition",
+      "claim": "A taught fact is written by multiple independent mechanisms; removing either alone lowers but does not remove the edge.",
+      "tier": "dynamics",
+      "evidence": "causal",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "writers_fired",
+          "expected": ">=1",
+          "observed": 2,
+          "passed": true,
+          "detail": "2 add_edge calls for one taught fact"
+        },
+        {
+          "name": "edge_weight_intact",
+          "expected": "recorded",
+          "observed": 0.958,
+          "passed": true,
+          "detail": "edge weight with all writers: 0.958"
+        },
+        {
+          "name": "edge_survives_self_learn_ablation",
+          "expected": true,
+          "observed": true,
+          "passed": true,
+          "detail": "weight without self_learner: 0.6395"
+        },
+        {
+          "name": "edge_survives_semantic_ablation",
+          "expected": true,
+          "observed": true,
+          "passed": true,
+          "detail": "weight without semantic consolidation: 0.758"
+        },
+        {
+          "name": "redundancy_decomposes",
+          "expected": true,
+          "observed": true,
+          "passed": true,
+          "detail": "each single ablation lowers but does not remove the edge"
+        }
+      ],
+      "verbatim": {},
+      "notes": "items=[('lol', 'gad')]; intact=0.958 no_self_learner=0.6395 no_semantic=0.758"
+    },
+    {
+      "probe_id": "dynamics.stdp_in_vivo",
+      "title": "STDP substrate under real conversation",
+      "claim": "Real turns write synapses with the exact STDP weight \u2014 and the 50ms user\u2192thought gap means response concepts never bind to the user's words.",
+      "tier": "dynamics",
+      "evidence": "causal",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "synapses_form_in_vivo",
+          "expected": ">0",
+          "observed": 2,
+          "passed": true,
+          "detail": "2 synapses from 2 real turns"
+        },
+        {
+          "name": "ablated_silent",
+          "expected": 0,
+          "observed": 0,
+          "passed": true,
+          "detail": "STDP off \u2192 the substrate stays flat"
+        },
+        {
+          "name": "weight_matches_closed_form",
+          "expected": 1.55760156614281e-05,
+          "observed": 1.5576016e-05,
+          "passed": true,
+          "detail": "\u0394t=5ms LTP = a\u00b7e^(\u22125/\u03c4)\u00b7lr = 1.5576e-05"
+        },
+        {
+          "name": "user_thought_binding_present",
+          "expected": "0 (window finding)",
+          "observed": 0,
+          "passed": true,
+          "detail": "thought-only concepts=[]; user topics spike \u226540ms before thought topics \u2014 outside the STDP window, so user words don't bind to response-only concepts"
+        }
+      ],
+      "verbatim": {},
+      "notes": "synapses={('lol', 'gad'): 1.5576016e-05, ('wol', 'gid'): 1.577753e-05}"
+    },
+    {
+      "probe_id": "dynamics.td_in_vivo",
+      "title": "TD reward chain under real turns",
+      "claim": "The interaction reward trains action-conditioned values; ablating the update flattens the dopamine channel that gates plasticity.",
+      "tier": "dynamics",
+      "evidence": "causal",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "dopamine_moves_in_vivo",
+          "expected": "\u22600",
+          "observed": 0.02647933,
+          "passed": true,
+          "detail": "get_dopamine_signal after real turns: 0.02647933"
+        },
+        {
+          "name": "ablated_dopamine_flat",
+          "expected": 0.0,
+          "observed": 0.0,
+          "passed": true,
+          "detail": "TD update off \u2192 no dopamine signal"
+        },
+        {
+          "name": "downstream_differs",
+          "expected": true,
+          "observed": true,
+          "passed": true,
+          "detail": "TD feeds STDP gating \u2014 at minimum the dopamine channel differs"
+        }
+      ],
+      "verbatim": {},
+      "notes": "da_on=0.02647933 da_off=0.0"
+    },
+    {
+      "probe_id": "dynamics.verification_carrier",
+      "title": "Yes/no verification is load-bearing",
+      "claim": "Ablating question_verify_relation removes the verdict and degrades the rendered answer \u2014 the path carries verification.",
+      "tier": "dynamics",
+      "evidence": "causal",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "intact_verdict_present",
+          "expected": "yes",
+          "observed": "yes",
+          "passed": true,
+          "detail": "verdict metadata: yes"
+        },
+        {
+          "name": "ablated_verdict_gone",
+          "expected": null,
+          "observed": null,
+          "passed": true,
+          "detail": "with the path ablated no verdict is produced"
+        },
+        {
+          "name": "rendered_answer_differs",
+          "expected": true,
+          "observed": true,
+          "passed": true,
+          "detail": "intact='affirm' ablated='decline'"
+        }
+      ],
+      "verbatim": {
+        "intact": "Yes \u2014 sog is a kind of jeg. I don't know if that's really true.",
+        "ablated": "I don't quite follow jeg. What do you mean?"
+      },
+      "notes": ""
+    },
+    {
+      "probe_id": "dynamics.episodic_vs_semantic",
+      "title": "Semantic memory carries taught facts, not episodic",
+      "claim": "Ablating episode storage leaves edge-based recall intact \u2014 the systems carry different kinds of memory.",
+      "tier": "dynamics",
+      "evidence": "causal",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "episodes_stored_intact",
+          "expected": ">0",
+          "observed": 3,
+          "passed": true,
+          "detail": "3 episodes written"
+        },
+        {
+          "name": "episodes_ablated_zero",
+          "expected": 0,
+          "observed": 0,
+          "passed": true,
+          "detail": "store ablated \u2192 nothing lands in LTM"
+        },
+        {
+          "name": "semantic_edge_still_written",
+          "expected": true,
+          "observed": true,
+          "passed": true,
+          "detail": "edge weight with episodic off: 0.966"
+        },
+        {
+          "name": "semantic_recall_survives",
+          "expected": true,
+          "observed": true,
+          "passed": true,
+          "detail": "recall with zero episodes: 'Kif is a hut. It is the hut.'"
+        }
+      ],
+      "verbatim": {
+        "ablated_recall": "Kif is a hut. It is the hut."
+      },
+      "notes": "edge intact=0.966 ablated=0.966"
+    },
+    {
+      "probe_id": "dynamics.hedge_gate",
+      "title": "Uncertainty gate net contribution",
+      "claim": "Measured net change in decline rate with the hedge gate removed \u2014 whether the gate adds honesty or duplicates the composer's own restraint.",
+      "tier": "dynamics",
+      "evidence": "causal",
+      "backend": "offline",
+      "passed": true,
+      "measurements": [
+        {
+          "name": "declines_intact",
+          "expected": "3",
+          "observed": 3,
+          "passed": true,
+          "detail": "3/3 declines with gate"
+        },
+        {
+          "name": "declines_without_gate",
+          "expected": "3",
+          "observed": 3,
+          "passed": true,
+          "detail": "3/3 declines without gate"
+        },
+        {
+          "name": "gate_net_effect",
+          "expected": "reported",
+          "observed": 0,
+          "passed": true,
+          "detail": "positive = gate adds honesty; 0 = composer already declines"
+        }
+      ],
+      "verbatim": {},
+      "notes": ""
+    }
+  ]
+}

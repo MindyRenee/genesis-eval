@@ -1,0 +1,991 @@
+{"action": "action4", "avatar_color": null, "data": null, "elapsed_ms": 37, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 0}
+{"action": "action6", "avatar_color": 4, "data": {"x": 41, "y": 4}, "elapsed_ms": 122, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 1}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 208, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 2}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 303, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 3}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 396, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 4}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 482, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 5}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 576, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 6}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 663, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 7}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 735, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 8}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 805, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 9}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 897, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 10}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 968, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 11}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 1052, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 12}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 1138, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 13}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 1221, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 14}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 1305, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 15}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 1382, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 16}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 1558, "frame_change": 0.0137, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 17}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 1648, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 18}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 1729, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 19}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 1814, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 20}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 1905, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 21}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 2000, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 22}
+{"action": "action6", "avatar_color": 4, "data": {"x": 8, "y": 5}, "elapsed_ms": 2096, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 23}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 2182, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 24}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 2373, "frame_change": 0.0112, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 25}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 2457, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 26}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 2532, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 27}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 2615, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 28}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 2699, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 29}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 2772, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 30}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 2857, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 31}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 2931, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 32}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 3016, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 33}
+{"action": "action6", "avatar_color": 4, "data": {"x": 37, "y": 4}, "elapsed_ms": 3097, "frame_change": 0.0232, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 34}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 3272, "frame_change": 0.0137, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 35}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 3341, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 36}
+{"action": "action6", "avatar_color": 4, "data": {"x": 37, "y": 4}, "elapsed_ms": 3422, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 37}
+{"action": "action6", "avatar_color": 4, "data": {"x": 43, "y": 4}, "elapsed_ms": 3498, "frame_change": 0.0234, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 38}
+{"action": "action6", "avatar_color": 4, "data": {"x": 43, "y": 4}, "elapsed_ms": 3585, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 39}
+{"action": "action6", "avatar_color": 4, "data": {"x": 43, "y": 4}, "elapsed_ms": 3676, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 40}
+{"action": "action6", "avatar_color": 4, "data": {"x": 43, "y": 7}, "elapsed_ms": 3753, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 41}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 3828, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 42}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 3906, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 43}
+{"action": "action6", "avatar_color": 4, "data": {"x": 43, "y": 7}, "elapsed_ms": 3991, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 44}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 4155, "frame_change": 0.0134, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 45}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 4230, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 46}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 4302, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 47}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 4378, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 48}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 4549, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 49}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 4620, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 50}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 4699, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 51}
+{"action": "action6", "avatar_color": 4, "data": {"x": 43, "y": 7}, "elapsed_ms": 4774, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 52}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 4844, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 53}
+{"action": "action6", "avatar_color": 4, "data": {"x": 43, "y": 7}, "elapsed_ms": 4927, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 54}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 4990, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 55}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 5061, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 56}
+{"action": "action6", "avatar_color": 4, "data": {"x": 8, "y": 10}, "elapsed_ms": 5136, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 57}
+{"action": "action6", "avatar_color": 4, "data": {"x": 8, "y": 10}, "elapsed_ms": 5217, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 58}
+{"action": "action6", "avatar_color": 4, "data": {"x": 8, "y": 10}, "elapsed_ms": 5300, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 59}
+{"action": "action6", "avatar_color": 4, "data": {"x": 21, "y": 28}, "elapsed_ms": 5376, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 60}
+{"action": "action6", "avatar_color": 4, "data": {"x": 21, "y": 28}, "elapsed_ms": 5461, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 61}
+{"action": "action6", "avatar_color": 4, "data": {"x": 21, "y": 28}, "elapsed_ms": 5545, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 62}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 5606, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 63}
+{"action": "action6", "avatar_color": 4, "data": {"x": 19, "y": 38}, "elapsed_ms": 5690, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 64}
+{"action": "action6", "avatar_color": 4, "data": {"x": 19, "y": 38}, "elapsed_ms": 5772, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 65}
+{"action": "action6", "avatar_color": 4, "data": {"x": 21, "y": 38}, "elapsed_ms": 5842, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 66}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 5913, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 67}
+{"action": "action6", "avatar_color": 4, "data": {"x": 21, "y": 38}, "elapsed_ms": 5995, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 68}
+{"action": "action6", "avatar_color": 4, "data": {"x": 32, "y": 38}, "elapsed_ms": 6068, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 69}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 6233, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 70}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 6298, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 71}
+{"action": "action6", "avatar_color": 4, "data": {"x": 32, "y": 38}, "elapsed_ms": 6378, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 72}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 6449, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 73}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 6524, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 74}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 6594, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 75}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 6756, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 76}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 6824, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 77}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 6897, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 78}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 7060, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 79}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 7221, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 80}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 7380, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 81}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 7542, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 82}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 7710, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 83}
+{"action": "action6", "avatar_color": 4, "data": {"x": 32, "y": 38}, "elapsed_ms": 7794, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 84}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 7858, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 85}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 8022, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 86}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 8092, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 87}
+{"action": "action6", "avatar_color": 4, "data": {"x": 22, "y": 29}, "elapsed_ms": 8166, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 88}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 8240, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 89}
+{"action": "action6", "avatar_color": 4, "data": {"x": 22, "y": 29}, "elapsed_ms": 8317, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 90}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 8387, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 91}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 8470, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 92}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 8545, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 93}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 8606, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 94}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 8685, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 95}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 8752, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 96}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 8829, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 97}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 8901, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 98}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 8970, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "GAME_OVER", "step": 99}
+{"action": "action6", "avatar_color": 4, "data": {"x": 32, "y": 26}, "elapsed_ms": 9008, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 101}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 9084, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 102}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 9170, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 103}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 9250, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 104}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 9333, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 105}
+{"action": "action6", "avatar_color": 4, "data": {"x": 32, "y": 26}, "elapsed_ms": 9399, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 106}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 9482, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 107}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 9551, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 108}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 9634, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 109}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 9714, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 110}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 9875, "frame_change": 0.0137, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 111}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 9957, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 112}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 10033, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 113}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 10104, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 114}
+{"action": "action6", "avatar_color": 4, "data": {"x": 32, "y": 26}, "elapsed_ms": 10184, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 115}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 10266, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 116}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 10331, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 117}
+{"action": "action6", "avatar_color": 4, "data": {"x": 32, "y": 26}, "elapsed_ms": 10420, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 118}
+{"action": "action6", "avatar_color": 4, "data": {"x": 32, "y": 26}, "elapsed_ms": 10508, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 119}
+{"action": "action6", "avatar_color": 4, "data": {"x": 32, "y": 28}, "elapsed_ms": 10587, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 120}
+{"action": "action6", "avatar_color": 4, "data": {"x": 32, "y": 28}, "elapsed_ms": 10672, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 121}
+{"action": "action6", "avatar_color": 4, "data": {"x": 30, "y": 37}, "elapsed_ms": 10750, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 122}
+{"action": "action6", "avatar_color": 4, "data": {"x": 30, "y": 37}, "elapsed_ms": 10838, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 123}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 10911, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 124}
+{"action": "action6", "avatar_color": 4, "data": {"x": 30, "y": 37}, "elapsed_ms": 10995, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 125}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 11163, "frame_change": 0.0063, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 126}
+{"action": "action6", "avatar_color": 4, "data": {"x": 30, "y": 37}, "elapsed_ms": 11246, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 127}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 11397, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 128}
+{"action": "action6", "avatar_color": 4, "data": {"x": 42, "y": 28}, "elapsed_ms": 11482, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 129}
+{"action": "action6", "avatar_color": 4, "data": {"x": 42, "y": 28}, "elapsed_ms": 11566, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 130}
+{"action": "action6", "avatar_color": 4, "data": {"x": 41, "y": 29}, "elapsed_ms": 11641, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 131}
+{"action": "action6", "avatar_color": 4, "data": {"x": 41, "y": 29}, "elapsed_ms": 11725, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 132}
+{"action": "action6", "avatar_color": 4, "data": {"x": 32, "y": 42}, "elapsed_ms": 11800, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 133}
+{"action": "action6", "avatar_color": 4, "data": {"x": 32, "y": 42}, "elapsed_ms": 11882, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 134}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 11954, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 135}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 12148, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 136}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 12227, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 137}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 12307, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 138}
+{"action": "action6", "avatar_color": 4, "data": {"x": 32, "y": 42}, "elapsed_ms": 12397, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 139}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 12479, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 140}
+{"action": "action6", "avatar_color": 4, "data": {"x": 32, "y": 42}, "elapsed_ms": 12569, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 141}
+{"action": "action6", "avatar_color": 4, "data": {"x": 42, "y": 49}, "elapsed_ms": 12650, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 142}
+{"action": "action6", "avatar_color": 4, "data": {"x": 42, "y": 49}, "elapsed_ms": 12742, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 143}
+{"action": "action6", "avatar_color": 4, "data": {"x": 42, "y": 49}, "elapsed_ms": 12834, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 144}
+{"action": "action6", "avatar_color": 4, "data": {"x": 41, "y": 48}, "elapsed_ms": 12905, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 145}
+{"action": "action6", "avatar_color": 4, "data": {"x": 41, "y": 48}, "elapsed_ms": 12999, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 146}
+{"action": "action6", "avatar_color": 4, "data": {"x": 18, "y": 0}, "elapsed_ms": 13082, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 147}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 13272, "frame_change": 0.0051, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 148}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 13351, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 149}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 13538, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 150}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 13724, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 151}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 13907, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 152}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 14074, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 153}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 14251, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 154}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 14321, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 155}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 14485, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 156}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 14655, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 157}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 14810, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 158}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 14992, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 159}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 15176, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 160}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 15347, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 161}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 15530, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 162}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 15711, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 163}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 15882, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 164}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 15958, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 165}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 16143, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 166}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 16314, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 167}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 16387, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 168}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 16559, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 169}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 16721, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 170}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 16891, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 171}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 16960, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 172}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 17029, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 173}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 17099, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 174}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 17270, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 175}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 17342, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 176}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 17515, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 177}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 17584, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 178}
+{"action": "action6", "avatar_color": 4, "data": {"x": 18, "y": 0}, "elapsed_ms": 17661, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 179}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 17738, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 180}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 17801, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 181}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 17879, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 182}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 18040, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 183}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 18211, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 184}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 18278, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 185}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 18446, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 186}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 18518, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 187}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 18589, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 188}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 18747, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 189}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 18912, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 190}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 19077, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 191}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 19234, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 192}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 19399, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 193}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 19570, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 194}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 19730, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 195}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 19897, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 196}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 20055, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 197}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 20220, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 198}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 20387, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 199}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 20447, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "GAME_OVER", "step": 200}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 20473, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 202}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 20540, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 203}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 20608, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 204}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 20770, "frame_change": 0.0125, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 205}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 20842, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 206}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 20904, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 207}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 20985, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 208}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 21063, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 209}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 21136, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 210}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 21217, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 211}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 21294, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 212}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 21372, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 213}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 21452, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 214}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 21525, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 215}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 21604, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 216}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 21684, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 217}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 21747, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 218}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 21828, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 219}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 21911, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 220}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 21982, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 221}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 22065, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 222}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 22140, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 223}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 22213, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 224}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 22299, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 225}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 22372, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 226}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 22454, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 227}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 22528, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 228}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 22614, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 229}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 22692, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 230}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 22772, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 231}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 22926, "frame_change": 0.01, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 232}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 22999, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 233}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 23067, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 234}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 23139, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 235}
+{"action": "action6", "avatar_color": 4, "data": {"x": 18, "y": 0}, "elapsed_ms": 23215, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 236}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 23286, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 237}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 23363, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 238}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 23436, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 239}
+{"action": "action6", "avatar_color": 4, "data": {"x": 44, "y": 38}, "elapsed_ms": 23511, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 240}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 23593, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 241}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 23664, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 242}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 23823, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 243}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 23904, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 244}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 23978, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 245}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 24057, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 246}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 24128, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 247}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 24201, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 248}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 24374, "frame_change": 0.0027, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 249}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 24541, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 250}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 24611, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 251}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 24680, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 252}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 24757, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 253}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 24931, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 254}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 25000, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 255}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 25172, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 256}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 25241, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 257}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 25321, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 258}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 25483, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 259}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 25652, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 260}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 25820, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 261}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 25981, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 262}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 26155, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 263}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 26327, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 264}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 26489, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 265}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 26659, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 266}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 26831, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 267}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 26992, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 268}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 27154, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 269}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 27323, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 270}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 27484, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 271}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 27655, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 272}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 27722, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 273}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 27800, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 274}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 27874, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 275}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 27938, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 276}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 28102, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 277}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 28269, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 278}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 28338, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 279}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 28416, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 280}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 28495, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 281}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 28558, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 282}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 28636, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 283}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 28796, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 284}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 28966, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 285}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 29139, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 286}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 29300, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 287}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 29473, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 288}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 29641, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 289}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 29799, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 290}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 29965, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 291}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 30130, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 292}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 30190, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 293}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 30358, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 294}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 30525, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 295}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 30680, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 296}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 30745, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 297}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 30908, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 298}
+{"action": "action6", "avatar_color": 4, "data": {"x": 44, "y": 38}, "elapsed_ms": 30979, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 299}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 31148, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 300}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 31217, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "GAME_OVER", "step": 301}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 31250, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 303}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 31329, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 304}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 31505, "frame_change": 0.0137, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 305}
+{"action": "action6", "avatar_color": 4, "data": {"x": 44, "y": 38}, "elapsed_ms": 31586, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 306}
+{"action": "action6", "avatar_color": 4, "data": {"x": 44, "y": 38}, "elapsed_ms": 31665, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 307}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 31832, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 308}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 32007, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 309}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 32175, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 310}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 32350, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 311}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 32525, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 312}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 32677, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 313}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 32847, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 314}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 33019, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 315}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 33183, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 316}
+{"action": "action6", "avatar_color": 4, "data": {"x": 33, "y": 40}, "elapsed_ms": 33257, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 317}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 33418, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 318}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 33583, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 319}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 33750, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 320}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 33919, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 321}
+{"action": "action6", "avatar_color": 4, "data": {"x": 33, "y": 40}, "elapsed_ms": 33987, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 322}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 34161, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 323}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 34223, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 324}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 34301, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 325}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 34381, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 326}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 34451, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 327}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 34623, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 328}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 34785, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 329}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 34846, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 330}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 34922, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 331}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 35002, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 332}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 35177, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 333}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 35342, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 334}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 35414, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 335}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 35494, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 336}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 35573, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 337}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 35653, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 338}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 35735, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 339}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 35815, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 340}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 35888, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 341}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 35972, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 342}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 36141, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 343}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 36212, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 344}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 36294, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 345}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 36454, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 346}
+{"action": "action6", "avatar_color": 4, "data": {"x": 33, "y": 40}, "elapsed_ms": 36532, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 347}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 36615, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 348}
+{"action": "action6", "avatar_color": 4, "data": {"x": 33, "y": 40}, "elapsed_ms": 36695, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 349}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 36776, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 350}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 36849, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 351}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 36919, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 352}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 36991, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 353}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 37071, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 354}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 37149, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 355}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 37229, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 356}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 37301, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 357}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 37362, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 358}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 37439, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 359}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 37520, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 360}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 37683, "frame_change": 0.0112, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 361}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 37758, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 362}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 37824, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 363}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 37893, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 364}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 37968, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 365}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 38038, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 366}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 38111, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 367}
+{"action": "action6", "avatar_color": 4, "data": {"x": 33, "y": 40}, "elapsed_ms": 38179, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 368}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 38246, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 369}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 38311, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 370}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 38380, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 371}
+{"action": "action6", "avatar_color": 4, "data": {"x": 42, "y": 38}, "elapsed_ms": 38447, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 372}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 38522, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 373}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 38589, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 374}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 38658, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 375}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 38733, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 376}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 38802, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 377}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 38880, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 378}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 38951, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 379}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 39020, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 380}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 39090, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 381}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 39245, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 382}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 39305, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 383}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 39382, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 384}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 39453, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 385}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 39524, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 386}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 39596, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 387}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 39663, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 388}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 39735, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 389}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 39799, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 390}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 39867, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 391}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 39931, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 392}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 40009, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 393}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 40075, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 394}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 40148, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 395}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 40211, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 396}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 40273, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 397}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 40349, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 398}
+{"action": "action6", "avatar_color": 4, "data": {"x": 42, "y": 38}, "elapsed_ms": 40416, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 399}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 40494, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 400}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 40571, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 401}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 40640, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "GAME_OVER", "step": 402}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 40665, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 404}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 40745, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 405}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 40822, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 406}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 40888, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 407}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 40962, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 408}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 41031, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 409}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 41113, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 410}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 41186, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 411}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 41267, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 412}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 41345, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 413}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 41413, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 414}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 41490, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 415}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 41555, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 416}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 41630, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 417}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 41708, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 418}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 41786, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 419}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 41846, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 420}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 41917, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 421}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 41997, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 422}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 42077, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 423}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 42157, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 424}
+{"action": "action6", "avatar_color": 4, "data": {"x": 42, "y": 38}, "elapsed_ms": 42220, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 425}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 42297, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 426}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 42374, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 427}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 42443, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 428}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 42521, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 429}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 42591, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 430}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 42650, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 431}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 42726, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 432}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 42796, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 433}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 42861, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 434}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 42930, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 435}
+{"action": "action6", "avatar_color": 4, "data": {"x": 42, "y": 38}, "elapsed_ms": 43002, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 436}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 43078, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 437}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 43156, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 438}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 43223, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 439}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 43299, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 440}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 43459, "frame_change": 0.0122, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 441}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 43621, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 442}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 43700, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 443}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 43780, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 444}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 43854, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 445}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 43932, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 446}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 44013, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 447}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 44093, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 448}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 44173, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 449}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 44254, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 450}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 44329, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 451}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 44411, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 452}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 44481, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 453}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 44560, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 454}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 44641, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 455}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 44714, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 456}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 44794, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 457}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 44866, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 458}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 44948, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 459}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 45027, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 460}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 45107, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 461}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 45186, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 462}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 45266, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 463}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 45337, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 464}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 45416, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 465}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 45490, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 466}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 45561, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 467}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 45642, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 468}
+{"action": "action6", "avatar_color": 4, "data": {"x": 42, "y": 38}, "elapsed_ms": 45719, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 469}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 45788, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 470}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 45866, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 471}
+{"action": "action6", "avatar_color": 4, "data": {"x": 32, "y": 36}, "elapsed_ms": 45942, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 472}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 46003, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 473}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 46081, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 474}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 46143, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 475}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 46222, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 476}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 46302, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 477}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 46369, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 478}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 46446, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 479}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 46521, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 480}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 46601, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 481}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 46679, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 482}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 46751, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 483}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 46833, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 484}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 46915, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 485}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 46979, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 486}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 47059, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 487}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 47133, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 488}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 47213, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 489}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 47291, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 490}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 47367, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 491}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 47436, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 492}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 47508, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 493}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 47589, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 494}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 47664, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 495}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 47747, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 496}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 47825, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 497}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 47896, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 498}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 47974, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 499}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 48043, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 500}
+{"action": "action6", "avatar_color": 4, "data": {"x": 32, "y": 41}, "elapsed_ms": 48120, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 501}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 48199, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 502}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 48269, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "GAME_OVER", "step": 503}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 48302, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 505}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 48374, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 506}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 48433, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 507}
+{"action": "action6", "avatar_color": 4, "data": {"x": 32, "y": 41}, "elapsed_ms": 48508, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 508}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 48572, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 509}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 48643, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 510}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 48723, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 511}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 48796, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 512}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 48871, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 513}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 48946, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 514}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 49021, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 515}
+{"action": "action6", "avatar_color": 4, "data": {"x": 32, "y": 41}, "elapsed_ms": 49100, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 516}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 49175, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 517}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 49250, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 518}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 49330, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 519}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 49408, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 520}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 49488, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 521}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 49566, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 522}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 49647, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 523}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 49727, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 524}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 49805, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 525}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 49964, "frame_change": 0.0137, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 526}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 50040, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 527}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 50111, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 528}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 50191, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 529}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 50272, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 530}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 50350, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 531}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 50419, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 532}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 50491, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 533}
+{"action": "action6", "avatar_color": 4, "data": {"x": 32, "y": 41}, "elapsed_ms": 50566, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 534}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 50636, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 535}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 50717, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 536}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 50785, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 537}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 50867, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 538}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 50941, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 539}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 51020, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 540}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 51099, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 541}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 51180, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 542}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 51252, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 543}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 51330, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 544}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 51409, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 545}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 51471, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 546}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 51551, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 547}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 51626, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 548}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 51712, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 549}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 51782, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 550}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 51854, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 551}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 51925, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 552}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 52004, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 553}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 52067, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 554}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 52150, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 555}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 52229, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 556}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 52290, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 557}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 52372, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 558}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 52450, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 559}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 52513, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 560}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 52585, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 561}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 52653, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 562}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 52730, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 563}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 52810, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 564}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 52967, "frame_change": 0.0063, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 565}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 53047, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 566}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 53127, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 567}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 53196, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 568}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 53273, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 569}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 53353, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 570}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 53417, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 571}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 53499, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 572}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 53571, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 573}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 53641, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 574}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 53719, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 575}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 53791, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 576}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 53872, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 577}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 53952, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 578}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 54015, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 579}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 54094, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 580}
+{"action": "action6", "avatar_color": 4, "data": {"x": 31, "y": 38}, "elapsed_ms": 54172, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 581}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 54236, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 582}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 54319, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 583}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 54397, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 584}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 54471, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 585}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 54552, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 586}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 54622, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 587}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 54695, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 588}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 54777, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 589}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 54850, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 590}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 54931, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 591}
+{"action": "action6", "avatar_color": 4, "data": {"x": 35, "y": 38}, "elapsed_ms": 55007, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 592}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 55075, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 593}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 55155, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 594}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 55234, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 595}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 55307, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 596}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 55389, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 597}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 55471, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 598}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 55540, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 599}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 55614, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 600}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 55697, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 601}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 55776, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 602}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 55854, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 603}
+{"action": "action6", "avatar_color": 4, "data": {"x": 19, "y": 0}, "elapsed_ms": 55921, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "GAME_OVER", "step": 604}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 55955, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 606}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 56028, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 607}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 56108, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 608}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 56173, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 609}
+{"action": "action6", "avatar_color": 4, "data": {"x": 19, "y": 0}, "elapsed_ms": 56243, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 610}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 56313, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 611}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 56475, "frame_change": 0.0122, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 612}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 56552, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 613}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 56724, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 614}
+{"action": "action6", "avatar_color": 4, "data": {"x": 20, "y": 0}, "elapsed_ms": 56807, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 615}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 56868, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 616}
+{"action": "action6", "avatar_color": 4, "data": {"x": 21, "y": 0}, "elapsed_ms": 56953, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 617}
+{"action": "action6", "avatar_color": 4, "data": {"x": 21, "y": 0}, "elapsed_ms": 57037, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 618}
+{"action": "action6", "avatar_color": 4, "data": {"x": 22, "y": 0}, "elapsed_ms": 57113, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 619}
+{"action": "action6", "avatar_color": 4, "data": {"x": 22, "y": 0}, "elapsed_ms": 57198, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 620}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 57268, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 621}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 57338, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 622}
+{"action": "action6", "avatar_color": 4, "data": {"x": 22, "y": 0}, "elapsed_ms": 57420, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 623}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 57501, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 624}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 57571, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 625}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 57654, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 626}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 57717, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 627}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 57797, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 628}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 57871, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 629}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 57943, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 630}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 58026, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 631}
+{"action": "action6", "avatar_color": 4, "data": {"x": 22, "y": 0}, "elapsed_ms": 58111, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 632}
+{"action": "action6", "avatar_color": 4, "data": {"x": 23, "y": 0}, "elapsed_ms": 58187, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 633}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 58261, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 634}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 58333, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 635}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 58410, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 636}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 58489, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 637}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 58570, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 638}
+{"action": "action6", "avatar_color": 4, "data": {"x": 23, "y": 0}, "elapsed_ms": 58663, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 639}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 58735, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 640}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 58815, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 641}
+{"action": "action6", "avatar_color": 4, "data": {"x": 23, "y": 0}, "elapsed_ms": 58899, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 642}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 58970, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 643}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 59039, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 644}
+{"action": "action6", "avatar_color": 4, "data": {"x": 23, "y": 0}, "elapsed_ms": 59112, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 645}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 59192, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 646}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 59264, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 647}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 59343, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 648}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 59422, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 649}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 59483, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 650}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 59562, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 651}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 59627, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 652}
+{"action": "action6", "avatar_color": 4, "data": {"x": 23, "y": 0}, "elapsed_ms": 59703, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 653}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 59774, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 654}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 59844, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 655}
+{"action": "action6", "avatar_color": 4, "data": {"x": 23, "y": 0}, "elapsed_ms": 59921, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 656}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 60000, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 657}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 60072, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 658}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 60143, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 659}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 60213, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 660}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 60284, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 661}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 60357, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 662}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 60437, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 663}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 60517, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 664}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 60589, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 665}
+{"action": "action6", "avatar_color": 4, "data": {"x": 23, "y": 0}, "elapsed_ms": 60667, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 666}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 60746, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 667}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 60820, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 668}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 60890, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 669}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 60972, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 670}
+{"action": "action6", "avatar_color": 4, "data": {"x": 23, "y": 0}, "elapsed_ms": 61047, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 671}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 61115, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 672}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 61189, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 673}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 61265, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 674}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 61336, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 675}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 61416, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 676}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 61487, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 677}
+{"action": "action6", "avatar_color": 4, "data": {"x": 24, "y": 0}, "elapsed_ms": 61564, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 678}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 61642, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 679}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 61720, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 680}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 61798, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 681}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 61878, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 682}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 61946, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 683}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 62026, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 684}
+{"action": "action6", "avatar_color": 4, "data": {"x": 24, "y": 0}, "elapsed_ms": 62103, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 685}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 62167, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 686}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 62248, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 687}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 62330, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 688}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 62410, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 689}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 62491, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 690}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 62554, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 691}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 62632, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 692}
+{"action": "action6", "avatar_color": 4, "data": {"x": 25, "y": 0}, "elapsed_ms": 62709, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 693}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 62781, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 694}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 62860, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 695}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 62938, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 696}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 63008, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 697}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 63083, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 698}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 63163, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 699}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 63232, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 700}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 63311, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 701}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 63372, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 702}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 63450, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 703}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 63529, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 704}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 63591, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "GAME_OVER", "step": 705}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 63624, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 707}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 63699, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 708}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 63769, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 709}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 63843, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 710}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 63915, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 711}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 63985, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 712}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 64058, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 713}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 64126, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 714}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 64198, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 715}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 64351, "frame_change": 0.0122, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 716}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 64421, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 717}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 64498, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 718}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 64572, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 719}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 64633, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 720}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 64704, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 721}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 64781, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 722}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 64855, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 723}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 64937, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 724}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 65005, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 725}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 65080, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 726}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 65154, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 727}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 65238, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 728}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 65311, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 729}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 65391, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 730}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 65464, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 731}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 65543, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 732}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 65622, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 733}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 65693, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 734}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 65771, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 735}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 65852, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 736}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 65923, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 737}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 65997, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 738}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 66070, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 739}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 66151, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 740}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 66224, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 741}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 66291, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 742}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 66372, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 743}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 66454, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 744}
+{"action": "action6", "avatar_color": 4, "data": {"x": 26, "y": 0}, "elapsed_ms": 66520, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 745}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 66687, "frame_change": 0.0039, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 746}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 66769, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 747}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 66841, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 748}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 66914, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 749}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 66994, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 750}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 67054, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 751}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 67136, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 752}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 67218, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 753}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 67300, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 754}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 67469, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 755}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 67541, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 756}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 67625, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 757}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 67705, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 758}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 67858, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 759}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 67938, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 760}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 68018, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 761}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 68091, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 762}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 68166, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 763}
+{"action": "action6", "avatar_color": 4, "data": {"x": 26, "y": 0}, "elapsed_ms": 68234, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 764}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 68398, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 765}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 68479, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 766}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 68542, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 767}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 68625, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 768}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 68702, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 769}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 68771, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 770}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 68849, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 771}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 68929, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 772}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 69001, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 773}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 69083, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 774}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 69251, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 775}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 69321, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 776}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 69393, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 777}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 69474, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 778}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 69552, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 779}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 69631, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 780}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 69703, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 781}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 69783, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 782}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 69855, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 783}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 69935, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 784}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 70014, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 785}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 70094, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 786}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 70166, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 787}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 70248, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 788}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 70317, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 789}
+{"action": "action6", "avatar_color": 4, "data": {"x": 26, "y": 0}, "elapsed_ms": 70393, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 790}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 70474, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 791}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 70543, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 792}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 70623, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 793}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 70704, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 794}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 70773, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 795}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 70853, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 796}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 70925, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 797}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 71004, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 798}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 71086, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 799}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 71256, "frame_change": 0.0024, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 800}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 71336, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 801}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 71409, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 802}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 71489, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 803}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 71569, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 804}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 71650, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 805}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 71711, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "GAME_OVER", "step": 806}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 71745, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 808}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 71825, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 809}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 71896, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 810}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 71967, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 811}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 72044, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 812}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 72106, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 813}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 72185, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 814}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 72254, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 815}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 72334, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 816}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 72412, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 817}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 72482, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 818}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 72554, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 819}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 72630, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 820}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 72700, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 821}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 72767, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 822}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 72850, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 823}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 72927, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 824}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 73001, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 825}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 73080, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 826}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 73149, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 827}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 73229, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 828}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 73300, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 829}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 73376, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 830}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 73455, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 831}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 73610, "frame_change": 0.0125, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 832}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 73683, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 833}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 73758, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 834}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 73821, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 835}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 73894, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 836}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 73969, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 837}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 74129, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 838}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 74205, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 839}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 74275, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 840}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 74349, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 841}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 74421, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 842}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 74493, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 843}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 74561, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 844}
+{"action": "action6", "avatar_color": 4, "data": {"x": 26, "y": 0}, "elapsed_ms": 74639, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 845}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 74710, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 846}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 74791, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 847}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 74860, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 848}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 74934, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 849}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 75014, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 850}
+{"action": "action6", "avatar_color": 4, "data": {"x": 27, "y": 0}, "elapsed_ms": 75085, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 851}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 75155, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 852}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 75229, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 853}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 75302, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 854}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 75381, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 855}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 75462, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 856}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 75530, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 857}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 75610, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 858}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 75687, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 859}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 75756, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 860}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 75835, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 861}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 76000, "frame_change": 0.0037, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 862}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 76168, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 863}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 76238, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 864}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 76398, "frame_change": 0.0027, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 865}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 76572, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 866}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 76741, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 867}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 76906, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 868}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 77075, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 869}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 77245, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 870}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 77405, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 871}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 77577, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 872}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 77744, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 873}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 77806, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 874}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 77880, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 875}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 78053, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 876}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 78217, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 877}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 78298, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 878}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 78455, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 879}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 78536, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 880}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 78617, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 881}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 78688, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 882}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 78768, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 883}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 78845, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 884}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 79002, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 885}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 79076, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 886}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 79248, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 887}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 79402, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 888}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 79473, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 889}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 79554, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 890}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 79634, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 891}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 79715, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 892}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 79787, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 893}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 79866, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 894}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 79946, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 895}
+{"action": "action6", "avatar_color": 4, "data": {"x": 34, "y": 41}, "elapsed_ms": 80012, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 896}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 80082, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 897}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 80162, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 898}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 80232, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 899}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 80303, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 900}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 80383, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 901}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 80452, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 902}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 80532, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 903}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 80603, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 904}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 80682, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 905}
+{"action": "action6", "avatar_color": 4, "data": {"x": 34, "y": 41}, "elapsed_ms": 80759, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 906}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 80827, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "GAME_OVER", "step": 907}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 80861, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 909}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 80938, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 910}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 81007, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 911}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 81081, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 912}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 81148, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 913}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 81219, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 914}
+{"action": "action6", "avatar_color": 4, "data": {"x": 28, "y": 0}, "elapsed_ms": 81297, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 915}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 81358, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 916}
+{"action": "action6", "avatar_color": 4, "data": {"x": 29, "y": 0}, "elapsed_ms": 81431, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 917}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 81502, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 918}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 81563, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 919}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 81639, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 920}
+{"action": "action6", "avatar_color": 4, "data": {"x": 29, "y": 0}, "elapsed_ms": 81720, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 921}
+{"action": "action6", "avatar_color": 4, "data": {"x": 30, "y": 0}, "elapsed_ms": 81794, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 922}
+{"action": "action6", "avatar_color": 4, "data": {"x": 30, "y": 0}, "elapsed_ms": 81872, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 923}
+{"action": "action6", "avatar_color": 4, "data": {"x": 30, "y": 0}, "elapsed_ms": 81954, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 924}
+{"action": "action6", "avatar_color": 4, "data": {"x": 31, "y": 0}, "elapsed_ms": 82026, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 925}
+{"action": "action6", "avatar_color": 4, "data": {"x": 31, "y": 0}, "elapsed_ms": 82104, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 926}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 82273, "frame_change": 0.0122, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 927}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 82438, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 928}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 82607, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 929}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 82770, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 930}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 82938, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 931}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 83012, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 932}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 83074, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 933}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 83158, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 934}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 83232, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 935}
+{"action": "action6", "avatar_color": 4, "data": {"x": 31, "y": 0}, "elapsed_ms": 83312, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 936}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 83387, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 937}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 83466, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 938}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 83637, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 939}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 83704, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 940}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 83869, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 941}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 84040, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 942}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 84198, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 943}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 84261, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 944}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 84430, "frame_change": 0.0039, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 945}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 84604, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 946}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 84767, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 947}
+{"action": "action6", "avatar_color": 4, "data": {"x": 31, "y": 0}, "elapsed_ms": 84845, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 948}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 85014, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 949}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 85177, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 950}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 85243, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 951}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 85410, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 952}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 85576, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 953}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 85741, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 954}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 85803, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 955}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 85979, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 956}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 86148, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 957}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 86314, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 958}
+{"action": "action5", "avatar_color": 4, "data": null, "elapsed_ms": 86491, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 959}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 86561, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 960}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 86637, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 961}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 86713, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 962}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 86780, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 963}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 86845, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 964}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 86919, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 965}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 86994, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 966}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 87071, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 967}
+{"action": "action1", "avatar_color": 4, "data": null, "elapsed_ms": 87138, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 968}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 87210, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 969}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 87286, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 970}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 87363, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 971}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 87437, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 972}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 87515, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 973}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 87590, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 974}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 87662, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 975}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 87738, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 976}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 87808, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 977}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 87884, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 978}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 87959, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 979}
+{"action": "action6", "avatar_color": 4, "data": {"x": 31, "y": 0}, "elapsed_ms": 88026, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 980}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 88099, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 981}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 88183, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 982}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 88254, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 983}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 88334, "frame_change": 0.0491, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 984}
+{"action": "action2", "avatar_color": 4, "data": null, "elapsed_ms": 88401, "frame_change": 0.0488, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 985}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 88465, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 986}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 88545, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 987}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 88626, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 988}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 88695, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 989}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 88773, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 990}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 88834, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 991}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 88912, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 992}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 88993, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 993}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 89064, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 994}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 89146, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 995}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 89226, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 996}
+{"action": "action3", "avatar_color": 4, "data": null, "elapsed_ms": 89286, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 997}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 89368, "frame_change": 0.0002, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 998}
+{"action": "action4", "avatar_color": 4, "data": null, "elapsed_ms": 89444, "frame_change": 0.0, "levels_completed": 0, "score": 0, "state": "NOT_FINISHED", "step": 999}

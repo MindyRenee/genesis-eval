@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+target/
+
+# ARC environment files are distributed by the arcengine SDK, not
+# republished here — both for license reasons and because publishing
+# the held-out corpus would contaminate the evaluation it exists to
+# keep honest.
+environment_files/
+environment_files_heldout/
