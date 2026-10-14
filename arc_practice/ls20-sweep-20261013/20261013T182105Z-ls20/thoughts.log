@@ -1,0 +1,468 @@
+  [  0] (learning) offline — pausing acquisition, consolidating
+  [  1] (play) opening ls20-9607627b
+  [  1] (world) an unfamiliar place
+T  1 L0 fuel= 84 4 reembody:0.95 @None | opening ls20-9607627b
+T  2 L0 fuel= 82 3 reembody:0.95 @None
+  [  3] (world) I am the color-12 thing
+  [  3] (event/self_found) I am the color-12 thing
+      PLAN goals=137 len=7 dest=[(10, 34), (10, 35)]
+T  3 L0 fuel= 80 1 planned:0.8 @(46, 36)
+  [  4] (world) the color-9 thing is part of me
+      PLAN goals=1 len=1 dest=[(35, 34), (35, 35)]
+T  4 L0 fuel= 78 1 intention:0.6 @(40, 36)
+      PLAN goals=1 len=1 dest=[(30, 34), (30, 35)]
+T  5 L0 fuel= 76 1 intention:0.6 @(36, 36)
+      PLAN goals=1 len=1 dest=[(25, 34), (25, 35)]
+T  6 L0 fuel= 74 1 intention:0.6 @(30, 36)
+      PLAN goals=1 len=1 dest=[(20, 34), (20, 35)]
+T  7 L0 fuel= 72 1 intention:0.6 @(26, 36)
+  [  8] (world) entity 20 changed shape
+      PLAN goals=1 len=1 dest=[(15, 34), (15, 35)]
+T  8 L0 fuel= 70 1 intention:0.6 @(20, 36)
+  [  9] (world) entity 20 changed shape
+  [  9] (world) entity 3 changed shape
+T  9 L0 fuel= 68 2 reprobe:0.55 @(16, 36)
+  [ 10] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 29), (25, 30)]
+T 10 L0 fuel= 66 2 intention:0.6 @(20, 36)
+  [ 11] (world) entity 20 changed shape
+T 11 L0 fuel= 64 3 intention:0.6 @(26, 36)
+      PLAN goals=1 len=1 dest=[(25, 24), (25, 25)]
+T 12 L0 fuel= 62 3 intention:0.6 @(26, 31)
+      PLAN goals=1 len=1 dest=[(25, 19), (25, 20)]
+T 13 L0 fuel= 60 2 intention:0.6 @(26, 26)
+      PLAN goals=1 len=1 dest=[(35, 24), (35, 25)]
+T 14 L0 fuel= 58 2 intention:0.6 @(30, 26)
+      PLAN goals=1 len=1 dest=[(35, 19), (35, 20)]
+T 15 L0 fuel= 56 3 intention:0.6 @(36, 26)
+      PLAN goals=1 len=1 dest=[(40, 19), (40, 20)]
+T 16 L0 fuel= 54 1 intention:0.6 @(36, 21)
+  [ 17] (world) entity 12 changed shape
+      PLAN goals=1 len=1 dest=[(25, 19), (25, 20)]
+T 17 L0 fuel= 54 1 intention:0.6 @(30, 21)
+      PLAN goals=1 len=1 dest=[(25, 14), (25, 15)]
+T 18 L0 fuel= 52 3 intention:0.6 @(26, 21)
+      PLAN goals=1 len=1 dest=[(30, 14), (30, 15)]
+T 19 L0 fuel= 50 2 intention:0.6 @(26, 16)
+      PLAN goals=1 len=1 dest=[(35, 14), (35, 15)]
+T 20 L0 fuel= 48 2 intention:0.6 @(30, 16)
+      PLAN goals=1 len=2 dest=[(40, 19), (40, 20)]
+T 21 L0 fuel= 46 4 intention:0.6 @(36, 16)
+T 22 L0 fuel= 44 2 intention:0.6 @(36, 21)
+      PLAN goals=1 len=1 dest=[(45, 19), (45, 20)]
+T 23 L0 fuel= 42 2 intention:0.6 @(40, 21)
+      PLAN goals=1 len=1 dest=[(45, 24), (45, 25)]
+T 24 L0 fuel= 40 4 intention:0.6 @(46, 21)
+      PLAN goals=1 len=1 dest=[(45, 29), (45, 30)]
+T 25 L0 fuel= 38 3 reprobe:0.55 @(46, 26)
+      PLAN goals=1 len=2 dest=[(45, 29), (45, 30)]
+T 26 L0 fuel= 36 1 reprobe:0.55 @(46, 21)
+      PLAN goals=1 len=3 dest=[(45, 29), (45, 30)]
+T 27 L0 fuel= 34 1 reprobe:0.55 @(40, 21)
+      PLAN goals=1 len=4 dest=[(45, 29), (45, 30)]
+T 28 L0 fuel= 32 1 reprobe:0.55 @(36, 21)
+  [ 29] (world) entity 12 changed shape
+      PLAN goals=1 len=5 dest=[(25, 39), (25, 40)]
+T 29 L0 fuel= 30 1 reprobe:0.55 @(30, 21)
+      PLAN goals=1 len=4 dest=[(25, 39), (25, 40)]
+T 30 L0 fuel= 28 2 reprobe:0.55 @(26, 21)
+  [ 31] (world) entity 21 changed shape
+      PLAN goals=1 len=5 dest=[(25, 39), (25, 40)]
+T 31 L0 fuel= 26 1 reprobe:0.55 @(30, 21)
+      PLAN goals=1 len=4 dest=[(25, 39), (25, 40)]
+T 32 L0 fuel= 24 2 reprobe:0.55 @(26, 21)
+  [ 33] (world) entity 21 changed shape
+      PLAN goals=1 len=5 dest=[(25, 39), (25, 40)]
+T 33 L0 fuel= 22 1 reprobe:0.55 @(30, 21)
+      PLAN goals=1 len=4 dest=[(25, 39), (25, 40)]
+T 34 L0 fuel= 20 2 reprobe:0.55 @(26, 21)
+  [ 35] (world) entity 21 changed shape
+      PLAN goals=1 len=5 dest=[(25, 39), (25, 40)]
+T 35 L0 fuel= 20 1 reprobe:0.55 @(30, 21)
+      PLAN goals=1 len=4 dest=[(25, 39), (25, 40)]
+T 36 L0 fuel= 18 2 reprobe:0.55 @(26, 21)
+  [ 37] (world) entity 21 changed shape
+      PLAN goals=1 len=5 dest=[(25, 39), (25, 40)]
+T 37 L0 fuel= 16 1 reprobe:0.55 @(30, 21)
+      PLAN goals=1 len=4 dest=[(25, 39), (25, 40)]
+T 38 L0 fuel= 14 2 reprobe:0.55 @(26, 21)
+  [ 39] (world) entity 22 changed shape
+      PLAN goals=1 len=5 dest=[(25, 39), (25, 40)]
+T 39 L0 fuel= 12 1 reprobe:0.55 @(30, 21)
+      PLAN goals=1 len=4 dest=[(25, 39), (25, 40)]
+T 40 L0 fuel= 10 2 reprobe:0.55 @(26, 21)
+  [ 41] (world) entity 22 changed shape
+      PLAN goals=1 len=5 dest=[(25, 39), (25, 40)]
+T 41 L0 fuel=  8 1 reprobe:0.55 @(30, 21)
+      PLAN goals=1 len=4 dest=[(25, 39), (25, 40)]
+T 42 L0 fuel=  6 2 reprobe:0.55 @(26, 21)
+  [ 43] (world) entity 22 changed shape
+      PLAN goals=1 len=5 dest=[(25, 39), (25, 40)]
+T 43 L0 fuel=  6 1 reprobe:0.55 @(30, 21)
+      PLAN goals=1 len=4 dest=[(25, 39), (25, 40)]
+T 44 L0 fuel=  4 2 reprobe:0.55 @(26, 21)
+  [ 45] (world) entity 22 changed shape
+      PLAN goals=1 len=5 dest=[(25, 39), (25, 40)]
+T 45 L0 fuel=  2 1 reprobe:0.55 @(30, 21)
+      PLAN goals=1 len=4 dest=[(25, 39), (25, 40)]
+T 46 L0 fuel=  0 2 reprobe:0.55 @(26, 21)
+  [ 47] (world) entity 11 changed shape
+  [ 47] (world) entity 23 changed shape
+  [ 47] (world) action 2 moved me (-5, 0), expected (5, 0)
+  [ 47] (world) entity 19 changed to color 11
+  [ 47] (world) entity 18 changed to color 3
+  [ 47] (world) the color-11 reserve was empty when the world ended
+  [ 47] (event/depleted) the color-11 reserve was empty when the world ended
+T 47 L0 fuel= 84 2 reembody:0.95 @None
+T 48 L0 fuel= 82 3 reembody:0.95 @None
+T 49 L0 fuel= 80 4 reembody:0.95 @None
+  [ 50] (world) I am the color-12 thing
+  [ 50] (event/self_found) I am the color-12 thing
+      PLAN goals=53 len=7 dest=[(10, 34), (10, 35)]
+      PLAN goals=1 len=1 dest=[(45, 39), (45, 40)]
+T 50 L0 fuel= 78 1 planned:0.8 @(46, 36)
+  [ 51] (world) the color-9 thing is part of me
+      PLAN goals=1 len=1 dest=[(40, 39), (40, 40)]
+T 51 L0 fuel= 76 1 probe:0.5 @(40, 36)
+      PLAN goals=1 len=1 dest=[(35, 39), (35, 40)]
+T 52 L0 fuel= 74 1 probe:0.5 @(36, 36)
+      PLAN goals=1 len=1 dest=[(30, 39), (30, 40)]
+T 53 L0 fuel= 72 1 probe:0.5 @(30, 36)
+      PLAN goals=1 len=1 dest=[(25, 39), (25, 40)]
+T 54 L0 fuel= 70 1 probe:0.5 @(26, 36)
+  [ 55] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T 55 L0 fuel= 68 1 probe:0.5 @(20, 36)
+  [ 56] (world) entity 20 changed shape
+  [ 56] (world) entity 3 changed shape
+T 56 L0 fuel= 66 2 evade:0.35 @(16, 36)
+  [ 57] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T 57 L0 fuel= 64 1 probe:0.5 @(20, 36)
+  [ 58] (world) entity 20 changed shape
+  [ 58] (world) entity 3 changed shape
+T 58 L0 fuel= 62 2 evade:0.35 @(16, 36)
+  [ 59] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T 59 L0 fuel= 60 1 probe:0.5 @(20, 36)
+  [ 60] (world) entity 20 changed shape
+  [ 60] (world) entity 3 changed shape
+T 60 L0 fuel= 58 2 evade:0.35 @(16, 36)
+  [ 61] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T 61 L0 fuel= 56 1 probe:0.5 @(20, 36)
+  [ 62] (world) entity 20 changed shape
+  [ 62] (world) entity 3 changed shape
+T 62 L0 fuel= 54 2 evade:0.35 @(16, 36)
+  [ 63] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T 63 L0 fuel= 52 1 probe:0.5 @(20, 36)
+  [ 64] (world) entity 20 changed shape
+  [ 64] (world) entity 3 changed shape
+T 64 L0 fuel= 50 2 evade:0.35 @(16, 36)
+  [ 65] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T 65 L0 fuel= 48 1 probe:0.5 @(20, 36)
+  [ 66] (world) entity 20 changed shape
+  [ 66] (world) entity 3 changed shape
+T 66 L0 fuel= 46 2 evade:0.35 @(16, 36)
+  [ 67] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T 67 L0 fuel= 44 1 probe:0.5 @(20, 36)
+  [ 68] (world) entity 20 changed shape
+  [ 68] (world) entity 3 changed shape
+T 68 L0 fuel= 42 2 evade:0.35 @(16, 36)
+  [ 69] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T 69 L0 fuel= 40 1 probe:0.5 @(20, 36)
+  [ 70] (world) entity 20 changed shape
+  [ 70] (world) entity 3 changed shape
+T 70 L0 fuel= 38 2 evade:0.35 @(16, 36)
+  [ 71] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T 71 L0 fuel= 36 1 probe:0.5 @(20, 36)
+  [ 72] (world) entity 20 changed shape
+  [ 72] (world) entity 3 changed shape
+T 72 L0 fuel= 34 2 evade:0.35 @(16, 36)
+  [ 73] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T 73 L0 fuel= 32 1 probe:0.5 @(20, 36)
+  [ 74] (world) entity 20 changed shape
+  [ 74] (world) entity 3 changed shape
+T 74 L0 fuel= 30 2 evade:0.35 @(16, 36)
+  [ 75] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T 75 L0 fuel= 28 1 probe:0.5 @(20, 36)
+  [ 76] (world) entity 20 changed shape
+  [ 76] (world) entity 3 changed shape
+T 76 L0 fuel= 26 2 evade:0.35 @(16, 36)
+  [ 77] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T 77 L0 fuel= 24 1 probe:0.5 @(20, 36)
+  [ 78] (world) entity 20 changed shape
+  [ 78] (world) entity 3 changed shape
+T 78 L0 fuel= 22 3 evade:0.35 @(16, 36)
+  [ 79] (world) action 3 moved me (0, 0), expected (0, -5)
+T 79 L0 fuel= 20 2 evade:0.35 @(16, 36)
+  [ 80] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T 80 L0 fuel= 18 1 probe:0.5 @(20, 36)
+  [ 81] (world) entity 20 changed shape
+  [ 81] (world) entity 3 changed shape
+T 81 L0 fuel= 16 4 evade:0.35 @(16, 36)
+  [ 82] (world) action 4 moved me (0, 0), expected (0, 5)
+T 82 L0 fuel= 14 2 evade:0.35 @(16, 36)
+  [ 83] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T 83 L0 fuel= 12 1 probe:0.5 @(20, 36)
+  [ 84] (world) entity 20 changed shape
+  [ 84] (world) entity 3 changed shape
+T 84 L0 fuel= 10 2 evade:0.35 @(16, 36)
+  [ 85] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T 85 L0 fuel=  8 1 probe:0.5 @(20, 36)
+  [ 86] (world) entity 20 changed shape
+  [ 86] (world) entity 3 changed shape
+T 86 L0 fuel=  6 2 evade:0.35 @(16, 36)
+  [ 87] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T 87 L0 fuel=  4 1 probe:0.5 @(20, 36)
+  [ 88] (world) entity 20 changed shape
+  [ 88] (world) entity 3 changed shape
+T 88 L0 fuel=  2 2 evade:0.35 @(16, 36)
+  [ 89] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T 89 L0 fuel=  0 1 probe:0.5 @(20, 36)
+  [ 90] (world) action 1 moved me (5, 0), expected (-5, 0)
+  [ 90] (world) entity 26 changed to color 11
+  [ 90] (world) the color-11 reserve was empty when the world ended
+  [ 90] (event/depleted) the color-11 reserve was empty when the world ended
+T 90 L0 fuel= 84 3 reembody:0.95 @None
+T 91 L0 fuel= 82 1 reembody:0.95 @None
+T 92 L0 fuel= 80 2 reembody:0.95 @None
+  [ 93] (world) I touched the color-8 thing and it vanished
+T 93 L0 fuel= 78 4 reembody:0.95 @None
+  [ 94] (world) I am the color-12 thing
+  [ 94] (event/self_found) I am the color-12 thing
+      PLAN goals=49 len=7 dest=[(10, 34), (10, 35)]
+      PLAN goals=1 len=1 dest=[(45, 39), (45, 40)]
+T 94 L0 fuel= 76 1 planned:0.8 @(46, 36)
+  [ 95] (world) the color-9 thing is part of me
+      PLAN goals=1 len=1 dest=[(40, 39), (40, 40)]
+T 95 L0 fuel= 74 1 probe:0.5 @(40, 36)
+      PLAN goals=1 len=1 dest=[(35, 39), (35, 40)]
+T 96 L0 fuel= 72 1 probe:0.5 @(36, 36)
+      PLAN goals=1 len=1 dest=[(30, 39), (30, 40)]
+T 97 L0 fuel= 70 1 probe:0.5 @(30, 36)
+      PLAN goals=1 len=1 dest=[(25, 39), (25, 40)]
+T 98 L0 fuel= 68 1 probe:0.5 @(26, 36)
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T 99 L0 fuel= 66 1 probe:0.5 @(20, 36)
+  [100] (world) entity 20 changed shape
+  [100] (world) entity 3 changed shape
+T100 L0 fuel= 64 3 evade:0.35 @(16, 36)
+  [101] (world) action 3 moved me (0, 0), expected (0, -5)
+T101 L0 fuel= 62 2 evade:0.35 @(16, 36)
+  [102] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T102 L0 fuel= 60 1 probe:0.5 @(20, 36)
+  [103] (world) entity 20 changed shape
+  [103] (world) entity 3 changed shape
+T103 L0 fuel= 58 4 evade:0.35 @(16, 36)
+  [104] (world) action 4 moved me (0, 0), expected (0, 5)
+T104 L0 fuel= 56 2 evade:0.35 @(16, 36)
+  [105] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T105 L0 fuel= 54 1 probe:0.5 @(20, 36)
+  [106] (world) entity 20 changed shape
+  [106] (world) entity 3 changed shape
+T106 L0 fuel= 52 2 evade:0.35 @(16, 36)
+  [107] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T107 L0 fuel= 50 1 probe:0.5 @(20, 36)
+  [108] (world) entity 20 changed shape
+  [108] (world) entity 3 changed shape
+T108 L0 fuel= 48 2 evade:0.35 @(16, 36)
+  [109] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T109 L0 fuel= 46 2 intention:0.6 @(20, 36)
+  [110] (world) entity 20 changed shape
+T110 L0 fuel= 44 1 probe:0.5 @(26, 36)
+  [111] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T111 L0 fuel= 42 1 probe:0.5 @(20, 36)
+  [112] (world) entity 20 changed shape
+  [112] (world) entity 3 changed shape
+T112 L0 fuel= 40 2 evade:0.35 @(16, 36)
+  [113] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T113 L0 fuel= 38 1 probe:0.5 @(20, 36)
+  [114] (world) entity 20 changed shape
+  [114] (world) entity 3 changed shape
+T114 L0 fuel= 36 2 evade:0.35 @(16, 36)
+  [115] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T115 L0 fuel= 34 1 probe:0.5 @(20, 36)
+  [116] (world) entity 20 changed shape
+  [116] (world) entity 3 changed shape
+T116 L0 fuel= 32 2 evade:0.35 @(16, 36)
+  [117] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T117 L0 fuel= 30 1 probe:0.5 @(20, 36)
+  [118] (world) entity 20 changed shape
+  [118] (world) entity 3 changed shape
+T118 L0 fuel= 28 2 evade:0.35 @(16, 36)
+  [119] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T119 L0 fuel= 26 1 probe:0.5 @(20, 36)
+  [120] (world) entity 20 changed shape
+  [120] (world) entity 3 changed shape
+T120 L0 fuel= 24 2 evade:0.35 @(16, 36)
+  [121] (world) entity 20 changed shape
+      PLAN goals=34 len=2 dest=[(10, 34), (10, 35)]
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T121 L0 fuel= 22 1 planned:0.8 @(20, 36)
+  [122] (world) entity 20 changed shape
+  [122] (world) entity 3 changed shape
+      PLAN goals=34 len=1 dest=[(10, 34), (10, 35)]
+T122 L0 fuel= 20 1 planned:0.8 @(16, 36)
+  [123] (world) action 1 moved me (0, 0), expected (-5, 0)
+T123 L0 fuel= 20 2 evade:0.35 @(16, 36)
+  [124] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T124 L0 fuel= 18 1 probe:0.5 @(20, 36)
+  [125] (world) entity 20 changed shape
+  [125] (world) entity 3 changed shape
+T125 L0 fuel= 16 2 evade:0.35 @(16, 36)
+  [126] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T126 L0 fuel= 14 1 probe:0.5 @(20, 36)
+  [127] (world) entity 20 changed shape
+  [127] (world) entity 3 changed shape
+T127 L0 fuel= 12 2 evade:0.35 @(16, 36)
+  [128] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T128 L0 fuel= 10 1 probe:0.5 @(20, 36)
+  [129] (world) entity 20 changed shape
+  [129] (world) entity 3 changed shape
+T129 L0 fuel=  8 2 evade:0.35 @(16, 36)
+  [130] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T130 L0 fuel=  6 1 probe:0.5 @(20, 36)
+  [131] (world) entity 20 changed shape
+  [131] (world) entity 3 changed shape
+T131 L0 fuel=  4 2 evade:0.35 @(16, 36)
+  [132] (world) entity 20 changed shape
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T132 L0 fuel=  2 1 probe:0.5 @(20, 36)
+  [133] (world) entity 20 changed shape
+  [133] (world) entity 3 changed shape
+T133 L0 fuel=  0 2 evade:0.35 @(16, 36)
+FINAL_STATE GAME_OVER
+SUMMARY I am the color-12 thing; 19 things around me; color-0 things nothing me; color-1 things nothing me; color-8 things can be collected; color-9 things block me; color-11 things can be collected — 46 places; 28 routes — 6 spatial skills
+SCORECARD closed={
+  "card_id": "54a2d74e-e17b-4515-8cc5-ebcde4181cc7",
+  "score": 0.0,
+  "environments": [
+    {
+      "id": "ls20-9607627b",
+      "runs": [
+        {
+          "guid": "3f79fdb5-d35a-4de2-82a9-cf16d5d9bb7a",
+          "score": 0.0,
+          "levels_completed": 0,
+          "actions": 0,
+          "resets": 0,
+          "state": "NOT_FINISHED",
+          "completed": false,
+          "level_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "level_actions": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "level_baseline_actions": [
+            22,
+            123,
+            73,
+            84,
+            96,
+            192,
+            186
+          ]
+        },
+        {
+          "guid": "3f79fdb5-d35a-4de2-82a9-cf16d5d9bb7a",
+          "score": 0.0,
+          "levels_completed": 0,
+          "actions": 133,
+          "resets": 0,
+          "state": "GAME_OVER",
+          "completed": false,
+          "level_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "level_actions": [
+            133,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "level_baseline_actions": [
+            22,
+            123,
+            73,
+            84,
+            96,
+            192,
+            186
+          ]
+        }
+      ],
+      "score": 0.0,
+      "actions": 133,
+      "levels_completed": 0,
+      "completed": false,
+      "level_count": 7,
+      "resets": 0
+    }
+  ],
+  "tags_scores": [
+    {
+      "id": "keyboard",
+      "score": 0.0,
+      "levels_completed": 0,
+      "actions": 0,
+      "number_of_levels": 7,
+      "number_of_environments": 1
+    }
+  ],
+  "total_environments_completed": 0,
+  "total_environments": 1,
+  "total_levels_completed": 0,
+  "total_levels": 7,
+  "total_actions": 133
+} id=54a2d74e-e17b-4515-8cc5-ebcde4181cc7
+RUN_DIR /home/mindy/.local/share/genesis/arc_eval/runs/20261013T182105Z-ls20
+  [133] (question) How do you see unexplained world change in light of unexplained world change?

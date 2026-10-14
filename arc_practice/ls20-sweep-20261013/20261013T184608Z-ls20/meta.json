@@ -1,0 +1,12 @@
+{
+  "game": "ls20-9607627b",
+  "steps": 60,
+  "levels_completed": 1,
+  "final_state": "NOT_FINISHED",
+  "scorecard_id": "6ad76245-8e53-4d94-b9e8-e14f0dc25585",
+  "data_dir": "/home/mindy/.local/share/genesis/arc_eval",
+  "run_dir": "/home/mindy/.local/share/genesis/arc_eval/runs/20261013T184608Z-ls20",
+  "timestamp": "2026-10-13T18:47:37.847804+00:00",
+  "summary": "I am the color-12 thing; 21 things around me; color-0 things nothing me; color-1 things nothing me; color-8 things can be collected; color-9 things win me; color-11 things can be collected \u2014 56 places; 37 routes \u2014 6 spatial skills",
+  "git": "af13cf8-dirty"
+}

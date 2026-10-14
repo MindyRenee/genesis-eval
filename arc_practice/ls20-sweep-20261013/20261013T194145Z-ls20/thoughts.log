@@ -1,0 +1,2218 @@
+  [  0] (learning) offline — pausing acquisition, consolidating
+  [  1] (play) opening ls20-9607627b
+  [  1] (world) an unfamiliar place
+      VAL n=141 colors=[8, 9, 11] meter={}
+      PLAN goals=141 None
+        try color 8 n=12 -> None
+        try color 9 n=45 -> None
+        try color 11 n=84 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=True pass=False refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=True pass=False refused=False
+        e10 cells=[(47, 34), (47, 35), (47, 36)].. n=15 inpool=True pass=False refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=True pass=False refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=True pass=False refused=False
+T  1 L0 fuel= 84 4 reembody:0.95 @None | opening ls20-9607627b
+      VAL n=139 colors=[8, 9, 11] meter={}
+      PLAN goals=139 None
+        try color 8 n=12 -> None
+        try color 9 n=45 -> None
+        try color 11 n=82 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=True pass=False refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=True pass=False refused=False
+        e10 cells=[(47, 39), (47, 40), (47, 41)].. n=15 inpool=True pass=False refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=True pass=False refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=True pass=False refused=False
+T  2 L0 fuel= 82 3 reembody:0.95 @None
+  [  3] (world) I am the color-12 thing
+  [  3] (event/self_found) I am the color-12 thing
+      VAL n=137 colors=[8, 9, 11] meter={}
+      SIM (45, 34) 1:ok 2:X 3:ok 4:ok free=906 terrain=[3]
+      PLAN goals=137 len=7 dest=[(10, 34), (10, 35)]
+      VAL n=137 colors=[8, 9, 11] meter={}
+      SIM (45, 34) 1:ok 2:X 3:ok 4:ok free=906 terrain=[3]
+      SIM (45, 34) 1:ok 2:X 3:ok 4:ok free=906 terrain=[3]
+      SIM (45, 34) 1:ok 2:X 3:ok 4:ok free=906 terrain=[3]
+      SIM (45, 34) 1:ok 2:X 3:ok 4:ok free=906 terrain=[3]
+      VAL n=137 colors=[8, 9, 11] meter={}
+      SIM (45, 34) 1:ok 2:X 3:ok 4:ok free=906 terrain=[3]
+      PLAN goals=1 None
+      SIM (45, 34) 1:ok 2:X 3:ok 4:ok free=906 terrain=[3]
+        try color 3 n=1 -> None
+      SIM (45, 34) 1:ok 2:X 3:ok 4:ok free=906 terrain=[3]
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(47, 34), (47, 35), (47, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=False pass=True refused=False
+      SIM (45, 34) 1:ok 2:X 3:ok 4:ok free=906 terrain=[3]
+      PLAN goals=1 None
+      SIM (45, 34) 1:ok 2:X 3:ok 4:ok free=906 terrain=[3]
+        try color 3 n=1 -> None
+      SIM (45, 34) 1:ok 2:X 3:ok 4:ok free=906 terrain=[3]
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(47, 34), (47, 35), (47, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=False pass=True refused=False
+      SIM (45, 34) 1:ok 2:X 3:ok 4:ok free=906 terrain=[3]
+      PLAN goals=1 None
+      SIM (45, 34) 1:ok 2:X 3:ok 4:ok free=906 terrain=[3]
+        try color 3 n=1 -> None
+      SIM (45, 34) 1:ok 2:X 3:ok 4:ok free=906 terrain=[3]
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(47, 34), (47, 35), (47, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=False pass=True refused=False
+      SIM (45, 34) 1:ok 2:X 3:ok 4:ok free=906 terrain=[3]
+      PLAN goals=1 len=1 dest=[(45, 39), (45, 40)]
+      SIM (45, 34) 1:ok 2:X 3:ok 4:ok free=906 terrain=[3]
+      SIM (45, 34) 1:ok 2:X 3:ok 4:ok free=906 terrain=[3]
+T  3 L0 fuel= 80 1 planned:0.8 @(46, 36)
+  [  4] (world) the color-9 thing is part of me
+      VAL n=120 colors=[8, 9, 11] meter={}
+      SIM (40, 34) 1:ok 2:ok 3:X 4:ok free=923 terrain=[3]
+      PLAN goals=120 len=6 dest=[(10, 34), (10, 35)]
+      VAL n=120 colors=[8, 9, 11] meter={}
+      SIM (40, 34) 1:ok 2:ok 3:X 4:ok free=923 terrain=[3]
+      SIM (40, 34) 1:ok 2:ok 3:X 4:ok free=923 terrain=[3]
+      SIM (40, 34) 1:ok 2:ok 3:X 4:ok free=923 terrain=[3]
+      SIM (40, 34) 1:ok 2:ok 3:X 4:ok free=923 terrain=[3]
+      VAL n=120 colors=[8, 9, 11] meter={}
+      SIM (40, 34) 1:ok 2:ok 3:X 4:ok free=923 terrain=[3]
+      PLAN goals=1 len=1 dest=[(35, 34), (35, 35)]
+      SIM (40, 34) 1:ok 2:ok 3:X 4:ok free=923 terrain=[3]
+      SIM (40, 34) 1:ok 2:ok 3:X 4:ok free=923 terrain=[3]
+T  4 L0 fuel= 78 1 planned:0.8 @(40, 36)
+      VAL n=118 colors=[8, 9, 11] meter={}
+      SIM (35, 34) 1:ok 2:ok 3:X 4:ok free=925 terrain=[3]
+      PLAN goals=118 len=5 dest=[(10, 34), (10, 35)]
+      VAL n=118 colors=[8, 9, 11] meter={}
+      SIM (35, 34) 1:ok 2:ok 3:X 4:ok free=925 terrain=[3]
+      SIM (35, 34) 1:ok 2:ok 3:X 4:ok free=925 terrain=[3]
+      SIM (35, 34) 1:ok 2:ok 3:X 4:ok free=925 terrain=[3]
+      VAL n=118 colors=[8, 9, 11] meter={}
+      SIM (35, 34) 1:ok 2:ok 3:X 4:ok free=925 terrain=[3]
+      PLAN goals=1 len=1 dest=[(30, 34), (30, 35)]
+      SIM (35, 34) 1:ok 2:ok 3:X 4:ok free=925 terrain=[3]
+      SIM (35, 34) 1:ok 2:ok 3:X 4:ok free=925 terrain=[3]
+T  5 L0 fuel= 76 1 planned:0.8 @(36, 36)
+      VAL n=42 colors=[8, 9] meter={11: 0.8809523809523809}
+      SIM (30, 34) 1:ok 2:ok 3:X 4:ok free=927 terrain=[3]
+      PLAN goals=42 len=4 dest=[(10, 34), (10, 35)]
+      VAL n=42 colors=[8, 9] meter={11: 0.8809523809523809}
+      SIM (30, 34) 1:ok 2:ok 3:X 4:ok free=927 terrain=[3]
+      SIM (30, 34) 1:ok 2:ok 3:X 4:ok free=927 terrain=[3]
+      SIM (30, 34) 1:ok 2:ok 3:X 4:ok free=927 terrain=[3]
+      VAL n=42 colors=[8, 9] meter={11: 0.8809523809523809}
+      SIM (30, 34) 1:ok 2:ok 3:X 4:ok free=927 terrain=[3]
+      PLAN goals=1 len=1 dest=[(25, 34), (25, 35)]
+      SIM (30, 34) 1:ok 2:ok 3:X 4:ok free=927 terrain=[3]
+      SIM (30, 34) 1:ok 2:ok 3:X 4:ok free=927 terrain=[3]
+T  6 L0 fuel= 74 1 planned:0.8 @(30, 36)
+      VAL n=42 colors=[8, 9] meter={11: 0.8571428571428571}
+      SIM (25, 34) 1:ok 2:ok 3:ok 4:ok free=929 terrain=[3]
+      PLAN goals=42 len=3 dest=[(10, 34), (10, 35)]
+      VAL n=42 colors=[8, 9] meter={11: 0.8571428571428571}
+      SIM (25, 34) 1:ok 2:ok 3:ok 4:ok free=929 terrain=[3]
+      SIM (25, 34) 1:ok 2:ok 3:ok 4:ok free=929 terrain=[3]
+      SIM (25, 34) 1:ok 2:ok 3:ok 4:ok free=929 terrain=[3]
+      VAL n=42 colors=[8, 9] meter={11: 0.8571428571428571}
+      SIM (25, 34) 1:ok 2:ok 3:ok 4:ok free=929 terrain=[3]
+      PLAN goals=1 len=1 dest=[(20, 34), (20, 35)]
+      SIM (25, 34) 1:ok 2:ok 3:ok 4:ok free=929 terrain=[3]
+      SIM (25, 34) 1:ok 2:ok 3:ok 4:ok free=929 terrain=[3]
+T  7 L0 fuel= 72 1 planned:0.8 @(26, 36)
+  [  8] (world) entity 20 changed shape
+      VAL n=42 colors=[8, 9] meter={11: 0.8333333333333334}
+      SIM (20, 34) 1:ok 2:ok 3:X 4:X free=931 terrain=[3]
+      PLAN goals=42 len=2 dest=[(10, 34), (10, 35)]
+      VAL n=42 colors=[8, 9] meter={11: 0.8333333333333334}
+      SIM (20, 34) 1:ok 2:ok 3:X 4:X free=931 terrain=[3]
+      SIM (20, 34) 1:ok 2:ok 3:X 4:X free=931 terrain=[3]
+      SIM (20, 34) 1:ok 2:ok 3:X 4:X free=931 terrain=[3]
+      VAL n=42 colors=[8, 9] meter={11: 0.8333333333333334}
+      SIM (20, 34) 1:ok 2:ok 3:X 4:X free=931 terrain=[3]
+      PLAN goals=1 len=1 dest=[(15, 34), (15, 35)]
+      SIM (20, 34) 1:ok 2:ok 3:X 4:X free=931 terrain=[3]
+      SIM (20, 34) 1:ok 2:ok 3:X 4:X free=931 terrain=[3]
+T  8 L0 fuel= 70 1 planned:0.8 @(20, 36)
+  [  9] (world) entity 20 changed shape
+  [  9] (world) entity 3 changed shape
+      VAL n=42 colors=[8, 9] meter={11: 0.8095238095238095}
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+      PLAN goals=42 len=1 dest=[(10, 34), (10, 35)]
+      VAL n=42 colors=[8, 9] meter={11: 0.8095238095238095}
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+      VAL n=42 colors=[8, 9] meter={11: 0.8095238095238095}
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+      PLAN goals=1 None
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+        try color 3 n=1 -> None
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(17, 34), (17, 35), (17, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=False pass=True refused=False
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+      PLAN goals=1 None
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+        try color 3 n=1 -> None
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(17, 34), (17, 35), (17, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=False pass=True refused=False
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+      PLAN goals=1 None
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+        try color 3 n=1 -> None
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(17, 34), (17, 35), (17, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=False pass=True refused=False
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+      PLAN goals=1 None
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+        try color 3 n=1 -> None
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(17, 34), (17, 35), (17, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=False pass=True refused=False
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+      PLAN goals=1 None
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+        try color 3 n=1 -> None
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(17, 34), (17, 35), (17, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=False pass=True refused=False
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+      PLAN goals=1 None
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+        try color 3 n=1 -> None
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(17, 34), (17, 35), (17, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=False pass=True refused=False
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+T  9 L0 fuel= 68 1 planned:0.8 @(16, 36)
+  [ 10] (world) action 1 moved me (0, 0), expected (-5, 0)
+      VAL n=42 colors=[8, 9] meter={11: 0.8095238095238095}
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+      PLAN goals=42 len=1 dest=[(10, 34), (10, 35)]
+      VAL n=42 colors=[8, 9] meter={11: 0.8095238095238095}
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+      VAL n=42 colors=[8, 9] meter={11: 0.8095238095238095}
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+      PLAN goals=1 None
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+        try color 3 n=1 -> None
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(17, 34), (17, 35), (17, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=False pass=True refused=False
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+      PLAN goals=1 None
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+        try color 3 n=1 -> None
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(17, 34), (17, 35), (17, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=False pass=True refused=False
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+      PLAN goals=1 None
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+        try color 3 n=1 -> None
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(17, 34), (17, 35), (17, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=False pass=True refused=False
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+      PLAN goals=1 None
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+        try color 3 n=1 -> None
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(17, 34), (17, 35), (17, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=False pass=True refused=False
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+      PLAN goals=1 None
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+        try color 3 n=1 -> None
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(17, 34), (17, 35), (17, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=False pass=True refused=False
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+      PLAN goals=1 None
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+        try color 3 n=1 -> None
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(17, 34), (17, 35), (17, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=False pass=True refused=False
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+      SIM (15, 34) 1:ok 2:ok 3:X 4:X free=938 terrain=[3]
+T 10 L0 fuel= 68 1 planned:0.8 @(16, 36)
+  [ 11] (world) action 1 moved me (0, 0), expected (-5, 0)
+      VAL n=42 colors=[8, 9] meter={11: 0.8095238095238095}
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+      PLAN goals=42 None
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+        try color 8 n=12 -> None
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+        try color 9 n=30 -> None
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=True pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=True pass=True refused=False
+        e10 cells=[(17, 34), (17, 35), (17, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=True pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=True pass=True refused=False
+      VAL n=42 colors=[8, 9] meter={11: 0.8095238095238095}
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+      VAL n=42 colors=[8, 9] meter={11: 0.8095238095238095}
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+      PLAN goals=1 None
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+        try color 3 n=1 -> None
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(17, 34), (17, 35), (17, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=False pass=True refused=False
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+      PLAN goals=1 None
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+        try color 3 n=1 -> None
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(17, 34), (17, 35), (17, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=False pass=True refused=False
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+      PLAN goals=1 None
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+        try color 3 n=1 -> None
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(17, 34), (17, 35), (17, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=False pass=True refused=False
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+      PLAN goals=1 None
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+        try color 3 n=1 -> None
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(17, 34), (17, 35), (17, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=False pass=True refused=False
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+      PLAN goals=1 None
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+        try color 3 n=1 -> None
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(17, 34), (17, 35), (17, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=False pass=True refused=False
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+      PLAN goals=1 None
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+        try color 3 n=1 -> None
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(17, 34), (17, 35), (17, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=False pass=True refused=False
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+      SIM (15, 34) 1:X 2:ok 3:X 4:X free=938 terrain=[3]
+T 11 L0 fuel= 68 2 reprobe:0.55 @(16, 36)
+  [ 12] (world) entity 20 changed shape
+      VAL n=42 colors=[8, 9] meter={11: 0.7857142857142857}
+      PLAN goals=42 None
+        try color 8 n=12 -> None
+        try color 9 n=30 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=True pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=True pass=True refused=False
+        e10 cells=[(22, 34), (22, 35), (22, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=True pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=True pass=True refused=False
+      VAL n=42 colors=[8, 9] meter={11: 0.7857142857142857}
+      VAL n=42 colors=[8, 9] meter={11: 0.7857142857142857}
+      PLAN goals=1 len=2 dest=[(25, 29), (25, 30)]
+T 12 L0 fuel= 66 2 intention:0.6 @(20, 36)
+  [ 13] (world) entity 20 changed shape
+      VAL n=42 colors=[8, 9] meter={11: 0.7619047619047619}
+      PLAN goals=42 None
+        try color 8 n=12 -> None
+        try color 9 n=30 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=True pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=True pass=True refused=False
+        e10 cells=[(27, 34), (27, 35), (27, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=True pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=True pass=True refused=False
+      VAL n=42 colors=[8, 9] meter={11: 0.7619047619047619}
+T 13 L0 fuel= 64 3 intention:0.6 @(26, 36)
+      VAL n=42 colors=[8, 9] meter={11: 0.7380952380952381}
+      PLAN goals=42 None
+        try color 8 n=12 -> None
+        try color 9 n=30 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=True pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=True pass=True refused=False
+        e10 cells=[(27, 29), (27, 30), (27, 31)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=True pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=True pass=True refused=False
+      VAL n=42 colors=[8, 9] meter={11: 0.7380952380952381}
+      VAL n=42 colors=[8, 9] meter={11: 0.7380952380952381}
+      PLAN goals=1 len=1 dest=[(25, 24), (25, 25)]
+T 14 L0 fuel= 62 3 intention:0.6 @(26, 31)
+      VAL n=42 colors=[8, 9] meter={11: 0.7142857142857143}
+      PLAN goals=42 None
+        try color 8 n=12 -> None
+        try color 9 n=30 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=True pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=True pass=True refused=False
+        e10 cells=[(27, 24), (27, 25), (27, 26)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=True pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=True pass=True refused=False
+      VAL n=42 colors=[8, 9] meter={11: 0.7142857142857143}
+      VAL n=42 colors=[8, 9] meter={11: 0.7142857142857143}
+      PLAN goals=1 len=1 dest=[(25, 19), (25, 20)]
+T 15 L0 fuel= 60 2 intention:0.6 @(26, 26)
+      VAL n=42 colors=[8, 9] meter={11: 0.6904761904761905}
+      PLAN goals=42 None
+        try color 8 n=12 -> None
+        try color 9 n=30 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=True pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=True pass=True refused=False
+        e10 cells=[(32, 24), (32, 25), (32, 26)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=True pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=True pass=True refused=False
+      VAL n=42 colors=[8, 9] meter={11: 0.6904761904761905}
+      VAL n=42 colors=[8, 9] meter={11: 0.6904761904761905}
+      PLAN goals=1 len=1 dest=[(35, 24), (35, 25)]
+T 16 L0 fuel= 58 2 intention:0.6 @(30, 26)
+      VAL n=42 colors=[8, 9] meter={11: 0.6666666666666666}
+      PLAN goals=42 None
+        try color 8 n=12 -> None
+        try color 9 n=30 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=True pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=True pass=True refused=False
+        e10 cells=[(37, 24), (37, 25), (37, 26)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=True pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=True pass=True refused=False
+      VAL n=42 colors=[8, 9] meter={11: 0.6666666666666666}
+      VAL n=42 colors=[8, 9] meter={11: 0.6666666666666666}
+      PLAN goals=1 len=1 dest=[(35, 19), (35, 20)]
+T 17 L0 fuel= 56 3 intention:0.6 @(36, 26)
+      VAL n=42 colors=[8, 9] meter={11: 0.6428571428571429}
+      PLAN goals=42 None
+        try color 8 n=12 -> None
+        try color 9 n=30 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=True pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=True pass=True refused=False
+        e10 cells=[(37, 19), (37, 20), (37, 21)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=True pass=True refused=False
+        e13 cells=[(59, 7), (59, 8), (60, 7)].. n=4 inpool=True pass=True refused=False
+      VAL n=42 colors=[8, 9] meter={11: 0.6428571428571429}
+      VAL n=42 colors=[8, 9] meter={11: 0.6428571428571429}
+      PLAN goals=1 len=1 dest=[(40, 19), (40, 20)]
+T 18 L0 fuel= 54 1 intention:0.6 @(36, 21)
+  [ 19] (world) entity 12 changed shape
+      VAL n=42 colors=[8, 9] meter={11: 0.6428571428571429}
+      PLAN goals=42 None
+        try color 8 n=12 -> None
+        try color 9 n=30 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=True pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=True pass=True refused=False
+        e10 cells=[(32, 19), (32, 20), (32, 21)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=True pass=True refused=False
+        e13 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=True pass=True refused=False
+      VAL n=42 colors=[8, 9] meter={11: 0.6428571428571429}
+      VAL n=42 colors=[8, 9] meter={11: 0.6428571428571429}
+      PLAN goals=1 len=1 dest=[(25, 19), (25, 20)]
+T 19 L0 fuel= 54 1 intention:0.6 @(30, 21)
+      VAL n=42 colors=[8, 9] meter={11: 0.6190476190476191}
+      PLAN goals=42 None
+        try color 8 n=12 -> None
+        try color 9 n=30 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=True pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=True pass=True refused=False
+        e10 cells=[(27, 19), (27, 20), (27, 21)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=True pass=True refused=False
+        e13 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=True pass=True refused=False
+      VAL n=42 colors=[8, 9] meter={11: 0.6190476190476191}
+      VAL n=42 colors=[8, 9] meter={11: 0.6190476190476191}
+      PLAN goals=1 len=1 dest=[(25, 14), (25, 15)]
+T 20 L0 fuel= 52 3 intention:0.6 @(26, 21)
+      VAL n=42 colors=[8, 9] meter={11: 0.5952380952380952}
+      PLAN goals=42 None
+        try color 8 n=12 -> None
+        try color 9 n=30 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=True pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=True pass=True refused=False
+        e10 cells=[(27, 14), (27, 15), (27, 16)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=True pass=True refused=False
+        e13 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=True pass=True refused=False
+      VAL n=42 colors=[8, 9] meter={11: 0.5952380952380952}
+      VAL n=42 colors=[8, 9] meter={11: 0.5952380952380952}
+      PLAN goals=1 len=1 dest=[(30, 14), (30, 15)]
+T 21 L0 fuel= 50 2 intention:0.6 @(26, 16)
+      VAL n=42 colors=[8, 9] meter={11: 0.5714285714285714}
+      PLAN goals=42 None
+        try color 8 n=12 -> None
+        try color 9 n=30 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=True pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=True pass=True refused=False
+        e10 cells=[(32, 14), (32, 15), (32, 16)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=True pass=True refused=False
+        e13 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=True pass=True refused=False
+      VAL n=42 colors=[8, 9] meter={11: 0.5714285714285714}
+      VAL n=42 colors=[8, 9] meter={11: 0.5714285714285714}
+      PLAN goals=1 len=1 dest=[(35, 14), (35, 15)]
+T 22 L0 fuel= 48 2 intention:0.6 @(30, 16)
+      VAL n=42 colors=[8, 9] meter={11: 0.5476190476190477}
+      PLAN goals=42 None
+        try color 8 n=12 -> None
+        try color 9 n=30 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=True pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=True pass=True refused=False
+        e10 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=True pass=True refused=False
+        e13 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=True pass=True refused=False
+      VAL n=42 colors=[8, 9] meter={11: 0.5476190476190477}
+      VAL n=42 colors=[8, 9] meter={11: 0.5476190476190477}
+      PLAN goals=1 len=2 dest=[(40, 19), (40, 20)]
+T 23 L0 fuel= 46 4 intention:0.6 @(36, 16)
+      VAL n=42 colors=[8, 9] meter={11: 0.5238095238095238}
+      PLAN goals=42 None
+        try color 8 n=12 -> None
+        try color 9 n=30 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=True pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=True pass=True refused=False
+        e10 cells=[(37, 19), (37, 20), (37, 21)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=True pass=True refused=False
+        e13 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=True pass=True refused=False
+      VAL n=42 colors=[8, 9] meter={11: 0.5238095238095238}
+T 24 L0 fuel= 44 2 intention:0.6 @(36, 21)
+      VAL n=42 colors=[8, 9] meter={11: 0.5}
+      PLAN goals=42 None
+        try color 8 n=12 -> None
+        try color 9 n=30 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=True pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=True pass=True refused=False
+        e10 cells=[(42, 19), (42, 20), (42, 21)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=True pass=True refused=False
+        e13 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=True pass=True refused=False
+      VAL n=42 colors=[8, 9] meter={11: 0.5}
+      VAL n=42 colors=[8, 9] meter={11: 0.5}
+      PLAN goals=1 len=1 dest=[(45, 19), (45, 20)]
+T 25 L0 fuel= 42 2 intention:0.6 @(40, 21)
+      VAL n=42 colors=[8, 9] meter={11: 0.47619047619047616}
+      PLAN goals=42 None
+        try color 8 n=12 -> None
+        try color 9 n=30 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=True pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=True pass=True refused=False
+        e10 cells=[(47, 19), (47, 20), (47, 21)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=True pass=True refused=False
+        e13 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=True pass=True refused=False
+      VAL n=42 colors=[8, 9] meter={11: 0.47619047619047616}
+      VAL n=42 colors=[8, 9] meter={11: 0.47619047619047616}
+      PLAN goals=1 len=1 dest=[(45, 24), (45, 25)]
+T 26 L0 fuel= 40 4 intention:0.6 @(46, 21)
+      VAL n=42 colors=[8, 9] meter={11: 0.4523809523809524}
+      PLAN goals=42 None
+        try color 8 n=12 -> None
+        try color 9 n=30 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=True pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=True pass=True refused=False
+        e10 cells=[(47, 24), (47, 25), (47, 26)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=True pass=True refused=False
+        e13 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=True pass=True refused=False
+      VAL n=42 colors=[8, 9] meter={11: 0.4523809523809524}
+      VAL n=42 colors=[8, 9] meter={11: 0.4523809523809524}
+      PLAN goals=1 len=1 dest=[(45, 29), (45, 30)]
+T 27 L0 fuel= 38 4 intention:0.6 @(46, 26)
+      VAL n=42 colors=[8, 9] meter={11: 0.42857142857142855}
+      PLAN goals=42 None
+        try color 8 n=12 -> None
+        try color 9 n=30 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=True pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=True pass=True refused=False
+        e10 cells=[(47, 29), (47, 30), (47, 31)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=True pass=True refused=False
+        e13 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=True pass=True refused=False
+      VAL n=42 colors=[8, 9] meter={11: 0.42857142857142855}
+      VAL n=42 colors=[8, 9] meter={11: 0.42857142857142855}
+      PLAN goals=1 len=1 dest=[(45, 34), (45, 35)]
+T 28 L0 fuel= 36 4 intention:0.6 @(46, 31)
+      VAL n=42 colors=[8, 9] meter={11: 0.40476190476190477}
+      PLAN goals=42 None
+        try color 8 n=12 -> None
+        try color 9 n=30 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=True pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=True pass=True refused=False
+        e10 cells=[(47, 34), (47, 35), (47, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=True pass=True refused=False
+        e13 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=True pass=True refused=False
+      VAL n=42 colors=[8, 9] meter={11: 0.40476190476190477}
+      VAL n=42 colors=[8, 9] meter={11: 0.40476190476190477}
+      PLAN goals=1 len=1 dest=[(45, 39), (45, 40)]
+T 29 L0 fuel= 34 1 reprobe:0.55 @(46, 36)
+      VAL n=42 colors=[8, 9] meter={11: 0.38095238095238093}
+      PLAN goals=42 None
+        try color 8 n=12 -> None
+        try color 9 n=30 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=True pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=True pass=True refused=False
+        e10 cells=[(42, 34), (42, 35), (42, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=True pass=True refused=False
+        e13 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=True pass=True refused=False
+      VAL n=42 colors=[8, 9] meter={11: 0.38095238095238093}
+      VAL n=42 colors=[8, 9] meter={11: 0.38095238095238093}
+      PLAN goals=1 len=1 dest=[(40, 39), (40, 40)]
+T 30 L0 fuel= 32 1 reprobe:0.55 @(40, 36)
+      VAL n=42 colors=[8, 9] meter={11: 0.35714285714285715}
+      PLAN goals=42 len=5 dest=[(10, 34), (10, 35)]
+      VAL n=42 colors=[8, 9] meter={11: 0.35714285714285715}
+      VAL n=42 colors=[8, 9] meter={11: 0.35714285714285715}
+      PLAN goals=1 len=1 dest=[(35, 39), (35, 40)]
+T 31 L0 fuel= 30 1 planned:0.8 @(36, 36)
+      VAL n=42 colors=[8, 9] meter={11: 0.3333333333333333}
+      PLAN goals=42 len=4 dest=[(10, 34), (10, 35)]
+      VAL n=42 colors=[8, 9] meter={11: 0.3333333333333333}
+      VAL n=42 colors=[8, 9] meter={11: 0.3333333333333333}
+      PLAN goals=1 len=1 dest=[(30, 39), (30, 40)]
+T 32 L0 fuel= 28 1 planned:0.8 @(30, 36)
+      VAL n=42 colors=[8, 9] meter={11: 0.30952380952380953}
+      PLAN goals=42 len=3 dest=[(10, 34), (10, 35)]
+      VAL n=42 colors=[8, 9] meter={11: 0.30952380952380953}
+      VAL n=42 colors=[8, 9] meter={11: 0.30952380952380953}
+      PLAN goals=1 len=1 dest=[(25, 39), (25, 40)]
+T 33 L0 fuel= 26 1 planned:0.8 @(26, 36)
+  [ 34] (world) entity 20 changed shape
+      VAL n=42 colors=[8, 9] meter={11: 0.2857142857142857}
+      PLAN goals=42 len=2 dest=[(10, 34), (10, 35)]
+      VAL n=42 colors=[8, 9] meter={11: 0.2857142857142857}
+      VAL n=42 colors=[8, 9] meter={11: 0.2857142857142857}
+      PLAN goals=1 len=2 dest=[(25, 39), (25, 40)]
+T 34 L0 fuel= 24 1 planned:0.8 @(20, 36)
+  [ 35] (world) entity 20 changed shape
+  [ 35] (world) entity 3 changed shape
+      VAL n=42 colors=[8, 9] meter={11: 0.2619047619047619}
+      PLAN goals=42 len=1 dest=[(10, 34), (10, 35)]
+      VAL n=42 colors=[8, 9] meter={11: 0.2619047619047619}
+      VAL n=42 colors=[8, 9] meter={11: 0.2619047619047619}
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(17, 34), (17, 35), (17, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(17, 34), (17, 35), (17, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(17, 34), (17, 35), (17, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(17, 34), (17, 35), (17, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(17, 34), (17, 35), (17, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e4 cells=[(11, 35), (11, 36), (11, 37)].. n=5 inpool=False pass=True refused=False
+        e5 cells=[(13, 35)].. n=1 inpool=False pass=True refused=False
+        e10 cells=[(17, 34), (17, 35), (17, 36)].. n=15 inpool=False pass=True refused=False
+        e12 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e13 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+T 35 L0 fuel= 22 1 planned:0.8 @(16, 36)
+  [ 36] (play) points
+  [ 36] (world) the color-9 thing is the goal
+  [ 36] (world) the level was won
+  [ 36] (event/win) the color-9 thing is the goal
+  [ 36] (event/win) the level was won
+      VAL n=157 colors=[8, 9, 11] meter={}
+      PLAN goals=157 None
+        try color 8 n=12 -> None
+        try color 9 n=45 -> None
+        try color 11 n=100 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=True pass=False refused=False
+        e28 cells=[(42, 29), (42, 30), (42, 31)].. n=15 inpool=True pass=False refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=True pass=False refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=True pass=False refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=True pass=False refused=False
+      VAL n=157 colors=[8, 9, 11] meter={}
+T 36 L1 fuel= 84 4 reembody:0.95 @None | points
+  [ 37] (world) I am the color-12 thing
+  [ 37] (event/self_found) I am the color-12 thing
+      VAL n=153 colors=[8, 9, 11] meter={}
+      SIM (40, 34) 1:ok 2:X 3:ok 4:X free=1385 terrain=[3]
+      PLAN goals=153 len=11 dest=[(15, 14), (15, 15)]
+      VAL n=153 colors=[8, 9, 11] meter={}
+      SIM (40, 34) 1:ok 2:X 3:ok 4:X free=1385 terrain=[3]
+      SIM (40, 34) 1:ok 2:X 3:ok 4:X free=1385 terrain=[3]
+      SIM (40, 34) 1:ok 2:X 3:ok 4:X free=1385 terrain=[3]
+      VAL n=153 colors=[8, 9, 11] meter={}
+      SIM (40, 34) 1:ok 2:X 3:ok 4:X free=1385 terrain=[3]
+      PLAN goals=1 None
+      SIM (40, 34) 1:ok 2:X 3:ok 4:X free=1385 terrain=[3]
+        try color 3 n=1 -> None
+      SIM (40, 34) 1:ok 2:X 3:ok 4:X free=1385 terrain=[3]
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(42, 34), (42, 35), (42, 36)].. n=15 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      SIM (40, 34) 1:ok 2:X 3:ok 4:X free=1385 terrain=[3]
+      PLAN goals=1 None
+      SIM (40, 34) 1:ok 2:X 3:ok 4:X free=1385 terrain=[3]
+        try color 9 n=1 -> None
+      SIM (40, 34) 1:ok 2:X 3:ok 4:X free=1385 terrain=[3]
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(42, 34), (42, 35), (42, 36)].. n=15 inpool=True pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      SIM (40, 34) 1:ok 2:X 3:ok 4:X free=1385 terrain=[3]
+      PLAN goals=1 None
+      SIM (40, 34) 1:ok 2:X 3:ok 4:X free=1385 terrain=[3]
+        try color 3 n=1 -> None
+      SIM (40, 34) 1:ok 2:X 3:ok 4:X free=1385 terrain=[3]
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(42, 34), (42, 35), (42, 36)].. n=15 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      SIM (40, 34) 1:ok 2:X 3:ok 4:X free=1385 terrain=[3]
+      PLAN goals=1 None
+      SIM (40, 34) 1:ok 2:X 3:ok 4:X free=1385 terrain=[3]
+        try color 9 n=1 -> None
+      SIM (40, 34) 1:ok 2:X 3:ok 4:X free=1385 terrain=[3]
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(42, 34), (42, 35), (42, 36)].. n=15 inpool=True pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      SIM (40, 34) 1:ok 2:X 3:ok 4:X free=1385 terrain=[3]
+      PLAN goals=1 None
+      SIM (40, 34) 1:ok 2:X 3:ok 4:X free=1385 terrain=[3]
+        try color 9 n=1 -> None
+      SIM (40, 34) 1:ok 2:X 3:ok 4:X free=1385 terrain=[3]
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(42, 34), (42, 35), (42, 36)].. n=15 inpool=True pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      SIM (40, 34) 1:ok 2:X 3:ok 4:X free=1385 terrain=[3]
+      PLAN goals=1 None
+      SIM (40, 34) 1:ok 2:X 3:ok 4:X free=1385 terrain=[3]
+        try color 3 n=1 -> None
+      SIM (40, 34) 1:ok 2:X 3:ok 4:X free=1385 terrain=[3]
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(42, 34), (42, 35), (42, 36)].. n=15 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      SIM (40, 34) 1:ok 2:X 3:ok 4:X free=1385 terrain=[3]
+      SIM (40, 34) 1:ok 2:X 3:ok 4:X free=1385 terrain=[3]
+T 37 L1 fuel= 80 1 planned:0.8 @(40, 36)
+  [ 38] (world) entity 43 changed shape
+  [ 38] (world) the color-9 thing is part of me
+      VAL n=134 colors=[8, 9, 11] meter={}
+      SIM (35, 34) 1:ok 2:ok 3:ok 4:X free=1389 terrain=[3]
+      PLAN goals=134 len=10 dest=[(15, 14), (15, 15)]
+      VAL n=134 colors=[8, 9, 11] meter={}
+      SIM (35, 34) 1:ok 2:ok 3:ok 4:X free=1389 terrain=[3]
+      SIM (35, 34) 1:ok 2:ok 3:ok 4:X free=1389 terrain=[3]
+      SIM (35, 34) 1:ok 2:ok 3:ok 4:X free=1389 terrain=[3]
+      VAL n=134 colors=[8, 9, 11] meter={}
+      SIM (35, 34) 1:ok 2:ok 3:ok 4:X free=1389 terrain=[3]
+      PLAN goals=1 len=1 dest=[(30, 34), (30, 35)]
+      SIM (35, 34) 1:ok 2:ok 3:ok 4:X free=1389 terrain=[3]
+      SIM (35, 34) 1:ok 2:ok 3:ok 4:X free=1389 terrain=[3]
+T 38 L1 fuel= 76 1 planned:0.8 @(36, 36)
+  [ 39] (world) entity 44 changed shape
+  [ 39] (world) entity 43 changed shape
+      VAL n=130 colors=[8, 9, 11] meter={}
+      SIM (30, 34) 1:ok 2:ok 3:X 4:ok free=1393 terrain=[3]
+      PLAN goals=130 len=9 dest=[(15, 14), (15, 15)]
+      VAL n=130 colors=[8, 9, 11] meter={}
+      SIM (30, 34) 1:ok 2:ok 3:X 4:ok free=1393 terrain=[3]
+      SIM (30, 34) 1:ok 2:ok 3:X 4:ok free=1393 terrain=[3]
+      SIM (30, 34) 1:ok 2:ok 3:X 4:ok free=1393 terrain=[3]
+      VAL n=130 colors=[8, 9, 11] meter={}
+      SIM (30, 34) 1:ok 2:ok 3:X 4:ok free=1393 terrain=[3]
+      PLAN goals=1 len=1 dest=[(25, 34), (25, 35)]
+      SIM (30, 34) 1:ok 2:ok 3:X 4:ok free=1393 terrain=[3]
+      SIM (30, 34) 1:ok 2:ok 3:X 4:ok free=1393 terrain=[3]
+T 39 L1 fuel= 72 1 planned:0.8 @(30, 36)
+  [ 40] (world) entity 44 changed shape
+  [ 40] (world) entity 43 changed shape
+      VAL n=126 colors=[8, 9, 11] meter={}
+      SIM (25, 34) 1:ok 2:ok 3:X 4:ok free=1397 terrain=[3]
+      PLAN goals=126 len=8 dest=[(15, 14), (15, 15)]
+      VAL n=126 colors=[8, 9, 11] meter={}
+      SIM (25, 34) 1:ok 2:ok 3:X 4:ok free=1397 terrain=[3]
+      SIM (25, 34) 1:ok 2:ok 3:X 4:ok free=1397 terrain=[3]
+      SIM (25, 34) 1:ok 2:ok 3:X 4:ok free=1397 terrain=[3]
+      VAL n=126 colors=[8, 9, 11] meter={}
+      SIM (25, 34) 1:ok 2:ok 3:X 4:ok free=1397 terrain=[3]
+      PLAN goals=1 len=1 dest=[(20, 34), (20, 35)]
+      SIM (25, 34) 1:ok 2:ok 3:X 4:ok free=1397 terrain=[3]
+      SIM (25, 34) 1:ok 2:ok 3:X 4:ok free=1397 terrain=[3]
+T 40 L1 fuel= 68 1 planned:0.8 @(26, 36)
+  [ 41] (world) entity 43 changed shape
+      VAL n=58 colors=[8, 9, 11] meter={11: 0.7619047619047619}
+      SIM (20, 34) 1:ok 2:ok 3:ok 4:X free=1401 terrain=[3]
+      PLAN goals=58 len=7 dest=[(15, 14), (15, 15)]
+      VAL n=58 colors=[8, 9, 11] meter={11: 0.7619047619047619}
+      SIM (20, 34) 1:ok 2:ok 3:ok 4:X free=1401 terrain=[3]
+      SIM (20, 34) 1:ok 2:ok 3:ok 4:X free=1401 terrain=[3]
+      SIM (20, 34) 1:ok 2:ok 3:ok 4:X free=1401 terrain=[3]
+      VAL n=58 colors=[8, 9, 11] meter={11: 0.7619047619047619}
+      SIM (20, 34) 1:ok 2:ok 3:ok 4:X free=1401 terrain=[3]
+      PLAN goals=1 len=1 dest=[(15, 34), (15, 35)]
+      SIM (20, 34) 1:ok 2:ok 3:ok 4:X free=1401 terrain=[3]
+      SIM (20, 34) 1:ok 2:ok 3:ok 4:X free=1401 terrain=[3]
+T 41 L1 fuel= 64 3 planned:0.8 @(20, 36)
+  [ 42] (world) entity 22 changed shape
+  [ 42] (world) entity 43 changed shape
+      VAL n=58 colors=[8, 9, 11] meter={11: 0.7142857142857143}
+      SIM (20, 29) 1:ok 2:X 3:X 4:ok free=1405 terrain=[3]
+      PLAN goals=58 len=6 dest=[(15, 14), (15, 15)]
+      VAL n=58 colors=[8, 9, 11] meter={11: 0.7142857142857143}
+      SIM (20, 29) 1:ok 2:X 3:X 4:ok free=1405 terrain=[3]
+      SIM (20, 29) 1:ok 2:X 3:X 4:ok free=1405 terrain=[3]
+      SIM (20, 29) 1:ok 2:X 3:X 4:ok free=1405 terrain=[3]
+      SIM (20, 29) 1:ok 2:X 3:X 4:ok free=1405 terrain=[3]
+      VAL n=58 colors=[8, 9, 11] meter={11: 0.7142857142857143}
+      SIM (20, 29) 1:ok 2:X 3:X 4:ok free=1405 terrain=[3]
+      PLAN goals=1 len=1 dest=[(15, 29), (15, 30)]
+      SIM (20, 29) 1:ok 2:X 3:X 4:ok free=1405 terrain=[3]
+      SIM (20, 29) 1:ok 2:X 3:X 4:ok free=1405 terrain=[3]
+T 42 L1 fuel= 60 1 planned:0.8 @(20, 31)
+  [ 43] (world) entity 43 changed shape
+      VAL n=58 colors=[8, 9, 11] meter={11: 0.6666666666666666}
+      SIM (15, 29) 1:ok 2:ok 3:X 4:ok free=1409 terrain=[3]
+      PLAN goals=58 len=5 dest=[(15, 14), (15, 15)]
+      VAL n=58 colors=[8, 9, 11] meter={11: 0.6666666666666666}
+      SIM (15, 29) 1:ok 2:ok 3:X 4:ok free=1409 terrain=[3]
+      SIM (15, 29) 1:ok 2:ok 3:X 4:ok free=1409 terrain=[3]
+      SIM (15, 29) 1:ok 2:ok 3:X 4:ok free=1409 terrain=[3]
+      VAL n=58 colors=[8, 9, 11] meter={11: 0.6666666666666666}
+      SIM (15, 29) 1:ok 2:ok 3:X 4:ok free=1409 terrain=[3]
+      PLAN goals=1 len=1 dest=[(10, 29), (10, 30)]
+      SIM (15, 29) 1:ok 2:ok 3:X 4:ok free=1409 terrain=[3]
+      SIM (15, 29) 1:ok 2:ok 3:X 4:ok free=1409 terrain=[3]
+T 43 L1 fuel= 56 1 planned:0.8 @(16, 31)
+  [ 44] (world) entity 43 changed shape
+      VAL n=58 colors=[8, 9, 11] meter={11: 0.6190476190476191}
+      SIM (10, 29) 1:ok 2:ok 3:ok 4:ok free=1413 terrain=[3]
+      PLAN goals=58 len=4 dest=[(15, 14), (15, 15)]
+      VAL n=58 colors=[8, 9, 11] meter={11: 0.6190476190476191}
+      SIM (10, 29) 1:ok 2:ok 3:ok 4:ok free=1413 terrain=[3]
+      SIM (10, 29) 1:ok 2:ok 3:ok 4:ok free=1413 terrain=[3]
+      SIM (10, 29) 1:ok 2:ok 3:ok 4:ok free=1413 terrain=[3]
+      VAL n=58 colors=[8, 9, 11] meter={11: 0.6190476190476191}
+      SIM (10, 29) 1:ok 2:ok 3:ok 4:ok free=1413 terrain=[3]
+      PLAN goals=1 len=1 dest=[(10, 34), (10, 35)]
+      SIM (10, 29) 1:ok 2:ok 3:ok 4:ok free=1413 terrain=[3]
+      SIM (10, 29) 1:ok 2:ok 3:ok 4:ok free=1413 terrain=[3]
+T 44 L1 fuel= 52 3 planned:0.8 @(10, 31)
+      VAL n=58 colors=[8, 9, 11] meter={11: 0.5714285714285714}
+      SIM (10, 24) 1:ok 2:X 3:ok 4:ok free=1417 terrain=[3]
+      PLAN goals=58 len=3 dest=[(15, 14), (15, 15)]
+      VAL n=58 colors=[8, 9, 11] meter={11: 0.5714285714285714}
+      SIM (10, 24) 1:ok 2:X 3:ok 4:ok free=1417 terrain=[3]
+      SIM (10, 24) 1:ok 2:X 3:ok 4:ok free=1417 terrain=[3]
+      SIM (10, 24) 1:ok 2:X 3:ok 4:ok free=1417 terrain=[3]
+      SIM (10, 24) 1:ok 2:X 3:ok 4:ok free=1417 terrain=[3]
+      VAL n=58 colors=[8, 9, 11] meter={11: 0.5714285714285714}
+      SIM (10, 24) 1:ok 2:X 3:ok 4:ok free=1417 terrain=[3]
+      PLAN goals=1 len=1 dest=[(10, 19), (10, 20)]
+      SIM (10, 24) 1:ok 2:X 3:ok 4:ok free=1417 terrain=[3]
+      SIM (10, 24) 1:ok 2:X 3:ok 4:ok free=1417 terrain=[3]
+T 45 L1 fuel= 48 3 planned:0.8 @(10, 26)
+  [ 46] (world) entity 22 changed shape
+      VAL n=58 colors=[8, 9, 11] meter={11: 0.5238095238095238}
+      SIM (10, 19) 1:ok 2:ok 3:ok 4:ok free=1421 terrain=[3]
+      PLAN goals=58 len=2 dest=[(15, 14), (15, 15)]
+      VAL n=58 colors=[8, 9, 11] meter={11: 0.5238095238095238}
+      SIM (10, 19) 1:ok 2:ok 3:ok 4:ok free=1421 terrain=[3]
+      SIM (10, 19) 1:ok 2:ok 3:ok 4:ok free=1421 terrain=[3]
+      SIM (10, 19) 1:ok 2:ok 3:ok 4:ok free=1421 terrain=[3]
+      VAL n=58 colors=[8, 9, 11] meter={11: 0.5238095238095238}
+      SIM (10, 19) 1:ok 2:ok 3:ok 4:ok free=1421 terrain=[3]
+      PLAN goals=1 len=1 dest=[(10, 14), (10, 15)]
+      SIM (10, 19) 1:ok 2:ok 3:ok 4:ok free=1421 terrain=[3]
+      SIM (10, 19) 1:ok 2:ok 3:ok 4:ok free=1421 terrain=[3]
+T 46 L1 fuel= 44 2 planned:0.8 @(10, 21)
+  [ 47] (world) entity 22 changed shape
+      VAL n=16 colors=[11] meter={11: 0.47619047619047616}
+      PLAN goals=16 len=1 dest=[(15, 14), (15, 15)]
+      VAL n=16 colors=[11] meter={11: 0.47619047619047616}
+      VAL n=16 colors=[11] meter={11: 0.47619047619047616}
+      PLAN goals=1 len=1 dest=[(20, 19), (20, 20)]
+T 47 L1 fuel= 40 3 planned:0.8 @(16, 21)
+  [ 48] (world) entity 39 changed to color 11
+      VAL n=50 colors=[8, 9, 11] meter={11: 1.0}
+      PLAN goals=50 len=5 dest=[(40, 14), (40, 15)]
+      VAL n=50 colors=[8, 9, 11] meter={11: 1.0}
+      VAL n=50 colors=[8, 9, 11] meter={11: 1.0}
+      PLAN goals=1 len=1 dest=[(20, 14), (20, 15)]
+T 48 L1 fuel= 84 2 planned:0.8 @(16, 16)
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.9523809523809523}
+      PLAN goals=50 len=4 dest=[(40, 14), (40, 15)]
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.9523809523809523}
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.9523809523809523}
+      PLAN goals=1 len=1 dest=[(20, 9), (20, 10)]
+T 49 L1 fuel= 80 2 planned:0.8 @(20, 16)
+  [ 50] (world) entity 45 changed shape
+  [ 50] (world) entity 43 changed shape
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.9047619047619048}
+      PLAN goals=50 len=3 dest=[(40, 14), (40, 15)]
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.9047619047619048}
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.9047619047619048}
+      PLAN goals=1 len=1 dest=[(30, 14), (30, 15)]
+T 50 L1 fuel= 76 2 planned:0.8 @(26, 16)
+  [ 51] (world) entity 45 changed shape
+  [ 51] (world) entity 43 changed shape
+  [ 51] (world) I touched the color-11 thing and it vanished
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.8571428571428571}
+      PLAN goals=50 len=2 dest=[(40, 14), (40, 15)]
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.8571428571428571}
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.8571428571428571}
+      PLAN goals=1 len=1 dest=[(35, 14), (35, 15)]
+T 51 L1 fuel= 72 2 planned:0.8 @(30, 16)
+  [ 52] (world) entity 45 changed shape
+  [ 52] (world) entity 25 changed shape
+  [ 52] (world) entity 43 changed shape
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      PLAN goals=50 len=1 dest=[(40, 14), (40, 15)]
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+T 52 L1 fuel= 68 2 planned:0.8 @(36, 16)
+  [ 53] (world) action 2 moved me (0, 0), expected (5, 0)
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      PLAN goals=50 len=1 dest=[(40, 14), (40, 15)]
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+T 53 L1 fuel= 68 2 planned:0.8 @(36, 16)
+  [ 54] (world) action 2 moved me (0, 0), expected (5, 0)
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      PLAN goals=50 len=22 dest=[(50, 39), (50, 40)]
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+T 54 L1 fuel= 68 1 planned:0.8 @(36, 16)
+  [ 55] (world) entity 45 changed shape
+  [ 55] (world) entity 43 changed shape
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.7619047619047619}
+      PLAN goals=50 len=21 dest=[(50, 39), (50, 40)]
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.7619047619047619}
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.7619047619047619}
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(32, 14), (32, 15), (32, 16)].. n=15 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(32, 14), (32, 15), (32, 16)].. n=15 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(32, 14), (32, 15), (32, 16)].. n=15 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e28 cells=[(32, 14), (32, 15), (32, 16)].. n=15 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+      PLAN goals=1 len=3 dest=[(20, 9), (20, 10)]
+T 55 L1 fuel= 64 1 planned:0.8 @(30, 16)
+  [ 56] (world) entity 45 changed shape
+  [ 56] (world) entity 43 changed shape
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.7142857142857143}
+      PLAN goals=50 len=20 dest=[(50, 39), (50, 40)]
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.7142857142857143}
+T 56 L1 fuel= 60 1 planned:0.8 @(26, 16)
+  [ 57] (world) entity 45 changed shape
+  [ 57] (world) entity 43 changed shape
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.6666666666666666}
+      PLAN goals=50 len=19 dest=[(50, 39), (50, 40)]
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.6666666666666666}
+T 57 L1 fuel= 56 4 planned:0.8 @(20, 16)
+  [ 58] (world) entity 43 changed shape
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.6190476190476191}
+      PLAN goals=50 len=18 dest=[(50, 39), (50, 40)]
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.6190476190476191}
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.6190476190476191}
+      PLAN goals=1 len=2 dest=[(20, 9), (20, 10)]
+T 58 L1 fuel= 52 1 planned:0.8 @(20, 21)
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.5714285714285714}
+      PLAN goals=50 len=17 dest=[(50, 39), (50, 40)]
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.5714285714285714}
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.5714285714285714}
+      PLAN goals=1 len=2 dest=[(10, 14), (10, 15)]
+T 59 L1 fuel= 48 1 planned:0.8 @(16, 21)
+  [ 60] (world) entity 22 changed shape
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.5238095238095238}
+      PLAN goals=50 len=16 dest=[(50, 39), (50, 40)]
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.5238095238095238}
+T 60 L1 fuel= 44 4 planned:0.8 @(10, 21)
+  [ 61] (world) entity 22 changed shape
+      VAL n=8 colors=[11] meter={11: 0.47619047619047616}
+      PLAN goals=8 len=15 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.47619047619047616}
+      VAL n=8 colors=[11] meter={11: 0.47619047619047616}
+      PLAN goals=1 len=1 dest=[(5, 24), (5, 25)]
+T 61 L1 fuel= 40 4 planned:0.8 @(10, 26)
+      VAL n=8 colors=[11] meter={11: 0.42857142857142855}
+      PLAN goals=8 len=14 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.42857142857142855}
+      VAL n=8 colors=[11] meter={11: 0.42857142857142855}
+      PLAN goals=1 len=1 dest=[(10, 34), (10, 35)]
+T 62 L1 fuel= 36 4 planned:0.8 @(10, 31)
+  [ 63] (world) entity 39 changed shape
+      VAL n=8 colors=[11] meter={11: 0.38095238095238093}
+      PLAN goals=8 len=13 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.38095238095238093}
+      VAL n=8 colors=[11] meter={11: 0.38095238095238093}
+      PLAN goals=1 len=1 dest=[(5, 34), (5, 35)]
+T 63 L1 fuel= 32 4 planned:0.8 @(10, 36)
+  [ 64] (world) entity 39 changed shape
+      VAL n=8 colors=[11] meter={11: 0.3333333333333333}
+      PLAN goals=8 len=12 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.3333333333333333}
+      VAL n=8 colors=[11] meter={11: 0.3333333333333333}
+      PLAN goals=1 len=1 dest=[(5, 39), (5, 40)]
+T 64 L1 fuel= 28 4 planned:0.8 @(10, 41)
+  [ 65] (world) entity 39 changed shape
+      VAL n=8 colors=[11] meter={11: 0.2857142857142857}
+      PLAN goals=8 len=11 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.2857142857142857}
+      VAL n=8 colors=[11] meter={11: 0.2857142857142857}
+      PLAN goals=1 len=1 dest=[(10, 49), (10, 50)]
+T 65 L1 fuel= 24 2 planned:0.8 @(10, 46)
+  [ 66] (world) entity 39 changed shape
+      VAL n=8 colors=[11] meter={11: 0.23809523809523808}
+      PLAN goals=8 len=10 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.23809523809523808}
+      VAL n=8 colors=[11] meter={11: 0.23809523809523808}
+      PLAN goals=1 len=1 dest=[(15, 49), (15, 50)]
+T 66 L1 fuel= 20 4 planned:0.8 @(16, 46)
+  [ 67] (world) entity 39 changed shape
+  [ 67] (world) entity 22 changed to color 3
+      VAL n=8 colors=[11] meter={11: 0.19047619047619047}
+      PLAN goals=8 len=9 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.19047619047619047}
+      VAL n=8 colors=[11] meter={11: 0.19047619047619047}
+      PLAN goals=1 len=1 dest=[(10, 49), (10, 50)]
+T 67 L1 fuel= 16 2 planned:0.8 @(16, 51)
+  [ 68] (world) entity 39 changed shape
+      VAL n=8 colors=[11] meter={11: 0.14285714285714285}
+      PLAN goals=8 len=8 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.14285714285714285}
+      VAL n=8 colors=[11] meter={11: 0.14285714285714285}
+      PLAN goals=1 len=1 dest=[(25, 49), (25, 50)]
+T 68 L1 fuel= 12 2 planned:0.8 @(20, 51)
+  [ 69] (world) entity 47 changed shape
+  [ 69] (world) entity 39 changed shape
+      VAL n=8 colors=[11] meter={11: 0.09523809523809523}
+      PLAN goals=8 len=7 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.09523809523809523}
+      VAL n=8 colors=[11] meter={11: 0.09523809523809523}
+      PLAN goals=1 len=1 dest=[(25, 54), (25, 55)]
+T 69 L1 fuel=  8 2 planned:0.8 @(26, 51)
+  [ 70] (world) entity 39 changed shape
+      VAL n=8 colors=[11] meter={11: 0.047619047619047616}
+      PLAN goals=8 len=6 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.047619047619047616}
+      VAL n=8 colors=[11] meter={11: 0.047619047619047616}
+      PLAN goals=1 len=1 dest=[(35, 49), (35, 50)]
+T 70 L1 fuel=  4 2 planned:0.8 @(30, 51)
+      VAL n=50 colors=[8, 9, 11] meter={}
+      PLAN goals=50 len=5 dest=[(50, 39), (50, 40)]
+      VAL n=50 colors=[8, 9, 11] meter={}
+      VAL n=50 colors=[8, 9, 11] meter={}
+      PLAN goals=1 len=1 dest=[(40, 49), (40, 50)]
+T 71 L1 fuel=  0 2 planned:0.8 @(36, 51)
+  [ 72] (world) entity 22 changed shape
+  [ 72] (world) entity 43 changed to color 11
+  [ 72] (world) entity 42 changed to color 3
+  [ 72] (world) the color-11 reserve was empty when the world ended
+  [ 72] (event/depleted) the color-11 reserve was empty when the world ended
+      VAL n=69 colors=[8, 9, 11] meter={11: 1.0}
+      PLAN goals=69 None
+        try color 8 n=8 -> None
+        try color 9 n=45 -> None
+        try color 11 n=16 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=True pass=False refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=True pass=False refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=True pass=False refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=True pass=False refused=False
+        e49 cells=[(42, 29), (42, 30), (42, 31)].. n=15 inpool=True pass=False refused=False
+      VAL n=69 colors=[8, 9, 11] meter={11: 1.0}
+T 72 L1 fuel= 84 1 reembody:0.95 @None
+  [ 73] (world) I am the color-12 thing
+  [ 73] (event/self_found) I am the color-12 thing
+      VAL n=69 colors=[8, 9, 11] meter={11: 0.9523809523809523}
+      PLAN goals=69 len=11 dest=[(15, 14), (15, 15)]
+      VAL n=69 colors=[8, 9, 11] meter={11: 0.9523809523809523}
+      VAL n=69 colors=[8, 9, 11] meter={11: 0.9523809523809523}
+      PLAN goals=1 None
+        try color 9 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e49 cells=[(37, 29), (37, 30), (37, 31)].. n=15 inpool=True pass=True refused=False
+      PLAN goals=1 None
+        try color 9 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e49 cells=[(37, 29), (37, 30), (37, 31)].. n=15 inpool=True pass=True refused=False
+      PLAN goals=1 None
+        try color 9 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e49 cells=[(37, 29), (37, 30), (37, 31)].. n=15 inpool=True pass=True refused=False
+      PLAN goals=1 None
+        try color 9 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e49 cells=[(37, 29), (37, 30), (37, 31)].. n=15 inpool=True pass=True refused=False
+      PLAN goals=1 None
+        try color 9 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e49 cells=[(37, 29), (37, 30), (37, 31)].. n=15 inpool=True pass=True refused=False
+      PLAN goals=1 None
+        try color 9 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e49 cells=[(37, 29), (37, 30), (37, 31)].. n=15 inpool=True pass=True refused=False
+T 73 L1 fuel= 80 4 planned:0.8 @(36, 31)
+  [ 74] (world) entity 50 changed shape
+  [ 74] (world) the color-9 thing is part of me
+      VAL n=54 colors=[8, 9, 11] meter={11: 0.9047619047619048}
+      PLAN goals=54 len=10 dest=[(15, 14), (15, 15)]
+      VAL n=54 colors=[8, 9, 11] meter={11: 0.9047619047619048}
+      VAL n=54 colors=[8, 9, 11] meter={11: 0.9047619047619048}
+      PLAN goals=1 len=1 dest=[(35, 29), (35, 30)]
+T 74 L1 fuel= 76 1 planned:0.8 @(36, 36)
+  [ 75] (world) entity 44 changed shape
+  [ 75] (world) entity 50 changed shape
+      VAL n=54 colors=[8, 9, 11] meter={11: 0.8571428571428571}
+      PLAN goals=54 len=9 dest=[(15, 14), (15, 15)]
+      VAL n=54 colors=[8, 9, 11] meter={11: 0.8571428571428571}
+      VAL n=54 colors=[8, 9, 11] meter={11: 0.8571428571428571}
+      PLAN goals=1 len=1 dest=[(30, 39), (30, 40)]
+T 75 L1 fuel= 72 1 planned:0.8 @(30, 36)
+  [ 76] (world) entity 44 changed shape
+  [ 76] (world) entity 50 changed shape
+      VAL n=54 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      PLAN goals=54 len=8 dest=[(15, 14), (15, 15)]
+      VAL n=54 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      VAL n=54 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      PLAN goals=1 len=1 dest=[(25, 39), (25, 40)]
+T 76 L1 fuel= 68 1 planned:0.8 @(26, 36)
+  [ 77] (world) entity 50 changed shape
+      VAL n=54 colors=[8, 9, 11] meter={11: 0.7619047619047619}
+      PLAN goals=54 len=7 dest=[(15, 14), (15, 15)]
+      VAL n=54 colors=[8, 9, 11] meter={11: 0.7619047619047619}
+      VAL n=54 colors=[8, 9, 11] meter={11: 0.7619047619047619}
+      PLAN goals=1 len=1 dest=[(15, 34), (15, 35)]
+T 77 L1 fuel= 64 3 planned:0.8 @(20, 36)
+  [ 78] (world) entity 22 changed shape
+  [ 78] (world) entity 50 changed shape
+      VAL n=54 colors=[8, 9, 11] meter={11: 0.7142857142857143}
+      PLAN goals=54 len=6 dest=[(15, 14), (15, 15)]
+      VAL n=54 colors=[8, 9, 11] meter={11: 0.7142857142857143}
+      VAL n=54 colors=[8, 9, 11] meter={11: 0.7142857142857143}
+      PLAN goals=1 len=2 dest=[(15, 34), (15, 35)]
+T 78 L1 fuel= 60 1 planned:0.8 @(20, 31)
+  [ 79] (world) entity 50 changed shape
+      VAL n=54 colors=[8, 9, 11] meter={11: 0.6666666666666666}
+      PLAN goals=54 len=5 dest=[(15, 14), (15, 15)]
+      VAL n=54 colors=[8, 9, 11] meter={11: 0.6666666666666666}
+T 79 L1 fuel= 56 1 planned:0.8 @(16, 31)
+  [ 80] (world) entity 50 changed shape
+      VAL n=54 colors=[8, 9, 11] meter={11: 0.6190476190476191}
+      PLAN goals=54 len=4 dest=[(15, 14), (15, 15)]
+      VAL n=54 colors=[8, 9, 11] meter={11: 0.6190476190476191}
+      VAL n=54 colors=[8, 9, 11] meter={11: 0.6190476190476191}
+      PLAN goals=1 len=1 dest=[(5, 29), (5, 30)]
+T 80 L1 fuel= 52 3 planned:0.8 @(10, 31)
+      VAL n=54 colors=[8, 9, 11] meter={11: 0.5714285714285714}
+      PLAN goals=54 len=3 dest=[(15, 14), (15, 15)]
+      VAL n=54 colors=[8, 9, 11] meter={11: 0.5714285714285714}
+      VAL n=54 colors=[8, 9, 11] meter={11: 0.5714285714285714}
+      PLAN goals=1 len=1 dest=[(5, 24), (5, 25)]
+T 81 L1 fuel= 48 3 planned:0.8 @(10, 26)
+  [ 82] (world) entity 22 changed shape
+      VAL n=54 colors=[8, 9, 11] meter={11: 0.5238095238095238}
+      PLAN goals=54 len=2 dest=[(15, 14), (15, 15)]
+      VAL n=54 colors=[8, 9, 11] meter={11: 0.5238095238095238}
+      VAL n=54 colors=[8, 9, 11] meter={11: 0.5238095238095238}
+      PLAN goals=1 len=1 dest=[(10, 14), (10, 15)]
+T 82 L1 fuel= 44 2 planned:0.8 @(10, 21)
+  [ 83] (world) entity 22 changed shape
+      VAL n=16 colors=[11] meter={11: 0.47619047619047616}
+      PLAN goals=16 len=1 dest=[(15, 14), (15, 15)]
+      VAL n=16 colors=[11] meter={11: 0.47619047619047616}
+      VAL n=16 colors=[11] meter={11: 0.47619047619047616}
+      PLAN goals=1 len=2 dest=[(10, 14), (10, 15)]
+T 83 L1 fuel= 40 3 planned:0.8 @(16, 21)
+  [ 84] (world) entity 43 changed to color 11
+      VAL n=46 colors=[8, 9, 11] meter={11: 1.0}
+      PLAN goals=46 len=5 dest=[(40, 14), (40, 15)]
+      VAL n=46 colors=[8, 9, 11] meter={11: 1.0}
+      VAL n=46 colors=[8, 9, 11] meter={11: 1.0}
+      PLAN goals=1 len=1 dest=[(15, 9), (15, 10)]
+T 84 L1 fuel= 84 2 planned:0.8 @(16, 16)
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.9523809523809523}
+      PLAN goals=46 len=4 dest=[(40, 14), (40, 15)]
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.9523809523809523}
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.9523809523809523}
+      PLAN goals=1 len=1 dest=[(20, 9), (20, 10)]
+T 85 L1 fuel= 80 2 planned:0.8 @(20, 16)
+  [ 86] (world) entity 45 changed shape
+  [ 86] (world) entity 50 changed shape
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.9047619047619048}
+      PLAN goals=46 len=3 dest=[(40, 14), (40, 15)]
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.9047619047619048}
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.9047619047619048}
+      PLAN goals=1 len=2 dest=[(20, 9), (20, 10)]
+T 86 L1 fuel= 76 2 planned:0.8 @(26, 16)
+  [ 87] (world) entity 45 changed shape
+  [ 87] (world) entity 50 changed shape
+  [ 87] (world) I touched the color-11 thing and it vanished
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.8571428571428571}
+      PLAN goals=46 len=2 dest=[(40, 14), (40, 15)]
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.8571428571428571}
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.8571428571428571}
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e49 cells=[(32, 14), (32, 15), (32, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e49 cells=[(32, 14), (32, 15), (32, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e49 cells=[(32, 14), (32, 15), (32, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e49 cells=[(32, 14), (32, 15), (32, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 len=3 dest=[(20, 9), (20, 10)]
+T 87 L1 fuel= 72 2 planned:0.8 @(30, 16)
+  [ 88] (world) entity 45 changed shape
+  [ 88] (world) entity 25 changed shape
+  [ 88] (world) entity 50 changed shape
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      PLAN goals=46 len=1 dest=[(40, 14), (40, 15)]
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e49 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e49 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e49 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e49 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e49 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e49 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+T 88 L1 fuel= 68 2 planned:0.8 @(36, 16)
+  [ 89] (world) action 2 moved me (0, 0), expected (5, 0)
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      PLAN goals=46 len=22 dest=[(50, 39), (50, 40)]
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e49 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e49 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e49 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e49 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e49 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e49 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+T 89 L1 fuel= 68 1 planned:0.8 @(36, 16)
+  [ 90] (world) entity 45 changed shape
+  [ 90] (world) entity 50 changed shape
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.7619047619047619}
+      PLAN goals=46 len=21 dest=[(50, 39), (50, 40)]
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.7619047619047619}
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.7619047619047619}
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e49 cells=[(32, 14), (32, 15), (32, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e49 cells=[(32, 14), (32, 15), (32, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e49 cells=[(32, 14), (32, 15), (32, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e49 cells=[(32, 14), (32, 15), (32, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 len=3 dest=[(20, 9), (20, 10)]
+T 90 L1 fuel= 64 1 planned:0.8 @(30, 16)
+  [ 91] (world) entity 45 changed shape
+  [ 91] (world) entity 50 changed shape
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.7142857142857143}
+      PLAN goals=46 len=20 dest=[(50, 39), (50, 40)]
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.7142857142857143}
+T 91 L1 fuel= 60 1 planned:0.8 @(26, 16)
+  [ 92] (world) entity 45 changed shape
+  [ 92] (world) entity 50 changed shape
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.6666666666666666}
+      PLAN goals=46 len=19 dest=[(50, 39), (50, 40)]
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.6666666666666666}
+T 92 L1 fuel= 56 4 planned:0.8 @(20, 16)
+  [ 93] (world) entity 50 changed shape
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.6190476190476191}
+      PLAN goals=46 len=18 dest=[(50, 39), (50, 40)]
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.6190476190476191}
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.6190476190476191}
+      PLAN goals=1 len=2 dest=[(20, 9), (20, 10)]
+T 93 L1 fuel= 52 1 planned:0.8 @(20, 21)
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.5714285714285714}
+      PLAN goals=46 len=17 dest=[(50, 39), (50, 40)]
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.5714285714285714}
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.5714285714285714}
+      PLAN goals=1 len=2 dest=[(10, 14), (10, 15)]
+T 94 L1 fuel= 48 1 planned:0.8 @(16, 21)
+  [ 95] (world) entity 22 changed shape
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.5238095238095238}
+      PLAN goals=46 len=16 dest=[(50, 39), (50, 40)]
+      VAL n=46 colors=[8, 9, 11] meter={11: 0.5238095238095238}
+T 95 L1 fuel= 44 4 planned:0.8 @(10, 21)
+  [ 96] (world) entity 22 changed shape
+      VAL n=8 colors=[11] meter={11: 0.47619047619047616}
+      PLAN goals=8 len=15 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.47619047619047616}
+      VAL n=8 colors=[11] meter={11: 0.47619047619047616}
+      PLAN goals=1 len=1 dest=[(5, 24), (5, 25)]
+T 96 L1 fuel= 40 4 planned:0.8 @(10, 26)
+      VAL n=8 colors=[11] meter={11: 0.42857142857142855}
+      PLAN goals=8 len=14 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.42857142857142855}
+      VAL n=8 colors=[11] meter={11: 0.42857142857142855}
+      PLAN goals=1 len=1 dest=[(5, 29), (5, 30)]
+T 97 L1 fuel= 36 4 planned:0.8 @(10, 31)
+  [ 98] (world) entity 43 changed shape
+      VAL n=8 colors=[11] meter={11: 0.38095238095238093}
+      PLAN goals=8 len=13 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.38095238095238093}
+      VAL n=8 colors=[11] meter={11: 0.38095238095238093}
+      PLAN goals=1 len=1 dest=[(5, 34), (5, 35)]
+T 98 L1 fuel= 32 4 planned:0.8 @(10, 36)
+  [ 99] (world) entity 43 changed shape
+      VAL n=8 colors=[11] meter={11: 0.3333333333333333}
+      PLAN goals=8 len=12 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.3333333333333333}
+      VAL n=8 colors=[11] meter={11: 0.3333333333333333}
+      PLAN goals=1 len=1 dest=[(5, 39), (5, 40)]
+T 99 L1 fuel= 28 4 planned:0.8 @(10, 41)
+  [100] (world) entity 43 changed shape
+      VAL n=8 colors=[11] meter={11: 0.2857142857142857}
+      PLAN goals=8 len=11 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.2857142857142857}
+      VAL n=8 colors=[11] meter={11: 0.2857142857142857}
+      PLAN goals=1 len=1 dest=[(10, 49), (10, 50)]
+T100 L1 fuel= 24 2 planned:0.8 @(10, 46)
+  [101] (world) entity 43 changed shape
+      VAL n=8 colors=[11] meter={11: 0.23809523809523808}
+      PLAN goals=8 len=10 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.23809523809523808}
+      VAL n=8 colors=[11] meter={11: 0.23809523809523808}
+      PLAN goals=1 len=2 dest=[(10, 49), (10, 50)]
+T101 L1 fuel= 20 4 planned:0.8 @(16, 46)
+  [102] (world) entity 43 changed shape
+  [102] (world) entity 22 changed to color 3
+      VAL n=8 colors=[11] meter={11: 0.19047619047619047}
+      PLAN goals=8 len=9 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.19047619047619047}
+      VAL n=8 colors=[11] meter={11: 0.19047619047619047}
+      PLAN goals=1 len=1 dest=[(10, 49), (10, 50)]
+T102 L1 fuel= 16 2 planned:0.8 @(16, 51)
+  [103] (world) entity 43 changed shape
+      VAL n=8 colors=[11] meter={11: 0.14285714285714285}
+      PLAN goals=8 len=8 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.14285714285714285}
+      VAL n=8 colors=[11] meter={11: 0.14285714285714285}
+      PLAN goals=1 len=1 dest=[(20, 54), (20, 55)]
+T103 L1 fuel= 12 2 planned:0.8 @(20, 51)
+  [104] (world) entity 47 changed shape
+  [104] (world) entity 43 changed shape
+      VAL n=8 colors=[11] meter={11: 0.09523809523809523}
+      PLAN goals=8 len=7 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.09523809523809523}
+      VAL n=8 colors=[11] meter={11: 0.09523809523809523}
+      PLAN goals=1 len=1 dest=[(25, 54), (25, 55)]
+T104 L1 fuel=  8 2 planned:0.8 @(26, 51)
+  [105] (world) entity 43 changed shape
+      VAL n=8 colors=[11] meter={11: 0.047619047619047616}
+      PLAN goals=8 len=6 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.047619047619047616}
+      VAL n=8 colors=[11] meter={11: 0.047619047619047616}
+      PLAN goals=1 len=2 dest=[(25, 54), (25, 55)]
+T105 L1 fuel=  4 2 planned:0.8 @(30, 51)
+      VAL n=46 colors=[8, 9, 11] meter={}
+      PLAN goals=46 len=5 dest=[(50, 39), (50, 40)]
+      VAL n=46 colors=[8, 9, 11] meter={}
+      VAL n=46 colors=[8, 9, 11] meter={}
+      PLAN goals=1 len=1 dest=[(40, 49), (40, 50)]
+T106 L1 fuel=  0 2 planned:0.8 @(36, 51)
+  [107] (world) entity 22 changed shape
+  [107] (world) entity 50 changed to color 11
+  [107] (world) the color-11 reserve was empty when the world ended
+  [107] (event/depleted) the color-11 reserve was empty when the world ended
+      VAL n=65 colors=[8, 9, 11] meter={11: 1.0}
+      PLAN goals=65 None
+        try color 8 n=4 -> None
+        try color 9 n=45 -> None
+        try color 11 n=16 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=True pass=False refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=True pass=False refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=True pass=False refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=True pass=False refused=False
+        e52 cells=[(42, 29), (42, 30), (42, 31)].. n=15 inpool=True pass=False refused=False
+T107 L1 fuel= 84 1 reembody:0.95 @None
+  [108] (world) I am the color-12 thing
+  [108] (event/self_found) I am the color-12 thing
+      VAL n=65 colors=[8, 9, 11] meter={11: 0.9523809523809523}
+      PLAN goals=65 len=11 dest=[(15, 14), (15, 15)]
+      VAL n=65 colors=[8, 9, 11] meter={11: 0.9523809523809523}
+      VAL n=65 colors=[8, 9, 11] meter={11: 0.9523809523809523}
+      PLAN goals=1 None
+        try color 9 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e52 cells=[(37, 29), (37, 30), (37, 31)].. n=15 inpool=True pass=True refused=False
+      PLAN goals=1 None
+        try color 9 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e52 cells=[(37, 29), (37, 30), (37, 31)].. n=15 inpool=True pass=True refused=False
+      PLAN goals=1 None
+        try color 9 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e52 cells=[(37, 29), (37, 30), (37, 31)].. n=15 inpool=True pass=True refused=False
+      PLAN goals=1 None
+        try color 9 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e52 cells=[(37, 29), (37, 30), (37, 31)].. n=15 inpool=True pass=True refused=False
+      PLAN goals=1 None
+        try color 9 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e52 cells=[(37, 29), (37, 30), (37, 31)].. n=15 inpool=True pass=True refused=False
+      PLAN goals=1 None
+        try color 9 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e52 cells=[(37, 29), (37, 30), (37, 31)].. n=15 inpool=True pass=True refused=False
+T108 L1 fuel= 80 4 planned:0.8 @(36, 31)
+  [109] (world) entity 54 changed shape
+  [109] (world) the color-9 thing is part of me
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.9047619047619048}
+      PLAN goals=50 len=10 dest=[(15, 14), (15, 15)]
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.9047619047619048}
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.9047619047619048}
+      PLAN goals=1 len=1 dest=[(35, 29), (35, 30)]
+T109 L1 fuel= 76 1 planned:0.8 @(36, 36)
+  [110] (world) entity 44 changed shape
+  [110] (world) entity 54 changed shape
+  [110] (world) I touched the color-8 thing and it vanished
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.8571428571428571}
+      PLAN goals=50 len=9 dest=[(15, 14), (15, 15)]
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.8571428571428571}
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.8571428571428571}
+      PLAN goals=1 len=1 dest=[(30, 39), (30, 40)]
+T110 L1 fuel= 72 1 planned:0.8 @(30, 36)
+  [111] (world) entity 44 changed shape
+  [111] (world) entity 54 changed shape
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      PLAN goals=50 len=8 dest=[(15, 14), (15, 15)]
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      PLAN goals=1 len=1 dest=[(25, 39), (25, 40)]
+T111 L1 fuel= 68 1 planned:0.8 @(26, 36)
+  [112] (world) entity 54 changed shape
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.7619047619047619}
+      PLAN goals=50 len=7 dest=[(15, 14), (15, 15)]
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.7619047619047619}
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.7619047619047619}
+      PLAN goals=1 len=1 dest=[(15, 34), (15, 35)]
+T112 L1 fuel= 64 3 planned:0.8 @(20, 36)
+  [113] (world) entity 22 changed shape
+  [113] (world) entity 54 changed shape
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.7142857142857143}
+      PLAN goals=50 len=6 dest=[(15, 14), (15, 15)]
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.7142857142857143}
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.7142857142857143}
+      PLAN goals=1 len=2 dest=[(15, 34), (15, 35)]
+T113 L1 fuel= 60 1 planned:0.8 @(20, 31)
+  [114] (world) entity 54 changed shape
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.6666666666666666}
+      PLAN goals=50 len=5 dest=[(15, 14), (15, 15)]
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.6666666666666666}
+T114 L1 fuel= 56 1 planned:0.8 @(16, 31)
+  [115] (world) entity 54 changed shape
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.6190476190476191}
+      PLAN goals=50 len=4 dest=[(15, 14), (15, 15)]
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.6190476190476191}
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.6190476190476191}
+      PLAN goals=1 len=1 dest=[(5, 29), (5, 30)]
+T115 L1 fuel= 52 3 planned:0.8 @(10, 31)
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.5714285714285714}
+      PLAN goals=50 len=3 dest=[(15, 14), (15, 15)]
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.5714285714285714}
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.5714285714285714}
+      PLAN goals=1 len=1 dest=[(5, 24), (5, 25)]
+T116 L1 fuel= 48 3 planned:0.8 @(10, 26)
+  [117] (world) entity 22 changed shape
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.5238095238095238}
+      PLAN goals=50 len=2 dest=[(15, 14), (15, 15)]
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.5238095238095238}
+      VAL n=50 colors=[8, 9, 11] meter={11: 0.5238095238095238}
+      PLAN goals=1 len=1 dest=[(10, 14), (10, 15)]
+T117 L1 fuel= 44 2 planned:0.8 @(10, 21)
+  [118] (world) entity 22 changed shape
+      VAL n=16 colors=[11] meter={11: 0.47619047619047616}
+      PLAN goals=16 len=1 dest=[(15, 14), (15, 15)]
+      VAL n=16 colors=[11] meter={11: 0.47619047619047616}
+      VAL n=16 colors=[11] meter={11: 0.47619047619047616}
+      PLAN goals=1 len=2 dest=[(10, 14), (10, 15)]
+T118 L1 fuel= 40 3 planned:0.8 @(16, 21)
+  [119] (world) entity 50 changed to color 11
+      VAL n=42 colors=[8, 9, 11] meter={11: 1.0}
+      PLAN goals=42 len=5 dest=[(40, 14), (40, 15)]
+      VAL n=42 colors=[8, 9, 11] meter={11: 1.0}
+      VAL n=42 colors=[8, 9, 11] meter={11: 1.0}
+      PLAN goals=1 len=1 dest=[(15, 9), (15, 10)]
+T119 L1 fuel= 84 2 planned:0.8 @(16, 16)
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.9523809523809523}
+      PLAN goals=42 len=4 dest=[(40, 14), (40, 15)]
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.9523809523809523}
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.9523809523809523}
+      PLAN goals=1 len=1 dest=[(20, 9), (20, 10)]
+T120 L1 fuel= 80 2 planned:0.8 @(20, 16)
+  [121] (world) entity 45 changed shape
+  [121] (world) entity 54 changed shape
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.9047619047619048}
+      PLAN goals=42 len=3 dest=[(40, 14), (40, 15)]
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.9047619047619048}
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.9047619047619048}
+      PLAN goals=1 len=2 dest=[(20, 9), (20, 10)]
+T121 L1 fuel= 76 2 planned:0.8 @(26, 16)
+  [122] (world) entity 45 changed shape
+  [122] (world) entity 54 changed shape
+  [122] (world) I touched the color-11 thing and it vanished
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.8571428571428571}
+      PLAN goals=42 len=2 dest=[(40, 14), (40, 15)]
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.8571428571428571}
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.8571428571428571}
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e52 cells=[(32, 14), (32, 15), (32, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e52 cells=[(32, 14), (32, 15), (32, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e52 cells=[(32, 14), (32, 15), (32, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e52 cells=[(32, 14), (32, 15), (32, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 len=3 dest=[(20, 9), (20, 10)]
+T122 L1 fuel= 72 2 planned:0.8 @(30, 16)
+  [123] (world) entity 45 changed shape
+  [123] (world) entity 25 changed shape
+  [123] (world) entity 54 changed shape
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      PLAN goals=42 len=1 dest=[(40, 14), (40, 15)]
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e52 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e52 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e52 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e52 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e52 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e52 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+T123 L1 fuel= 68 2 planned:0.8 @(36, 16)
+  [124] (world) action 2 moved me (0, 0), expected (5, 0)
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      PLAN goals=42 len=22 dest=[(50, 39), (50, 40)]
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.8095238095238095}
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e52 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e52 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e52 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e52 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e52 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e52 cells=[(37, 14), (37, 15), (37, 16)].. n=15 inpool=False pass=True refused=False
+T124 L1 fuel= 68 1 planned:0.8 @(36, 16)
+  [125] (world) entity 45 changed shape
+  [125] (world) entity 54 changed shape
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.7619047619047619}
+      PLAN goals=42 len=21 dest=[(50, 39), (50, 40)]
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.7619047619047619}
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.7619047619047619}
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e52 cells=[(32, 14), (32, 15), (32, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e52 cells=[(32, 14), (32, 15), (32, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e52 cells=[(32, 14), (32, 15), (32, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 None
+        try color 3 n=1 -> None
+        e27 cells=[(41, 15), (41, 16), (41, 17)].. n=5 inpool=False pass=True refused=False
+        e29 cells=[(43, 17)].. n=1 inpool=False pass=True refused=False
+        e36 cells=[(55, 3), (55, 4), (55, 5)].. n=20 inpool=False pass=True refused=False
+        e37 cells=[(59, 3), (59, 4), (60, 3)].. n=4 inpool=False pass=True refused=False
+        e52 cells=[(32, 14), (32, 15), (32, 16)].. n=15 inpool=False pass=True refused=False
+      PLAN goals=1 len=3 dest=[(20, 9), (20, 10)]
+T125 L1 fuel= 64 1 planned:0.8 @(30, 16)
+  [126] (world) entity 45 changed shape
+  [126] (world) entity 54 changed shape
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.7142857142857143}
+      PLAN goals=42 len=20 dest=[(50, 39), (50, 40)]
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.7142857142857143}
+T126 L1 fuel= 60 1 planned:0.8 @(26, 16)
+  [127] (world) entity 45 changed shape
+  [127] (world) entity 54 changed shape
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.6666666666666666}
+      PLAN goals=42 len=19 dest=[(50, 39), (50, 40)]
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.6666666666666666}
+T127 L1 fuel= 56 4 planned:0.8 @(20, 16)
+  [128] (world) entity 54 changed shape
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.6190476190476191}
+      PLAN goals=42 len=18 dest=[(50, 39), (50, 40)]
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.6190476190476191}
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.6190476190476191}
+      PLAN goals=1 len=2 dest=[(20, 9), (20, 10)]
+T128 L1 fuel= 52 1 planned:0.8 @(20, 21)
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.5714285714285714}
+      PLAN goals=42 len=17 dest=[(50, 39), (50, 40)]
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.5714285714285714}
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.5714285714285714}
+      PLAN goals=1 len=2 dest=[(10, 14), (10, 15)]
+T129 L1 fuel= 48 1 planned:0.8 @(16, 21)
+  [130] (world) entity 22 changed shape
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.5238095238095238}
+      PLAN goals=42 len=16 dest=[(50, 39), (50, 40)]
+      VAL n=42 colors=[8, 9, 11] meter={11: 0.5238095238095238}
+T130 L1 fuel= 44 4 planned:0.8 @(10, 21)
+  [131] (world) entity 22 changed shape
+      VAL n=8 colors=[11] meter={11: 0.47619047619047616}
+      PLAN goals=8 len=15 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.47619047619047616}
+      VAL n=8 colors=[11] meter={11: 0.47619047619047616}
+      PLAN goals=1 len=1 dest=[(5, 24), (5, 25)]
+T131 L1 fuel= 40 4 planned:0.8 @(10, 26)
+      VAL n=8 colors=[11] meter={11: 0.42857142857142855}
+      PLAN goals=8 len=14 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.42857142857142855}
+      VAL n=8 colors=[11] meter={11: 0.42857142857142855}
+      PLAN goals=1 len=1 dest=[(5, 29), (5, 30)]
+T132 L1 fuel= 36 4 planned:0.8 @(10, 31)
+  [133] (world) entity 50 changed shape
+      VAL n=8 colors=[11] meter={11: 0.38095238095238093}
+      PLAN goals=8 len=13 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.38095238095238093}
+      VAL n=8 colors=[11] meter={11: 0.38095238095238093}
+      PLAN goals=1 len=1 dest=[(5, 34), (5, 35)]
+T133 L1 fuel= 32 4 planned:0.8 @(10, 36)
+  [134] (world) entity 50 changed shape
+      VAL n=8 colors=[11] meter={11: 0.3333333333333333}
+      PLAN goals=8 len=12 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.3333333333333333}
+      VAL n=8 colors=[11] meter={11: 0.3333333333333333}
+      PLAN goals=1 len=1 dest=[(5, 39), (5, 40)]
+T134 L1 fuel= 28 4 planned:0.8 @(10, 41)
+  [135] (world) entity 50 changed shape
+      VAL n=8 colors=[11] meter={11: 0.2857142857142857}
+      PLAN goals=8 len=11 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.2857142857142857}
+      VAL n=8 colors=[11] meter={11: 0.2857142857142857}
+      PLAN goals=1 len=1 dest=[(10, 49), (10, 50)]
+T135 L1 fuel= 24 2 planned:0.8 @(10, 46)
+  [136] (world) entity 50 changed shape
+      VAL n=8 colors=[11] meter={11: 0.23809523809523808}
+      PLAN goals=8 len=10 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.23809523809523808}
+      VAL n=8 colors=[11] meter={11: 0.23809523809523808}
+      PLAN goals=1 len=2 dest=[(10, 49), (10, 50)]
+T136 L1 fuel= 20 4 planned:0.8 @(16, 46)
+  [137] (world) entity 50 changed shape
+  [137] (world) entity 22 changed to color 3
+      VAL n=8 colors=[11] meter={11: 0.19047619047619047}
+      PLAN goals=8 len=9 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.19047619047619047}
+      VAL n=8 colors=[11] meter={11: 0.19047619047619047}
+      PLAN goals=1 len=1 dest=[(10, 49), (10, 50)]
+T137 L1 fuel= 16 2 planned:0.8 @(16, 51)
+  [138] (world) entity 50 changed shape
+      VAL n=8 colors=[11] meter={11: 0.14285714285714285}
+      PLAN goals=8 len=8 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.14285714285714285}
+      VAL n=8 colors=[11] meter={11: 0.14285714285714285}
+      PLAN goals=1 len=1 dest=[(20, 54), (20, 55)]
+T138 L1 fuel= 12 2 planned:0.8 @(20, 51)
+  [139] (world) entity 47 changed shape
+  [139] (world) entity 50 changed shape
+      VAL n=8 colors=[11] meter={11: 0.09523809523809523}
+      PLAN goals=8 len=7 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.09523809523809523}
+      VAL n=8 colors=[11] meter={11: 0.09523809523809523}
+      PLAN goals=1 len=1 dest=[(25, 54), (25, 55)]
+T139 L1 fuel=  8 2 planned:0.8 @(26, 51)
+  [140] (world) entity 50 changed shape
+      VAL n=8 colors=[11] meter={11: 0.047619047619047616}
+      PLAN goals=8 len=6 dest=[(50, 39), (50, 40)]
+      VAL n=8 colors=[11] meter={11: 0.047619047619047616}
+      VAL n=8 colors=[11] meter={11: 0.047619047619047616}
+      PLAN goals=1 len=2 dest=[(25, 54), (25, 55)]
+T140 L1 fuel=  4 2 planned:0.8 @(30, 51)
+      VAL n=42 colors=[8, 9, 11] meter={}
+      PLAN goals=42 len=5 dest=[(50, 39), (50, 40)]
+      VAL n=42 colors=[8, 9, 11] meter={}
+      VAL n=42 colors=[8, 9, 11] meter={}
+      PLAN goals=1 len=1 dest=[(40, 49), (40, 50)]
+T141 L1 fuel=  0 2 planned:0.8 @(36, 51)
+FINAL_STATE GAME_OVER
+SUMMARY I am the color-12 thing; 21 things around me; color-0 things nothing me; color-1 things nothing me; color-8 things can be collected; color-9 things win me; color-11 things can be collected — 69 places; 53 routes — 6 spatial skills
+SCORECARD closed={
+  "card_id": "49053de1-25ad-4679-89d1-5404cfc34682",
+  "score": 1.411078717201166,
+  "environments": [
+    {
+      "id": "ls20-9607627b",
+      "runs": [
+        {
+          "guid": "c450141b-fef8-4316-afef-30661a4c6771",
+          "score": 0.0,
+          "levels_completed": 0,
+          "actions": 0,
+          "resets": 0,
+          "state": "NOT_FINISHED",
+          "completed": false,
+          "level_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "level_actions": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "level_baseline_actions": [
+            22,
+            123,
+            73,
+            84,
+            96,
+            192,
+            186
+          ]
+        },
+        {
+          "guid": "c450141b-fef8-4316-afef-30661a4c6771",
+          "score": 1.411078717201166,
+          "levels_completed": 1,
+          "actions": 141,
+          "resets": 0,
+          "state": "GAME_OVER",
+          "completed": false,
+          "level_scores": [
+            39.51020408163265,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "level_actions": [
+            35,
+            106,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "level_baseline_actions": [
+            22,
+            123,
+            73,
+            84,
+            96,
+            192,
+            186
+          ]
+        }
+      ],
+      "score": 1.411078717201166,
+      "actions": 141,
+      "levels_completed": 1,
+      "completed": false,
+      "level_count": 7,
+      "resets": 0
+    }
+  ],
+  "tags_scores": [
+    {
+      "id": "keyboard",
+      "score": 1.411078717201166,
+      "levels_completed": 1,
+      "actions": 141,
+      "number_of_levels": 7,
+      "number_of_environments": 1
+    }
+  ],
+  "total_environments_completed": 0,
+  "total_environments": 1,
+  "total_levels_completed": 1,
+  "total_levels": 7,
+  "total_actions": 141
+} id=49053de1-25ad-4679-89d1-5404cfc34682
+RUN_DIR /home/mindy/.local/share/genesis/arc_eval/runs/20261013T194145Z-ls20

@@ -1,0 +1,429 @@
+  [  0] (learning) offline — pausing acquisition, consolidating
+  [  1] (play) opening ls20
+  [  1] (world) an unfamiliar place
+T  1 L0 fuel= 84 4 reembody:0.95 @None | opening ls20
+T  2 L0 fuel= 82 3 reembody:0.95 @None
+  [  3] (world) I am the color-12 thing
+  [  3] (event/self_found) I am the color-12 thing
+T  3 L0 fuel= 80 4 calibrate:1.0 @(46, 36)
+  [  4] (world) the color-9 thing is part of me
+T  4 L0 fuel= 78 2 calibrate:0.9249999999999999 @(46, 41)
+T  5 L0 fuel= 76 1 calibrate:0.9249999999999999 @(46, 41)
+T  6 L0 fuel= 74 3 calibrate:0.9249999999999999 @(40, 41)
+T  7 L0 fuel= 72 2 calibrate:0.85 @(40, 36)
+T  8 L0 fuel= 70 1 calibrate:0.7749999999999999 @(46, 36)
+T  9 L0 fuel= 68 1 intention:0.6 @(40, 36)
+T 10 L0 fuel= 66 1 intention:0.6 @(36, 36)
+T 11 L0 fuel= 64 1 intention:0.6 @(30, 36)
+T 12 L0 fuel= 62 1 intention:0.6 @(26, 36)
+  [ 13] (world) entity 20 changed shape
+T 13 L0 fuel= 60 1 intention:0.6 @(20, 36)
+  [ 14] (world) entity 20 changed shape
+  [ 14] (world) entity 3 changed shape
+T 14 L0 fuel= 58 1 probe:0.5 @(16, 36)
+  [ 15] (world) action 1 moved me (0, 0), expected (-5, 0)
+  [ 15] (world) the color-9 thing blocked me
+  [ 15] (world) the color-9 thing blocked me
+  [ 15] (event/blocked) the color-9 thing blocked me
+  [ 15] (event/blocked) the color-9 thing blocked me
+T 15 L0 fuel= 58 2 probe:0.5 @(16, 36)
+  [ 16] (world) entity 20 changed shape
+T 16 L0 fuel= 56 2 probe:0.5 @(20, 36)
+  [ 17] (world) entity 20 changed shape
+T 17 L0 fuel= 54 3 probe:0.5 @(26, 36)
+T 18 L0 fuel= 52 3 intention:0.6 @(26, 31)
+T 19 L0 fuel= 50 2 intention:0.6 @(26, 26)
+T 20 L0 fuel= 48 3 intention:0.6 @(30, 26)
+  [ 21] (world) entity 12 changed shape
+T 21 L0 fuel= 48 1 reprobe:0.55 @(30, 21)
+T 22 L0 fuel= 46 4 reprobe:0.55 @(26, 21)
+T 23 L0 fuel= 44 4 reprobe:0.55 @(26, 26)
+T 24 L0 fuel= 42 4 reprobe:0.55 @(26, 31)
+T 25 L0 fuel= 40 1 reprobe:0.55 @(26, 36)
+  [ 26] (world) entity 20 changed shape
+T 26 L0 fuel= 38 1 reprobe:0.55 @(20, 36)
+  [ 27] (world) entity 20 changed shape
+  [ 27] (world) entity 3 changed shape
+T 27 L0 fuel= 36 1 reprobe:0.55 @(16, 36)
+  [ 28] (play) something worked there
+  [ 28] (world) the color-9 thing is the goal
+  [ 28] (world) the level was won
+  [ 28] (event/win) the color-9 thing is the goal
+  [ 28] (event/win) the level was won
+T 28 L1 fuel= 84 1 reembody:0.95 @None | something worked there
+T 29 L1 fuel= 80 2 reembody:0.95 @None
+  [ 30] (world) entity 43 changed shape
+  [ 30] (world) I am the color-12 thing
+  [ 30] (world) acting at (37,29) changed 24 cells
+  [ 30] (event/self_found) I am the color-12 thing
+T 30 L1 fuel= 76 4 planned:0.8 @(40, 31)
+  [ 31] (world) entity 43 changed shape
+  [ 31] (world) the color-9 thing is part of me
+T 31 L1 fuel= 72 1 planned:0.8 @(40, 36)
+  [ 32] (world) entity 43 changed shape
+T 32 L1 fuel= 68 1 planned:0.8 @(36, 36)
+  [ 33] (world) entity 44 changed shape
+  [ 33] (world) entity 43 changed shape
+T 33 L1 fuel= 64 1 planned:0.8 @(30, 36)
+  [ 34] (world) entity 44 changed shape
+  [ 34] (world) entity 43 changed shape
+T 34 L1 fuel= 60 1 planned:0.8 @(26, 36)
+  [ 35] (world) entity 43 changed shape
+T 35 L1 fuel= 56 3 planned:0.8 @(20, 36)
+  [ 36] (world) entity 22 changed shape
+  [ 36] (world) entity 43 changed shape
+T 36 L1 fuel= 52 1 planned:0.8 @(20, 31)
+T 37 L1 fuel= 48 1 planned:0.8 @(16, 31)
+T 38 L1 fuel= 44 3 intention:0.6 @(10, 31)
+  [ 39] (thought) insight: novel connection goal and world
+  [ 39] (thought) composed: mind might relate to identity (currently connected only through cognition)
+  [ 39] (thought) Game contains goal, it is one part of world, and it is related to play.
+T 39 L1 fuel= 40 3 intention:0.6 @(10, 26)
+  [ 40] (world) entity 22 changed shape
+T 40 L1 fuel= 36 2 intention:0.6 @(10, 21)
+  [ 41] (world) entity 22 changed shape
+  [ 41] (world) entity 39 changed shape
+T 41 L1 fuel= 32 2 intention:0.6 @(16, 21)
+  [ 42] (world) entity 39 changed shape
+T 42 L1 fuel= 28 3 intention:0.6 @(20, 21)
+  [ 43] (world) entity 39 changed shape
+T 43 L1 fuel= 24 1 intention:0.6 @(20, 16)
+  [ 44] (world) entity 43 changed to color 11
+T 44 L1 fuel= 84 1 intention:0.6 @(16, 16)
+T 45 L1 fuel= 80 3 intention:0.6 @(10, 16)
+  [ 46] (world) entity 46 changed shape
+T 46 L1 fuel= 76 2 intention:0.6 @(10, 11)
+  [ 47] (world) entity 46 changed shape
+  [ 47] (world) I touched the color-11 thing and it vanished
+T 47 L1 fuel= 72 2 intention:0.6 @(16, 11)
+  [ 48] (world) entity 46 changed shape
+T 48 L1 fuel= 68 4 intention:0.6 @(20, 11)
+  [ 49] (world) entity 46 changed shape
+T 49 L1 fuel= 64 2 intention:0.6 @(20, 16)
+  [ 50] (world) entity 45 changed shape
+  [ 50] (world) entity 46 changed shape
+T 50 L1 fuel= 60 2 intention:0.6 @(26, 16)
+  [ 51] (world) entity 45 changed shape
+  [ 51] (world) entity 46 changed shape
+T 51 L1 fuel= 56 2 intention:0.6 @(30, 16)
+  [ 52] (world) entity 45 changed shape
+  [ 52] (world) entity 25 changed shape
+  [ 52] (world) entity 46 changed shape
+T 52 L1 fuel= 52 1 reprobe:0.55 @(36, 16)
+  [ 53] (world) entity 45 changed shape
+T 53 L1 fuel= 48 1 reprobe:0.55 @(30, 16)
+  [ 54] (world) entity 45 changed shape
+T 54 L1 fuel= 44 1 reprobe:0.55 @(26, 16)
+  [ 55] (world) entity 45 changed shape
+T 55 L1 fuel= 40 1 intention:0.6 @(20, 16)
+T 56 L1 fuel= 36 1 intention:0.6 @(16, 16)
+  [ 57] (world) entity 43 changed shape
+T 57 L1 fuel= 32 4 intention:0.6 @(10, 16)
+  [ 58] (world) entity 22 changed shape
+  [ 58] (world) entity 43 changed shape
+T 58 L1 fuel= 28 1 intention:0.6 @(10, 21)
+  [ 59] (world) entity 22 changed shape
+  [ 59] (world) entity 43 changed shape
+T 59 L1 fuel= 24 4 intention:0.6 @(6, 21)
+  [ 60] (world) entity 43 changed shape
+T 60 L1 fuel= 20 4 intention:0.6 @(6, 26)
+  [ 61] (world) entity 43 changed shape
+T 61 L1 fuel= 16 4 intention:0.6 @(6, 31)
+  [ 62] (world) entity 43 changed shape
+T 62 L1 fuel= 12 2 intention:0.6 @(6, 36)
+  [ 63] (world) entity 43 changed shape
+T 63 L1 fuel=  8 2 intention:0.6 @(10, 36)
+  [ 64] (world) entity 43 changed shape
+T 64 L1 fuel=  4 1 intention:0.6 @(16, 36)
+T 65 L1 fuel=  0 4 intention:0.6 @(10, 36)
+  [ 66] (world) action 4 moved me (-5, 0), expected (0, 5)
+  [ 66] (world) entity 46 changed to color 11
+  [ 66] (world) entity 42 changed to color 3
+  [ 66] (world) the color-11 reserve was empty when the world ended
+  [ 66] (event/depleted) the color-11 reserve was empty when the world ended
+T 66 L1 fuel= 84 2 reembody:0.95 @None
+T 67 L1 fuel= 80 4 reembody:0.95 @None
+  [ 68] (world) entity 50 changed shape
+  [ 68] (world) acting at (42,30) changed 25 cells
+T 68 L1 fuel= 76 3 reembody:0.95 @None
+  [ 69] (world) entity 50 changed shape
+  [ 69] (world) I am the color-12 thing
+  [ 69] (world) acting at (44,34) changed 28 cells
+  [ 69] (event/self_found) I am the color-12 thing
+T 69 L1 fuel= 72 4 planned:0.8 @(40, 31)
+  [ 70] (world) entity 50 changed shape
+  [ 70] (world) the color-9 thing is part of me
+T 70 L1 fuel= 68 1 planned:0.8 @(40, 36)
+  [ 71] (world) entity 50 changed shape
+T 71 L1 fuel= 64 1 planned:0.8 @(36, 36)
+  [ 72] (world) entity 44 changed shape
+  [ 72] (world) entity 50 changed shape
+T 72 L1 fuel= 60 1 planned:0.8 @(30, 36)
+  [ 73] (world) entity 44 changed shape
+  [ 73] (world) entity 50 changed shape
+T 73 L1 fuel= 56 1 planned:0.8 @(26, 36)
+  [ 74] (world) entity 50 changed shape
+T 74 L1 fuel= 52 3 planned:0.8 @(20, 36)
+  [ 75] (world) entity 22 changed shape
+T 75 L1 fuel= 48 1 planned:0.8 @(20, 31)
+T 76 L1 fuel= 44 1 planned:0.8 @(16, 31)
+T 77 L1 fuel= 40 3 planned:0.8 @(10, 31)
+T 78 L1 fuel= 36 3 planned:0.8 @(10, 26)
+  [ 79] (world) entity 22 changed shape
+  [ 79] (world) entity 46 changed shape
+T 79 L1 fuel= 32 2 planned:0.8 @(10, 21)
+  [ 80] (world) entity 22 changed shape
+  [ 80] (world) entity 46 changed shape
+T 80 L1 fuel= 28 3 planned:0.8 @(16, 21)
+  [ 81] (world) entity 46 changed to color 11
+T 81 L1 fuel= 84 2 planned:0.8 @(16, 16)
+T 82 L1 fuel= 80 2 planned:0.8 @(20, 16)
+  [ 83] (world) entity 45 changed shape
+  [ 83] (world) entity 50 changed shape
+T 83 L1 fuel= 76 2 planned:0.8 @(26, 16)
+  [ 84] (world) entity 45 changed shape
+  [ 84] (world) entity 50 changed shape
+  [ 84] (world) I touched the color-11 thing and it vanished
+T 84 L1 fuel= 72 2 planned:0.8 @(30, 16)
+  [ 85] (world) entity 45 changed shape
+  [ 85] (world) entity 25 changed shape
+  [ 85] (world) entity 50 changed shape
+T 85 L1 fuel= 68 2 planned:0.8 @(36, 16)
+  [ 85] (thought) World contains game.
+  [ 86] (world) action 2 moved me (0, 0), expected (5, 0)
+T 86 L1 fuel= 68 2 planned:0.8 @(36, 16)
+  [ 87] (world) action 2 moved me (0, 0), expected (5, 0)
+T 87 L1 fuel= 68 1 planned:0.8 @(36, 16)
+  [ 88] (world) entity 45 changed shape
+  [ 88] (world) entity 50 changed shape
+T 88 L1 fuel= 64 1 planned:0.8 @(30, 16)
+  [ 89] (world) entity 45 changed shape
+  [ 89] (world) entity 50 changed shape
+  [ 89] (thought:1) From what I've learned, world is part of the game. It also relates to science and reality.
+T 89 L1 fuel= 60 1 planned:0.8 @(26, 16)
+  [ 90] (world) entity 45 changed shape
+  [ 90] (world) entity 50 changed shape
+T 90 L1 fuel= 56 4 planned:0.8 @(20, 16)
+  [ 91] (world) entity 50 changed shape
+T 91 L1 fuel= 52 1 planned:0.8 @(20, 21)
+T 92 L1 fuel= 48 1 planned:0.8 @(16, 21)
+  [ 93] (thought:2) As far as I understand, world is one part of the game. It also relates to science and reality.
+  [ 93] (world) entity 22 changed shape
+T 93 L1 fuel= 44 4 planned:0.8 @(10, 21)
+  [ 94] (world) entity 22 changed shape
+T 94 L1 fuel= 40 4 intention:0.6 @(10, 26)
+T 95 L1 fuel= 36 4 intention:0.6 @(10, 31)
+  [ 96] (world) entity 46 changed shape
+T 96 L1 fuel= 32 4 intention:0.6 @(10, 36)
+  [ 97] (world) entity 46 changed shape
+T 97 L1 fuel= 28 1 intention:0.6 @(10, 41)
+  [ 98] (world) entity 46 changed shape
+T 98 L1 fuel= 24 4 intention:0.6 @(6, 41)
+  [ 99] (world) entity 46 changed shape
+T 99 L1 fuel= 20 2 intention:0.6 @(6, 46)
+  [100] (world) entity 46 changed shape
+T100 L1 fuel= 16 2 intention:0.6 @(10, 46)
+  [101] (world) entity 46 changed shape
+T101 L1 fuel= 12 4 intention:0.6 @(16, 46)
+  [102] (world) entity 46 changed shape
+  [102] (world) entity 22 changed to color 3
+T102 L1 fuel=  8 1 intention:0.6 @(16, 51)
+  [103] (world) entity 46 changed shape
+  [103] (world) entity 22 changed to color 3
+T103 L1 fuel=  4 1 intention:0.6 @(10, 51)
+T104 L1 fuel=  0 2 intention:0.6 @(6, 51)
+  [105] (world) action 2 moved me (-5, 0), expected (5, 0)
+  [105] (world) entity 50 changed to color 11
+  [105] (world) the color-11 reserve was empty when the world ended
+  [105] (event/depleted) the color-11 reserve was empty when the world ended
+T105 L1 fuel= 84 3 reembody:0.95 @None
+T106 L1 fuel= 80 1 reembody:0.95 @None
+  [107] (world) entity 55 changed shape
+  [107] (world) acting at (42,30) changed 30 cells
+T107 L1 fuel= 76 4 reembody:0.95 @None
+  [108] (world) entity 55 changed shape
+  [108] (world) I touched the color-8 thing and it vanished
+  [108] (world) I am the color-12 thing
+  [108] (world) acting at (37,33) changed 35 cells
+  [108] (event/self_found) I am the color-12 thing
+T108 L1 fuel= 72 1 planned:0.8 @(36, 36)
+  [109] (world) entity 44 changed shape
+  [109] (world) entity 55 changed shape
+  [109] (world) the color-9 thing is part of me
+T109 L1 fuel= 68 1 planned:0.8 @(30, 36)
+  [110] (world) entity 44 changed shape
+  [110] (world) entity 55 changed shape
+T110 L1 fuel= 64 1 planned:0.8 @(26, 36)
+  [111] (world) entity 55 changed shape
+T111 L1 fuel= 60 3 planned:0.8 @(20, 36)
+  [112] (world) entity 22 changed shape
+  [112] (world) entity 55 changed shape
+T112 L1 fuel= 56 1 planned:0.8 @(20, 31)
+  [113] (world) entity 55 changed shape
+T113 L1 fuel= 52 1 planned:0.8 @(16, 31)
+T114 L1 fuel= 48 3 planned:0.8 @(10, 31)
+T115 L1 fuel= 44 3 planned:0.8 @(10, 26)
+  [116] (world) entity 22 changed shape
+T116 L1 fuel= 40 2 planned:0.8 @(10, 21)
+  [117] (world) entity 22 changed shape
+T117 L1 fuel= 36 3 planned:0.8 @(16, 21)
+  [118] (world) entity 50 changed to color 11
+T118 L1 fuel= 84 2 planned:0.8 @(16, 16)
+T119 L1 fuel= 80 2 planned:0.8 @(20, 16)
+  [120] (world) entity 45 changed shape
+  [120] (world) entity 55 changed shape
+T120 L1 fuel= 76 2 planned:0.8 @(26, 16)
+  [121] (world) entity 45 changed shape
+  [121] (world) entity 55 changed shape
+  [121] (world) I touched the color-11 thing and it vanished
+T121 L1 fuel= 72 2 planned:0.8 @(30, 16)
+  [122] (world) entity 45 changed shape
+  [122] (world) entity 25 changed shape
+  [122] (world) entity 55 changed shape
+T122 L1 fuel= 68 2 planned:0.8 @(36, 16)
+  [123] (world) action 2 moved me (0, 0), expected (5, 0)
+T123 L1 fuel= 68 1 planned:0.8 @(36, 16)
+  [124] (world) entity 45 changed shape
+  [124] (world) entity 55 changed shape
+T124 L1 fuel= 64 1 planned:0.8 @(30, 16)
+  [125] (world) entity 45 changed shape
+  [125] (world) entity 55 changed shape
+T125 L1 fuel= 60 1 planned:0.8 @(26, 16)
+  [126] (world) entity 45 changed shape
+  [126] (world) entity 55 changed shape
+T126 L1 fuel= 56 4 planned:0.8 @(20, 16)
+  [127] (world) entity 55 changed shape
+T127 L1 fuel= 52 1 planned:0.8 @(20, 21)
+T128 L1 fuel= 48 1 planned:0.8 @(16, 21)
+  [129] (world) entity 22 changed shape
+T129 L1 fuel= 44 4 planned:0.8 @(10, 21)
+  [130] (world) entity 22 changed shape
+T130 L1 fuel= 40 4 intention:0.6 @(10, 26)
+T131 L1 fuel= 36 2 intention:0.6 @(10, 31)
+  [132] (world) entity 50 changed shape
+T132 L1 fuel= 32 2 intention:0.6 @(16, 31)
+  [133] (world) entity 50 changed shape
+T133 L1 fuel= 28 4 intention:0.6 @(20, 31)
+  [134] (world) entity 22 changed shape
+  [134] (world) entity 50 changed shape
+T134 L1 fuel= 24 2 intention:0.6 @(20, 36)
+  [135] (world) entity 50 changed shape
+T135 L1 fuel= 20 4 intention:0.6 @(26, 36)
+  [136] (world) entity 50 changed shape
+T136 L1 fuel= 16 2 intention:0.6 @(26, 41)
+  [137] (world) entity 50 changed shape
+T137 L1 fuel= 12 3 intention:0.6 @(30, 41)
+  [138] (world) entity 50 changed shape
+T138 L1 fuel=  8 2 intention:0.6 @(30, 36)
+  [139] (world) entity 44 changed shape
+  [139] (world) entity 50 changed shape
+T139 L1 fuel=  4 1 reprobe:0.55 @(36, 36)
+  [140] (world) entity 44 changed shape
+T140 L1 fuel=  0 1 reprobe:0.55 @(30, 36)
+FINAL_STATE GAME_OVER
+SUMMARY I am the color-12 thing; 21 things around me; color-0 things nothing me; color-1 things nothing me; color-8 things can be collected; color-9 things block me; color-11 things can be collected — 75 places; 75 routes — 6 spatial skills
+SCORECARD closed={
+  "card_id": "b7f6afa3-0503-4f8c-a5a0-da025cbb395e",
+  "score": 2.3711542230060743,
+  "environments": [
+    {
+      "id": "ls20-9607627b",
+      "runs": [
+        {
+          "guid": "8bba53cd-3fff-4393-af22-2f0ff8d38988",
+          "score": 0.0,
+          "levels_completed": 0,
+          "actions": 0,
+          "resets": 0,
+          "state": "NOT_FINISHED",
+          "completed": false,
+          "level_scores": [
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "level_actions": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "level_baseline_actions": [
+            22,
+            123,
+            73,
+            84,
+            96,
+            192,
+            186
+          ]
+        },
+        {
+          "guid": "8bba53cd-3fff-4393-af22-2f0ff8d38988",
+          "score": 2.3711542230060743,
+          "levels_completed": 1,
+          "actions": 140,
+          "resets": 0,
+          "state": "GAME_OVER",
+          "completed": false,
+          "level_scores": [
+            66.39231824417008,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0,
+            0.0
+          ],
+          "level_actions": [
+            27,
+            113,
+            0,
+            0,
+            0,
+            0,
+            0
+          ],
+          "level_baseline_actions": [
+            22,
+            123,
+            73,
+            84,
+            96,
+            192,
+            186
+          ]
+        }
+      ],
+      "score": 2.3711542230060743,
+      "actions": 140,
+      "levels_completed": 1,
+      "completed": false,
+      "level_count": 7,
+      "resets": 0
+    }
+  ],
+  "tags_scores": [
+    {
+      "id": "keyboard",
+      "score": 2.3711542230060743,
+      "levels_completed": 1,
+      "actions": 140,
+      "number_of_levels": 7,
+      "number_of_environments": 1
+    }
+  ],
+  "total_environments_completed": 0,
+  "total_environments": 1,
+  "total_levels_completed": 1,
+  "total_levels": 7,
+  "total_actions": 140
+} id=b7f6afa3-0503-4f8c-a5a0-da025cbb395e
+RUN_DIR /home/mindy/.local/share/genesis/arc_eval/runs/20261013T172117Z-ls20

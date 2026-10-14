@@ -1,0 +1,30 @@
+timestamp_utc	game	steps	levels_completed	win_levels	final_state	scorecard_id	git	artifact
+2026-09-24T23:50:25	bt11-fd9df0622a1a	127	5	5	WIN	0e62d817-13e2-437d-89b6-b2ca7463a10b		committed recording
+2026-09-24T23:44:47	bt11-fd9df0622a1a	1	0	5	NOT_FINISHED	c90a38d4-f64d-41c6-bde3-07ff7f624606		committed recording
+2026-09-24T23:14:45	bt11-fd9df0622a1a	88	5	5	WIN	cf7fc144-961b-46c2-80da-497b4df54163		committed recording
+2026-09-24T23:41:40	bt11-fd9df0622a1a	1	0	5	NOT_FINISHED	def9c811-a12a-48bc-8975-ac9997d00597		committed recording
+2026-09-24T23:02:30	bt11-fd9df0622a1a	802	1	5	GAME_OVER	fe69373a-1a5a-483b-87cd-89bd910d98c4		committed recording
+2026-10-12T01:24:01	ls20-9607627b	203	0	7	NOT_FINISHED	2fb591a2-751b-4096-bb5b-6e17e0bcfe0e		committed recording
+2026-10-12T01:14:35	ls20-9607627b	7	0	7	NOT_FINISHED	884e427c-7925-4dff-a7d1-7ef1ef7bedec		committed recording
+2026-10-12T01:20:36	ls20-9607627b	7	0	7	NOT_FINISHED	c4c0ce6d-4ceb-4d29-a6b0-9be49e48cc37		committed recording
+2026-10-12T01:33:10	ls20-9607627b	78	0	7	NOT_FINISHED	e1900128-c48f-495a-a82d-11252aee975a		committed recording
+2026-10-13T17:21:21	ls20-9607627b	142	1	7	GAME_OVER	b7f6afa3-0503-4f8c-a5a0-da025cbb395e		committed run dir
+2026-10-13T18:21:12	ls20-9607627b	135	0	7	GAME_OVER	54a2d74e-e17b-4515-8cc5-ebcde4181cc7		committed run dir
+2026-10-13T18:46:16	ls20-9607627b	62	1	7	NOT_FINISHED	6ad76245-8e53-4d94-b9e8-e14f0dc25585		committed run dir
+2026-10-13T19:41:51	ls20-9607627b	143	1	7	GAME_OVER	49053de1-25ad-4679-89d1-5404cfc34682		committed run dir
+2026-10-13T17:30:42	ls20	136	1	7	GAME_OVER	50ad3304-52a4-4f2e-852d-e32988386900	af13cf8-dirty	not committed (replayable locally)
+2026-10-13T17:41:14	ls20	141	1	7	GAME_OVER	a85406c0-5d15-4968-a988-7f713af0b042	af13cf8-dirty	not committed (replayable locally)
+2026-10-13T18:06:57	ls20-9607627b	136	1	7	GAME_OVER	3f41c6ed-7eff-44cc-8965-517d165454ac	af13cf8-dirty	not committed (replayable locally)
+2026-10-13T18:10:43	ls20-9607627b	142	1	7	GAME_OVER	8240fb6b-4794-4bb2-a18b-99811b1f8a21	af13cf8-dirty	not committed (replayable locally)
+2026-10-13T18:17:17	ls20-9607627b	120	0	7	NOT_FINISHED	da2effbb-e391-4d0a-8110-209863dba4d5	af13cf8-dirty	not committed (replayable locally)
+2026-10-13T18:26:49	ls20-9607627b	60	0	7	NOT_FINISHED	0e17313a-c812-4ade-b0ae-b458b7775c0c	af13cf8-dirty	not committed (replayable locally)
+2026-10-13T18:29:02	ls20-9607627b	40	0	7	NOT_FINISHED	48acfb61-b513-4a48-b77e-001bde1d14f5	af13cf8-dirty	not committed (replayable locally)
+2026-10-13T18:30:18	ls20-9607627b	30	0	7	NOT_FINISHED	6337e295-729b-4c50-a54e-51fb49b2208b	af13cf8-dirty	not committed (replayable locally)
+2026-10-13T18:41:32	ls20-9607627b	1	0	7	NOT_FINISHED	308c4e53-6660-48cd-90b8-ae4864d1213f	af13cf8-dirty	not committed (replayable locally)
+2026-10-13T18:44:56	ls20-9607627b	1	0	7	NOT_FINISHED	aa7d24bc-3e52-4a9a-9ba2-7368706da9a5	af13cf8-dirty	not committed (replayable locally)
+2026-10-13T18:49:55	ls20-9607627b	30	0	7	NOT_FINISHED	ec7b2644-8dfd-4593-8dd5-fd23b322722f	af13cf8-dirty	not committed (replayable locally)
+2026-10-13T18:56:42	ls20-9607627b	15	0	7	NOT_FINISHED	248ac9e0-4f2f-486d-a031-ae8475ab7f24	af13cf8-dirty	not committed (replayable locally)
+2026-10-13T19:04:47	ls20-9607627b	145	1	7	GAME_OVER	70f57981-db6e-4fc2-ae0d-6e7c0eb623d6	af13cf8-dirty	not committed (replayable locally)
+2026-10-13T19:15:51	ls20-9607627b	149	1	7	GAME_OVER	1346688e-379d-4858-8ef7-e33535d0e5e5	af13cf8-dirty	not committed (replayable locally)
+2026-10-13T19:27:53	ls20-9607627b	149	1	7	GAME_OVER	389a993b-7d7b-44bf-bd97-1b9d108b7c3a	af13cf8-dirty	not committed (replayable locally)
+2026-09-24T~22:0x	ar25-0c556536	7620	1	?	NOT_FINISHED	3291e212-d8f3-481b-b629-f3d40c0af776		not committed (96 MB); telemetry in eval_arc_worldplay_20260924/
