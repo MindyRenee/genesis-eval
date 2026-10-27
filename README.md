@@ -1,9 +1,7 @@
 # genesis-eval
 
 The external measurement rig for
-[Genesis](https://github.com/MindyRenee/Genesis) — nothing here ships
-with her. The suite exists to separate *what works* from *what we claim
-works*; a failed probe is a documented gap, not a hidden one.
+[Genesis](https://github.com/MindyRenee/Genesis)
 
 ## Layout
 
